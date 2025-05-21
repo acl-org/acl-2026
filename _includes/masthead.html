@@ -13,13 +13,28 @@
         </a>
         <ul class="visible-links">
           {%- for link in site.data.navigation.main -%}
-            <li class="masthead__menu-item">
-              <a
-                href="{{ link.url | relative_url }}"
-                {% if link.description %} title="{{ link.description }}"{% endif %}
-                {% if link.target %} target="{{ link.target }}"{% endif %}
-              >{{ link.title }}</a>
-            </li>
+            {%- if link.url contains '://' -%}
+              {%- assign url = link.url -%}
+            {%- else -%}
+              {%- assign url = link.url | relative_url -%}
+            {%- endif -%}
+            {%- if link.title contains 'Blog' or link.title contains 'Visa' or link.title contains 'Registration' or link.title contains 'Proceedings' or link.title contains 'Program' or link.title contains 'Committees' or link.title contains 'Venue' or link.title contains 'Volunteers' or link.title contains 'FAQ' or link.title contains 'Calls' or link.title contains 'Ethics' or  link.title contains 'Participants Info' or link.title contains 'Sponsors' or link.title contains 'Contact'-%}
+              <li class="masthead__menu-item">
+                <a
+                  href="{{ url }}"
+                  {% if link.description %} title="{{ link.description }}"{% endif %}
+                  {% if link.target %} target="{{ link.target }}"{% endif %}
+                >{{ link.title }}</a>
+              </li>
+            {%- else -%}
+              <li class="masthead__menu-item">
+                <a
+                  href="{{ url }}"
+                  {% if link.description %} title="{{ link.description }}"{% endif %}
+                  {% if link.target %} target="{{ link.target }}"{% endif %}
+                ><span style="color:#999999;">{{ link.title }}</span></a>
+              </li>
+            {%- endif -%}
           {%- endfor -%}
         </ul>
         {% if site.search == true %}
@@ -37,3 +52,9 @@
     </div>
   </div>
 </div>
+
+
+
+
+
+
