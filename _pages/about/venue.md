@@ -30,7 +30,7 @@ San Diego, CA 92101\
 
 Explore Southern California’s vibrant culture and natural beauty from our waterfront hotel in downtown San Diego. Unwind in spacious hotel rooms and family suites featuring stunning views and appointed with upscale amenities. Located steps from the city’s top attractions, like Petco Park and the San Diego Convention Center, our guests enjoy easy access to all things San Diego, including the region’s best beaches, the local restaurant scene, Seaport Village and various entertainment venues.
 
-[Discount booking link here](https://www.hyatt.com/en-US/group-booking/SANRS/G-EM26). Cutoff date: Monday, June 8, 2026.
+[**Discount booking link here**](https://www.hyatt.com/en-US/group-booking/SANRS/G-EM26). Cutoff date: Monday, June 8, 2026.
 
 Additional accommodation options TBA.
 
