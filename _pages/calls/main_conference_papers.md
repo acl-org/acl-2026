@@ -9,4 +9,6 @@ toc: True
 toc_sticky: True
 ---
 
-Coming soon!
+ACL 2026 will use the ARR January cycle. 
+
+More information coming soon!
