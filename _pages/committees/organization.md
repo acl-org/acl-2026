@@ -420,13 +420,14 @@ sidebar:
 %}
 
 <h2>Visa Chairs</h2>
+Contact: acl-2026-visa-chairs@googlegroups.com
 
 {% include committee-member.html
     name="David Chiang"
     picture="/assets/images/committee/David_Chiang.png"
     site=""
     institution="University of Notre Dame"
-    email = "dchiang@nd.edu"
+    email = "acl-2026-visa-chairs@googlegroups.com"
 %}
 
 {% include committee-member.html
@@ -434,5 +435,5 @@ sidebar:
     picture="/assets/images/committee/Swabha_Swayamdipta.jpg"
     site=""
     institution="University of Southern California"
-    email = "swabhas@usc.edu"
+    email = "acl-2026-visa-chairs@googlegroups.com"
 %}
