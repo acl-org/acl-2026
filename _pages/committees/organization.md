@@ -328,7 +328,7 @@ sidebar:
     picture="/assets/images/committee/Shuoyang_Ding.jpg"
     site=""
     institution="NVIDIA"
-    email = "shuoyangd@nvidia.com"
+    email = "me@sding.org"
 %}
 
 {% include committee-member.html
