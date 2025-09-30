@@ -19,14 +19,6 @@ sidebar:
 <h2>Program Chairs</h2>
 
 {% include committee-member.html
-    name="Luciana Benotti"
-    picture="/assets/images/committee/Luciana_Benotti.webp"
-    site=""
-    institution="Ciudad Universitaria, Argentina"
-    email = "luciana.benotti@unc.edu.ar"
-%}
-
-{% include committee-member.html
     name="Maria Liakata"
     picture="/assets/images/committee/Maria_Liakata.jpg"
     site=""
