@@ -17,13 +17,14 @@ sidebar:
 %}
 
 <h2>Program Chairs</h2>
+Contact: acl2026pcs@gmail.com
 
 {% include committee-member.html
     name="Maria Liakata"
     picture="/assets/images/committee/Maria_Liakata.jpg"
     site=""
     institution="Queen Mary University of London"
-    email = "m.liakata@qmul.ac.uk"
+    email = "acl2026pcs@gmail.com"
 %}
 
 {% include committee-member.html
@@ -31,14 +32,23 @@ sidebar:
     picture="/assets/images/committee/Viviane_Moreira.avif"
     site=""
     institution="Institute of Informatics at UFRGS, Brasil"
-    email = "viviane@inf.ufrgs.br"
+    email = "acl2026pcs@gmail.com"
 %}
 
 {% include committee-member.html
     name="Jiajun Zhang"
     picture="/assets/images/committee/Jiajun_Zhang.jpg"
+    site=""
     institution="Chinese Academy of Sciences"
-    email = "jjzhang@nlpr.ia.ac.cn"
+    email = "acl2026pcs@gmail.com"
+%}
+
+{% include committee-member.html
+    name="David Jurgens"
+    picture="/assets/images/committee/David_Jurgens.jpeg"
+    site=""
+    institution="University of Michigan"
+    email = "acl2026pcs@gmail.com"
 %}
 
 <h2>Workshop Chairs</h2>
