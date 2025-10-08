@@ -17,7 +17,7 @@ sidebar:
 %}
 
 <h2>Program Chairs</h2>
-Contact: acl2026pcs@gmail.com
+Contact: [acl2026pcs@gmail.com](mailto:acl2026pcs@gmail.com)
 
 {% include committee-member.html
     name="Maria Liakata"
@@ -422,7 +422,7 @@ Contact: acl2026pcs@gmail.com
 %}
 
 <h2>Visa Chairs</h2>
-Contact: acl-2026-visa-chairs@googlegroups.com
+Contact: [acl-2026-visa-chairs@googlegroups.com](mailto:acl-2026-visa-chairs@googlegroups.com)
 
 {% include committee-member.html
     name="David Chiang"
