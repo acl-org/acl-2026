@@ -25,7 +25,7 @@ toc_sticky: True
 
 For questions related to paper submission, email: [editors@aclrollingreview.org](mailto:editors@aclrollingreview.org)
 
-For all other questions, email: [acl2026pcs@gmail.com](acl2026pcs@gmail.com)
+For all other questions, email: [acl2026pcs@gmail.com](mailto:acl2026pcs@gmail.com)
 
 ## Overview
 
