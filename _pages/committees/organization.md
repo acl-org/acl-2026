@@ -29,7 +29,7 @@ Contact: [acl2026pcs@gmail.com](mailto:acl2026pcs@gmail.com)
 
 {% include committee-member.html
     name="Viviane P. Moreira"
-    picture="/assets/images/committee/Viviane_Moreira.avif"
+    picture="/assets/images/committee/Viviane_Moreira.jpg"
     site=""
     institution="Institute of Informatics at UFRGS, Brasil"
     email = "acl2026pcs@gmail.com"
@@ -45,7 +45,7 @@ Contact: [acl2026pcs@gmail.com](mailto:acl2026pcs@gmail.com)
 
 {% include committee-member.html
     name="David Jurgens"
-    picture="/assets/images/committee/David_Jurgens.jpeg"
+    picture="/assets/images/committee/David_Jurgens.jpg"
     site=""
     institution="University of Michigan"
     email = "acl2026pcs@gmail.com"
@@ -91,7 +91,7 @@ Contact: [acl2026pcs@gmail.com](mailto:acl2026pcs@gmail.com)
 
 {% include committee-member.html
     name="Greg Durrett"
-    picture="/assets/images/committee/Greg_Durrett.png"
+    picture="/assets/images/committee/Greg_Durrett.jpg"
     site=""
     institution="University of Texas at Austin"
     email = "gdurrett@cs.utexas.edu"
@@ -99,7 +99,6 @@ Contact: [acl2026pcs@gmail.com](mailto:acl2026pcs@gmail.com)
 
 {% include committee-member.html
     name="Ping Jian"
-    picture="/assets/images/committee/Ping_Jian.png"
     site=""
     institution="Beijing Institute of Technology"
     email = "pjian@bit.edu.cn"
@@ -161,7 +160,7 @@ Contact: [acl2026pcs@gmail.com](mailto:acl2026pcs@gmail.com)
 
 {% include committee-member.html
     name="Jia Xu"
-    picture="/assets/images/committee/Jia_Xu.avif"
+    picture="/assets/images/committee/Jia_Xu.jpg"
     site=""
     institution="Stevens Institute of Technology"
     email = "jxu70@stevens.edu"
@@ -215,7 +214,7 @@ Contact: [acl2026pcs@gmail.com](mailto:acl2026pcs@gmail.com)
 
 {% include committee-member.html
     name="Raj Dabre"
-    picture="/assets/images/committee/Raj_Dabre.jpeg"
+    picture="/assets/images/committee/Raj_Dabre.jpg"
     site=""
     institution="University of Pennsylvania"
     email = "prajdabre@gmail.com"
@@ -223,7 +222,7 @@ Contact: [acl2026pcs@gmail.com](mailto:acl2026pcs@gmail.com)
 
 {% include committee-member.html
     name="Wei Xu"
-    picture="/assets/images/committee/Wei_Xu.png"
+    picture="/assets/images/committee/Wei_Xu.jpg"
     site=""
     institution="Georgia Tech"
     email = "wei.xu@cc.gatech.edu"
@@ -231,7 +230,7 @@ Contact: [acl2026pcs@gmail.com](mailto:acl2026pcs@gmail.com)
 
 {% include committee-member.html
     name="Flor Plaza del Arco"
-    picture="/assets/images/committee/Flor_Plaza_del_Arco.png"
+    picture="/assets/images/committee/Flor_Plaza_del_Arco.jpg"
     site=""
     institution="University of Leiden"
     email = "f.m.plaza.del.arco@liacs.leidenuniv.nl"
@@ -265,7 +264,7 @@ Contact: [acl2026pcs@gmail.com](mailto:acl2026pcs@gmail.com)
 
 {% include committee-member.html
     name="Najoung Kim"
-    picture="/assets/images/committee/Najoung_Kim.png"
+    picture="/assets/images/committee/Najoung_Kim.jpg"
     site=""
     institution="Boston University"
     email = "najoungk@gmail.com"
@@ -293,7 +292,7 @@ Contact: [acl2026pcs@gmail.com](mailto:acl2026pcs@gmail.com)
 
 {% include committee-member.html
     name="Jingbo Shang"
-    picture="/assets/images/committee/Jingbo_Shang.jpeg"
+    picture="/assets/images/committee/Jingbo_Shang.jpg"
     site=""
     institution="University of California at San Diego"
     email = "jshang@eng.ucsd.edu"
@@ -309,7 +308,7 @@ Contact: [acl2026pcs@gmail.com](mailto:acl2026pcs@gmail.com)
 
 {% include committee-member.html
     name="Xuezhe Ma"
-    picture="/assets/images/committee/Xuezhe_Ma.png"
+    picture="/assets/images/committee/Xuezhe_Ma.jpg"
     site=""
     institution="University of Southern California"
     email = "xuezhema@usc.edu"
@@ -345,7 +344,7 @@ Contact: [acl2026pcs@gmail.com](mailto:acl2026pcs@gmail.com)
 
 {% include committee-member.html
     name="Gael Guibon"
-    picture="/assets/images/committee/Gael_Guibon.jpeg"
+    picture="/assets/images/committee/Gael_Guibon.jpg"
     site=""
     institution="Université Sorbonne Paris Nord"
     email = "gael.guibon@gmail.com"
@@ -381,7 +380,7 @@ Contact: [acl2026pcs@gmail.com](mailto:acl2026pcs@gmail.com)
 
 {% include committee-member.html
     name="Georg Rehm"
-    picture="/assets/images/committee/Georg_Rehm.jpeg"
+    picture="/assets/images/committee/Georg_Rehm.jpg"
     site=""
     institution="German Research Institute for Artificial Intelligence"
     email = "georg.rehm@dfki.de"
@@ -397,7 +396,7 @@ Contact: [acl2026pcs@gmail.com](mailto:acl2026pcs@gmail.com)
 
 {% include committee-member.html
     name="Mei Tu"
-    picture="/assets/images/committee/Mei_Tu.png"
+    picture="/assets/images/committee/Mei_Tu.jpg"
     site=""
     institution="Samsung"
     email = "mei.tu@samsung.com"
@@ -415,7 +414,7 @@ Contact: [acl2026pcs@gmail.com](mailto:acl2026pcs@gmail.com)
 
 {% include committee-member.html
     name="Eunsol Choi"
-    picture="/assets/images/committee/Eunsol_Choi.jpeg"
+    picture="/assets/images/committee/Eunsol_Choi.jpg"
     site=""
     institution="New York University"
     email = "eunsol@nyu.edu"
@@ -426,7 +425,7 @@ Contact: [acl-2026-visa-chairs@googlegroups.com](mailto:acl-2026-visa-chairs@goo
 
 {% include committee-member.html
     name="David Chiang"
-    picture="/assets/images/committee/David_Chiang.png"
+    picture="/assets/images/committee/David_Chiang.jpg"
     site=""
     institution="University of Notre Dame"
     email = "acl-2026-visa-chairs@googlegroups.com"
