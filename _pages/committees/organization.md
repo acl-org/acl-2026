@@ -99,7 +99,7 @@ Contact: [acl2026pcs@gmail.com](mailto:acl2026pcs@gmail.com)
 
 {% include committee-member.html
     name="Ping Jian"
-    picture="/assets/images/person.svg"
+    picture="/assets/images/person.png"
     site=""
     institution="Beijing Institute of Technology"
     email = "pjian@bit.edu.cn"
@@ -397,7 +397,7 @@ Contact: [acl2026pcs@gmail.com](mailto:acl2026pcs@gmail.com)
 
 {% include committee-member.html
     name="Mei Tu"
-    picture="/assets/images/person.svg"
+    picture="/assets/images/person.png"
     site=""
     institution="Samsung"
     email = "mei.tu@samsung.com"
