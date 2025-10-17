@@ -99,6 +99,7 @@ Contact: [acl2026pcs@gmail.com](mailto:acl2026pcs@gmail.com)
 
 {% include committee-member.html
     name="Ping Jian"
+    picture="/assets/images/person.svg"
     site=""
     institution="Beijing Institute of Technology"
     email = "pjian@bit.edu.cn"
@@ -282,7 +283,7 @@ Contact: [acl2026pcs@gmail.com](mailto:acl2026pcs@gmail.com)
 
 {% include committee-member.html
     name="Paco Guzman"
-    picture="/assets/images/committee/Paco_Guzman.webp"
+    picture="/assets/images/committee/Paco_Guzman.jpg"
     site=""
     institution="Meta"
     email = "fguzman@meta.com"
@@ -396,7 +397,7 @@ Contact: [acl2026pcs@gmail.com](mailto:acl2026pcs@gmail.com)
 
 {% include committee-member.html
     name="Mei Tu"
-    picture="/assets/images/committee/Mei_Tu.jpg"
+    picture="/assets/images/person.svg"
     site=""
     institution="Samsung"
     email = "mei.tu@samsung.com"
