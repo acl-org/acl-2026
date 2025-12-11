@@ -114,8 +114,8 @@ All authors are expected to sign up to review, with assignments subsequently bas
 - **Withdrawal deadline**: April 19, 2026
 - **Camera-ready papers due**: April 19, 2026
 - **Tutorials**: July 2, 2026
-- **Main Conference**: July 3-5, 2026
-- **Workshops**: July 6-7, 2026
+- **Workshops**: July 3-4, 2026
+- **Main Conference**: July 5-7, 2026
 
 **Note**: All deadlines are at 11:59PM UTC-12:00 (“anywhere on Earth”).
 
