@@ -39,41 +39,42 @@ Papers may be submitted to the ARR 2025 October cycle and ARR 2026 January cycle
 
 ## Submission Topics
 
-ACL 2026 aims to have a broad technical program. Relevant topics for the conference include, but are not limited to, the following areas (in alphabetical order):
+ACL 2026 aims to have a broad technical program. Relevant topics for the conference include, but are not limited to, the following areas:
 
-- Safety and Alignment in LLMs
+- **Special Theme:** Explainability of NLP Models
 - AI/LLM Agents
-- Human-AI Interaction/Cooperation
-- Retrieval-Augmented Language Models
-- Mathematical, Symbolic, and Logical Reasoning in NLP
-- Computational Social Science, Cultural Analytics, and NLP for Social Good
+- Clinical and Biomedical Applications
 - Code Models
-- Interpretability and Analysis of Models for NLP
-- LLM Efficiency
-- Generalizability and Transfer
+- Computational Social Science, Cultural Analytics, and NLP for Social Good
 - Dialogue and Interactive Systems
 - Discourse, Pragmatics, and Reasoning
-- Low-resource Methods for NLP
 - Ethics, Bias, and Fairness
-- Natural Language Generation
+- Financial Applications and Time Series
+- Generalizability and Transfer
+- Hierarchical Structure Prediction, Syntax, and Parsing
+- Human-AI Interaction/Cooperation and Human-Centric NLP
 - Information Extraction and Retrieval
+- Interpretability and Analysis of Models for NLP
+- Language Models
 - Linguistic theories, Cognitive Modeling and Psycholinguistics
+- LLM Efficiency
+- Low-resource Methods for NLP
+- Machine Learning for NLP
 - Machine Translation
+- Mathematical, Symbolic, Neurosymbolic, and Logical Reasoning
 - Multilinguality and Language Diversity
 - Multimodality and Language Grounding to Vision, Robotics and Beyond
-- Neurosymbolic approaches to NLP
+- Natural Language Generation
+- NLP Applications
 - Phonology, Morphology and Word Segmentation
 - Question Answering
 - Resources and Evaluation
+- Retrieval-Augmented Language Models
+- Safety and Alignment in LLMs
 - Semantics: Lexical, Sentence-level Semantics, Textual Inference and Other areas
 - Sentiment Analysis, Stylistic Analysis, and Argument Mining
 - Speech Processing and Spoken Language Understanding
 - Summarization
-- Hierarchical Structure Prediction, Syntax, and Parsing
-- NLP Applications
-- Clinical and Biomedical Applications
-- Financial Applications and Time Series
-- **Special Theme:** Explainability of NLP Models
 
 ## ACL 2026 Theme Track: Explainability of NLP Models
 

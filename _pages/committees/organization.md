@@ -230,7 +230,7 @@ Contact: [acl2026pcs@gmail.com](mailto:acl2026pcs@gmail.com)
 %}
 
 {% include committee-member.html
-    name="Flor Plaza del Arco"
+    name="Flor Miriam Plaza-del-Arco"
     picture="/assets/images/committee/Flor_Plaza_del_Arco.jpg"
     site=""
     institution="University of Leiden"
