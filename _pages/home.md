@@ -20,6 +20,7 @@ ACL 2026 will be held in San Diego, CA, from July 2 - 7, 2026. More information 
 .news-table { font-size: .9em; table-layout: fixed; }
 .news-table tr td:nth-child(1) { font-weight: bold; width: 10em; }
 </style>
+| December 22, 2025 | [Industry track call for papers](/calls/industry_track/) is out.
 | October 8, 2025 | [Call for papers](/calls/main_conference_papers/) is out.
 | May 23, 2025 | The official ACL 2026 website is launched.
 {: .news-table}
