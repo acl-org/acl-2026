@@ -20,3 +20,11 @@ main:
 
   - title: "Contact"
     url: /contact/
+
+calls:
+  - title: "Calls"
+    children:
+      - title: "Main Papers"
+        url: /calls/main_conference_papers/
+      - title: "Industry Track Papers"
+        url: /calls/industry_track/
