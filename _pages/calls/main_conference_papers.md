@@ -18,6 +18,7 @@ toc_sticky: True
 - **Special Theme:** “Explainability of NLP Models” 
 - **Submission Website:** [https://openreview.net/group?id=aclweb.org/ACL/ARR/2026/January](https://openreview.net/group?id=aclweb.org/ACL/ARR/2026/January) (not open yet)
 - **Commitment Website:** [https://openreview.net/group?id=aclweb.org/ACL/2026/Conference](https://openreview.net/group?id=aclweb.org/ACL/2026/Conference) (not open yet)
+- **Industry Track:** The [Industry Track CFP](/calls/industry_track/) is available [on a separate, dedicated page](/calls/industry_track/).
 
 ## Contact
 - **General Chair:** [Philipp Koehn](https://www.cs.jhu.edu/~phi/)
