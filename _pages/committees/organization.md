@@ -217,7 +217,7 @@ Contact: [acl2026pcs@gmail.com](mailto:acl2026pcs@gmail.com)
     name="Raj Dabre"
     picture="/assets/images/committee/Raj_Dabre.jpg"
     site=""
-    institution="University of Pennsylvania"
+    institution="Google"
     email = "prajdabre@gmail.com"
 %}
 
