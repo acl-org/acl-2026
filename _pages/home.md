@@ -10,7 +10,7 @@ excerpt: "San Diego, California, United States<br>July 2&ndash;7, 2026"
 
 ## Welcome!
 
-ACL 2026 will be held in San Diego, CA, from July 2 - 7, 2026. More information will be announced soon.
+The 64th Annual Meeting of the Association for Computational Linguistics (ACL 2026) will take place in **San Diego, California**, from **July 2 - 7, 2026**.
 
 ## News
 
