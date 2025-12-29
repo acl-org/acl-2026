@@ -16,7 +16,7 @@ toc_sticky: True
 - **Conference Dates:** July 2-7, 2026, 2026
 - **Location:** San Diego, CA, USA
 - **Special Theme:** “Explainability of NLP Models” 
-- **Submission Website:** [https://openreview.net/group?id=aclweb.org/ACL/ARR/2026/January](https://openreview.net/group?id=aclweb.org/ACL/ARR/2026/January) (not open yet)
+- **Submission Website:** [https://openreview.net/group?id=aclweb.org/ACL/ARR/2026/January](https://openreview.net/group?id=aclweb.org/ACL/ARR/2026/January)
 - **Commitment Website:** [https://openreview.net/group?id=aclweb.org/ACL/2026/Conference](https://openreview.net/group?id=aclweb.org/ACL/2026/Conference) (not open yet)
 - **Industry Track:** The [Industry Track CFP](/calls/industry_track/) is available [on a separate, dedicated page](/calls/industry_track/).
 

@@ -134,12 +134,9 @@ Authors will be allowed extra space after the sixth page for an optional broader
 ## Contact Information
 
 **Industry Track Co-Chairs**:
-
-\- [Yunyao Li](https://yunyaoli.github.io) (Adobe)
-
-\- [Georg Rehm](http://georg-re.hm) (DFKI GmbH)
-
-\- [Mei Tu](https://mtu.github.io/) (Samsung)
+ - [Yunyao Li](https://yunyaoli.github.io) (Adobe)
+ - [Georg Rehm](http://georg-re.hm) (DFKI GmbH)
+ - [Mei Tu](https://mtu.github.io/) (Samsung)
 
 Email: [acl-2026-industry-track@googlegroups.com](https://groups.google.com/g/acl-2025-industry-track)
 
