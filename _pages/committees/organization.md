@@ -109,7 +109,7 @@ Contact: [acl2026pcs@gmail.com](mailto:acl2026pcs@gmail.com)
 Contact: [acl2026srwchairs@gmail.com](mailto:acl2026srwchairs@gmail.com)
 
 {% include committee-member.html
-    name="Santosh T.Y.S.S"
+    name="Santosh T.Y.S.S."
     picture="/assets/images/committee/Santosh_TYSS.jpg"
     site=""
     institution="Technical University of Munich & Amazon"
