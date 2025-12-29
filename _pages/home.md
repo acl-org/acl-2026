@@ -33,15 +33,8 @@ ACL 2026 will be held in San Diego, CA, from July 2 - 7, 2026. More information 
 
 ## Important Dates
 
-Coming soon!
-
 Submission deadline (all papers are submitted to ARR) | January 15, 2026 |
-<!--Author response period | TBA |
-ARR reviews & meta-reviews available to authors of January cycle | TBA |-->
 Commitment deadline for ACL 2026 | March 14, 2026 |
-<!--Notification of acceptance | May 15, 2025 |
-Withdrawal deadline | May 30, 2025 |
-Camera-ready papers due | May 30, 2025 |-->
 Overall Conference | July 2 - 7, 2026 |
 Tutorials | July 2, 2026 |
 Workshops | July 3 - 4, 2026 |
