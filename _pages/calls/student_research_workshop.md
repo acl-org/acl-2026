@@ -16,11 +16,10 @@ Pre-submission mentorship feedback | February 25, 2026 |
 Direct submission deadline | March 18, 2026 |
 ARR commitment deadline | April 15, 2026 |
 Acceptance notification | April 24, 2026 |
-Withdrawal deadline | May 30, 2025 |
 Camera-ready deadline | May 8, 2026 |
 Grant application submission | May 8, 2026 |
 Grant application notification | May 20, 2026 |
-Conference date | July 5-7, 2026 |
+Conference dates | July 5-7, 2026 |
 
 <style>
 .dates-table { font-size: .9em; }

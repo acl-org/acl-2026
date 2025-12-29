@@ -28,3 +28,5 @@ calls:
         url: /calls/main_conference_papers/
       - title: "Industry Track Papers"
         url: /calls/industry_track/
+      - title: "Student Research Workshop Papers"
+        url: /calls/student_research_workshop/
