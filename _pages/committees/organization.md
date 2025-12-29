@@ -106,6 +106,33 @@ Contact: [acl2026pcs@gmail.com](mailto:acl2026pcs@gmail.com)
 %}
 
 <h2>Student Research Workshop Chairs</h2>
+Contact: [acl2026srwchairs@gmail.com](mailto:acl2026srwchairs@gmail.com)
+
+{% include committee-member.html
+    name="Santosh T.Y.S.S"
+    picture="/assets/images/committee/Santosh_TYSS.jpg"
+    site=""
+    institution="Technical University of Munich & Amazon"
+    email = "santoshtyss@gmail.com"
+%}
+
+{% include committee-member.html
+    name="Juan Diego Rodriguez"
+    picture="/assets/images/committee/Juan_Diego_Rodriguez.jpg"
+    site=""
+    institution="University of Texas at Austin"
+    email = "juand-r@utexas.edu"
+%}
+
+{% include committee-member.html
+    name="Ona de Gibert"
+    picture="/assets/images/committee/Ona_de_Gibert.jpg"
+    site=""
+    institution="University of Helsinki"
+    email = "ona.degibert@helsinki.fi"
+%}
+
+<h2>Student Research Workshop Chairs - Faculty Advisors</h2>
 
 {% include committee-member.html
     name="Yves Scherrer"
