@@ -147,6 +147,9 @@ footer:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: https://twitter.com/aclmeeting
+    - label: "Bluesky"
+      icon: "fa-brands fa-bluesky"
+      url: https://bsky.app/profile/aclmeeting.bsky.social
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
       # url:

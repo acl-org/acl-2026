@@ -46,7 +46,7 @@ The ACL 2026 conference will feature a Best Demo Award, recognizing the most out
 
 Paper submission is electronic, using the OpenReview conference management system.
 
-- Submission Website: https://openreview.net/group?id=aclweb.org/ACL/2026/Demo
+- Submission Website: <https://openreview.net/group?id=aclweb.org/ACL/2026/Demo>
 
 All submissions must include the following:
 
