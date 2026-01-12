@@ -93,8 +93,8 @@ Contact: [acl2026pcs@gmail.com](mailto:acl2026pcs@gmail.com)
     name="Greg Durrett"
     picture="/assets/images/committee/Greg_Durrett.jpg"
     site=""
-    institution="University of Texas at Austin"
-    email = "gdurrett@cs.utexas.edu"
+    institution="New York University"
+    email = "gdurrett@nyu.edu"
 %}
 
 {% include committee-member.html
