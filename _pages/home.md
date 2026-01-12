@@ -20,6 +20,7 @@ The 64th Annual Meeting of the Association for Computational Linguistics (ACL 20
 .news-table { font-size: .9em; table-layout: fixed; }
 .news-table tr td:nth-child(1) { font-weight: bold; width: 10em; }
 </style>
+| January 12, 2025 | [System Demonstration call for papers](/calls/system_demonstration/) is out.
 | December 28, 2025 | [Student Research Workshop call for papers](/calls/student_research_workshop/) is out.
 | December 22, 2025 | [Industry track call for papers](/calls/industry_track/) is out.
 | October 8, 2025 | [Call for papers](/calls/main_conference_papers/) is out.
