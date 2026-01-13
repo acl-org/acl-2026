@@ -35,7 +35,7 @@ The 64th Annual Meeting of the Association for Computational Linguistics (ACL 20
 ## Important Dates
 
 Submission deadline (all papers are submitted to ARR) | January 5, 2026 |
-ARR reviews & meta-reviews available to authors of January cycle | March 9, 2026 |
+ARR reviews & meta-reviews available to authors of January cycle | March 10, 2026 |
 Commitment deadline for ACL 2026 | March 14, 2026 |
 Notification of acceptance | April 4, 2026 |
 Withdrawal deadline | April 19, 2026 |
