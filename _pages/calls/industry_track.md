@@ -17,6 +17,8 @@ Conference: July 2 - 7, 2026
 
 Paper submission deadline: February 14, 2026
 
+Submission link: [OpenReview submission page](https://openreview.net/group?id=aclweb.org/ACL/2026/Industry_Track)
+
 ## Background
 
 Language technologies are an integral and critical part of our daily lives. Many of these applications have their roots in academic and industrial research laboratories where researchers invented a plethora of algorithms, benchmarked them against shared datasets and perfected their performance to provide plausible solutions to real-world applications. While a controlled laboratory setting is vital for a deeper scientific understanding of the problems underlying language technologies and the impact of algorithmic design choices on their performance, transitioning the technology to real-world industrial strength applications raises a different, yet challenging, set of technical issues.
@@ -107,7 +109,7 @@ Authors are invited to submit original, full-length (6 pages) industry track pap
 
 **Writing assistance:** The ACL 2026 Industry Track adheres to the ACL policy on using writing assistants (including AI-based writing assistants and other AI tools) available [here](https://2023.aclweb.org/blog/ACL-2023-policy/).
 
-**Submission system:** Papers have to be submitted through the ACL 2026 Industry Track online submission system. The submission link will be provided soon.
+**Submission system:** Papers have to be submitted through the [ACL 2026 Industry Track online submission system](https://openreview.net/group?id=aclweb.org/ACL/2026/Industry_Track).
 
 **Final version**: Accepted papers will be given one additional page of content (up to 7 pages; ethical considerations, acknowledgements and references do not count against this limit) so that reviewers' comments can be taken into account. Previous presentations of the work (e.g., preprints on arXiv.org) should be indicated in a footnote that should be excluded from the review submission, but included in the final version of papers appearing in the ACL 2026 proceedings.
 
