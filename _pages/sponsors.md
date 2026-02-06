@@ -7,9 +7,9 @@ toc: True
 toc_sticky: True
 ---
 
-The ACL extends its deepest gratitude to all its sponsors. The conference could not take place without the invaluable support provided by these generous organizations. We sincerely thank them for their continued commitment to the NLP/CL community.
+ACL 2026 extends its deepest gratitude to all its sponsors. The conference could not take place without the invaluable support provided by these generous organizations. We sincerely thank them for their continued commitment to the NLP/CL community.
 
-If your organization would like to sponsor the ACL or have questions regarding sponsorship, please email the ACL Sponsorship Director Chris Callison-Burch ([sponsoring@aclweb.org](mailto:sponsoring@aclweb.org)). 
+If your organization is interested in sponsoring ACL 2026, please refer to our [Sponsorship Booklet](/assets/Sponsorship%20brochure%20for%20ACL%202026%20Conferences%20-%202026-02-05.pdf) for information about sponsorship rates and benefits. For any questions regarding sponsorship, please email the ACL Sponsorship Chairs: Baotian Hu ([baotian.nlp@gmail.com](mailto:baotian.nlp@gmail.com)) and Steve Richardson ([srichardson@byu.edu](mailto:srichardson@byu.edu)).
 
 
 ## Diamond
