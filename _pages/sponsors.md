@@ -79,7 +79,10 @@ Coming soon!
       <div class="dummy-padding"></div>
         <img src="/assets/images/sponsors/natwest.png" alt="NatWest Group">
     </a>
-    ARC
+    <a href="" title="ARC">
+      <div class="dummy-padding"></div>
+        <img src="/assets/images/sponsors/arc.png" alt="ARC">
+    </a>
 </figure>
 
 ## Diversity & Inclusion
