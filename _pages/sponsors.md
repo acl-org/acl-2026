@@ -50,7 +50,7 @@ If your organization is interested in sponsoring ACL 2026, please refer to our [
       <div class="dummy-padding"></div>
         <img src="/assets/images/sponsors/appen.png" alt="Appen">
     </a>
-    <a href="https://ai.meta.com/research/" title="Meta">
+    <a href="https://ai.meta.com/" title="Meta">
       <div class="dummy-padding"></div>
         <img src="/assets/images/sponsors/meta.png" alt="Meta">
     </a>
@@ -63,7 +63,7 @@ Coming soon!
 
 ## Silver
 <figure class="sponsors-list third">
-    <a href="https://www.adobe.com/ai/overview.html" title="Adobe">
+    <a href="https://research.adobe.com/" title="Adobe">
       <div class="dummy-padding"></div>
         <img src="/assets/images/sponsors/adobe.jpg" alt="Adobe">
     </a>	
@@ -75,7 +75,7 @@ Coming soon!
       <div class="dummy-padding"></div>
         <img src="/assets/images/sponsors/translated.png" alt="Translated">
     </a>
-    <a href="https://www.natwestgroup.com/" title="NatWest Group">
+    <a href="https://www.natwestgroup.com/careers-at-natwest-group.html" title="NatWest Group">
       <div class="dummy-padding"></div>
         <img src="/assets/images/sponsors/natwest.png" alt="NatWest Group">
     </a>
