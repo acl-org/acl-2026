@@ -73,6 +73,7 @@ Submissions must clearly identify one of the following three areas they fall int
 ## Important Dates
 
 Paper submission deadline | February 14, 2026 |
+Review release date and beginning of rebuttal period | March 23, 2026 |
 Author response deadline | March 29, 2026 |
 Notification of acceptance | April 12, 2026 |
 Camera-ready deadline | April 19, 2026 |
