@@ -38,6 +38,10 @@ If your organization is interested in sponsoring ACL 2026, please refer to our [
       <div class="dummy-padding"></div>
         <img src="/assets/images/sponsors/bloomberg.png" alt="Bloomberg">
     </a>
+    <a href="https://www.capitalone.com/tech/ai-research/" title="Capital One">
+      <div class="dummy-padding"></div>
+        <img src="/assets/images/sponsors/capital_one.png" alt="Capital One">
+    </a>
 </figure>
 
 ## Platinum
@@ -82,6 +86,10 @@ Coming soon!
     <a href="https://www.e-arc.com/scanning-solutions/" title="ARC">
       <div class="dummy-padding"></div>
         <img src="/assets/images/sponsors/arc.png" alt="ARC">
+    </a>
+    <a href="https://babelscape.com/" title="Babelscape">
+      <div class="dummy-padding"></div>
+        <img src="/assets/images/sponsors/babelscape.png" alt="Babelscape">
     </a>
 </figure>
 
