@@ -466,3 +466,13 @@ Contact: [acl-2026-visa-chairs@googlegroups.com](mailto:acl-2026-visa-chairs@goo
     institution="University of Southern California"
     email = "acl-2026-visa-chairs@googlegroups.com"
 %}
+
+<h2>Conflict Chair</h2>
+
+{% include committee-member.html
+    name="Isabelle Augenstein"
+    picture="/assets/images/committee/Isabelle_Augenstein.jpg"
+    site=""
+    institution="University of Copenhagen"
+    email = "augenstein@di.ku.dk"
+%}
