@@ -17,7 +17,7 @@ toc_sticky: True
 - **Location:** San Diego, CA, USA
 - **Special Theme:** “Explainability of NLP Models” 
 - **Submission Website:** [https://openreview.net/group?id=aclweb.org/ACL/ARR/2026/January](https://openreview.net/group?id=aclweb.org/ACL/ARR/2026/January)
-- **Commitment Website:** [https://openreview.net/group?id=aclweb.org/ACL/2026/Conference](https://openreview.net/group?id=aclweb.org/ACL/2026/Conference) (not open yet)
+- **Commitment Website:** [https://openreview.net/group?id=aclweb.org/ACL/2026/Conference](https://openreview.net/group?id=aclweb.org/ACL/2026/Conference)
 - **Industry Track:** The [Industry Track CfP](/calls/industry_track/) is available [on a separate, dedicated page](/calls/industry_track/).
 - **Student Research Workshop:** The [SRW CfP](/calls/student_research_workshop/) is also available [on a separate page](/calls/student_research_workshop/).
 - **System Demonstration:** The [System Demonstration CfP](/calls/system_demonstration/) is available.
