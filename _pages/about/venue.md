@@ -41,7 +41,23 @@ Additional accommodation options TBA.
 
 ## Visa Requirements
 
-Coming soon!
+The following questions will help you in determining whether and how to apply for a U.S. visa to attend the conference.
+
+### Can I travel to the U.S. without a visa?
+
+Please see [this page](https://travel.state.gov/content/travel/en/us-visas/tourism-visit/visa-waiver-program.html) to determine whether you are eligible to apply for an [Electronic System Travel Authorization (ESTA)](https://esta.cbp.dhs.gov/) instead, which might be cheaper and easier. This is usually allowed if you hold a passport from a country that participates in the Visa Waiver Program, but there are some exceptions. Be sure to apply for the ESTA at least 72 hours in advance. [Do not](https://visaguide.world/tips/how-to-avoid-esta-fraud/) purchase your ESTA from any website other than the one linked above.
+
+### What kind of visa do I need?
+
+To attend the conference, you should apply for a nonimmigrant B-1 visa. (This also [permits](https://www.cbp.gov/sites/default/files/documents/B-1%20permissible%20activities.pdf) you to engage in tourism during your trip.)
+
+### How do I apply for a visa?
+
+Please apply well in advance. Visa applications can take from 1–4 months to be approved and normally require an interview at a U.S. Embassy or Consulate. For details, begin [here](https://travel.state.gov/content/travel/en/us-visas/tourism-visit/visitor.html) and navigate to the website for the embassy or consulate nearest you for further visa instructions.
+
+### How much will it cost?
+
+The non-refundable visa application fee is [approximately $185](https://travel.state.gov/content/travel/en/us-visas/visa-information-resources/fees/fees-visa-services.html#temp) in local currency. Depending on your nationality, you may also have to pay a [visa issuance fee](https://travel.state.gov/content/travel/en/us-visas/Visa-Reciprocity-and-Civil-Documents-by-Country.html).
 
 ## Invitation Letters
 
