@@ -42,6 +42,10 @@ If your organization is interested in sponsoring ACL 2026, please refer to our [
       <div class="dummy-padding"></div>
         <img src="/assets/images/sponsors/capital_one.png" alt="Capital One">
     </a>
+    <a href="https://www.alibabacloud.com/en?_p_lc=1&amp;spm=a3c0i.14327653.6791778070.1.4dec188fn0rvGW" title="Alibaba Cloud">
+      <div class="dummy-padding"></div>
+        <img src="/assets/images/sponsors/alibaba.png" alt="Alibaba Cloud">
+    </a>
 </figure>
 
 ## Platinum
@@ -57,6 +61,14 @@ If your organization is interested in sponsoring ACL 2026, please refer to our [
     <a href="https://ai.meta.com/" title="Meta">
       <div class="dummy-padding"></div>
         <img src="/assets/images/sponsors/meta.png" alt="Meta">
+    </a>
+    <a href="https://www.oracle.com/careers/opportunities/oracle-cloud-infrastructure/?source=:ex:sn:::::24EMNLP&amp;SC=:ex:sn:::::24EMNLP&amp;pcode=" title="Oracle">
+      <div class="dummy-padding"></div>
+        <img src="/assets/images/sponsors/oracle.png" alt="Oracle">
+    </a>
+    <a href="https://machinelearning.apple.com/" title="Apple">
+      <div class="dummy-padding"></div>
+        <img src="/assets/images/sponsors/apple.png" alt="Apple">
     </a>
 </figure>
 
@@ -90,6 +102,10 @@ Coming soon!
     <a href="https://babelscape.com/" title="Babelscape">
       <div class="dummy-padding"></div>
         <img src="/assets/images/sponsors/babelscape.png" alt="Babelscape">
+    </a>
+    <a href="https://datamundi.ai/" title="DATAmundi">
+      <div class="dummy-padding"></div>
+        <img src="/assets/images/sponsors/datamundi.png" alt="DATAmundi">
     </a>
 </figure>
 
