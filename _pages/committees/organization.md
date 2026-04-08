@@ -230,12 +230,28 @@ Contact: [acl2026srwchairs@gmail.com](mailto:acl2026srwchairs@gmail.com)
     email = "xim@unam.mx"
 %}
 
-{% include committee-member.html
+{% include committee-member.html 
     name="Anietie Andy"
     picture="/assets/images/committee/Anietie_Andy.jpg"
     site=""
     institution="Howard University"
     email = "anietie.andy@howard.edu"
+%}
+
+{% include committee-member.html
+    name="Gabrielle Gaudeau"
+    picture="/assets/images/committee/Gabrielle_Gaudeau.jpg"
+    site=""
+    institution="University of Cambridge"
+    email = "gjg34@cam.ac.uk"
+%}
+
+{% include committee-member.html
+    name="Felermino Ali"
+    picture="/assets/images/committee/Felermino_Ali.png"
+    site=""
+    institution="Microsoft Research Africa"
+    email = "felerminoali@gmail.com"
 %}
 
 <h2>Publicity Chairs</h2>
