@@ -14,7 +14,7 @@ sidebar:
 Breakfast, lunch, and dinner are not provided. <br/>
 See Tutorials for detailed schedule (TBA).
 
-| Start<br/>Time | End<br/>Time | <img width="440" height="1"> <div class="th-center">Event</div> | <img width="300" height="1"> <div class="th-center">Location</div> |
+| Start<br/>Time | End<br/>Time | <img width="440" height="1"> <span class="th-center">Event</span> | <img width="300" height="1"> <span class="th-center">Location</span> |
 | ---------: | --------: | -------------------------- | ------------------------------ |
 | **8:00**   | **16:30** | **Registration**           | **Grand Hall Foyer - Level 1** |
 |  9:00      | 10:30     | Session 1: Tutorials 1 - 4 |                                |
@@ -31,7 +31,7 @@ Breakfast, lunch, and dinner are not provided. <br/>
 See Workshops for detailed schedule (TBA). <br/>
 Posters will be in the Grand Hall.
 
-| Start<br/>Time | End<br/>Time | <img width="440" height="1"> <div class="th-center">Event</div> | <img width="300" height="1"> <div class="th-center">Location</div> |
+| Start<br/>Time | End<br/>Time | <img width="440" height="1"> <span class="th-center">Event</span> | <img width="300" height="1"> <span class="th-center">Location</span> |
 | ---------: | --------: | -------------------------- | ------------------------------ |
 | **8:00**   | **16:30** | **Registration**           | **Grand Hall Foyer - Level 1** |
 |  9:00      | 10:30     | Session 1                  |                                |
@@ -48,7 +48,7 @@ Breakfast, lunch, and dinner are not provided. <br/>
 See Workshops for detailed schedule (TBA). <br/>
 Posters will be in the Grand Hall.
 
-| Start<br/>Time | End<br/>Time | <img width="440" height="1"> <div class="th-center">Event</div> | <img width="300" height="1"> <div class="th-center">Location</div> |
+| Start<br/>Time | End<br/>Time | <img width="440" height="1"> <span class="th-center">Event</span> | <img width="300" height="1"> <span class="th-center">Location</span> |
 | ---------: | --------: | -------------------------- | ------------------------------ |
 | **8:00**   | **19:30** | **Registration**           | **Grand Hall Foyer - Level 1** |
 |  9:00      | 10:30     | Session 1                  |                                |
@@ -65,7 +65,7 @@ Posters will be in the Grand Hall.
 
 Breakfast, lunch, and dinner are not provided.
 
-| Start<br/>Time | End<br/>Time | <img width="440" height="1"> <div class="th-center">Event</div> | <img width="300" height="1"> <div class="th-center">Location</div> |
+| Start<br/>Time | End<br/>Time | <img width="440" height="1"> <span class="th-center">Event</span> | <img width="300" height="1"> <span class="th-center">Location</span> |
 | ---------: | --------: | -------------------------- | ------------------------------ |
 | **7:30**   | **16:30** | **Registration**           | **Grand Hall Foyer - Level 1** |
 |  9:00      |  9:30     | Session 1: Welcome         |                                |
@@ -82,7 +82,7 @@ Breakfast, lunch, and dinner are not provided.
 
 Breakfast, lunch, and dinner are not provided.
 
-| Start<br/>Time | End<br/>Time | <img width="440" height="1"> <div class="th-center">Event</div> | <img width="300" height="1"> <div class="th-center">Location</div> |
+| Start<br/>Time | End<br/>Time | <img width="440" height="1"> <span class="th-center">Event</span> | <img width="300" height="1"> <span class="th-center">Location</span> |
 | ---------: | --------: | -------------------------- | ------------------------------ |
 |  1:00      |  2:00     | Session 6: Virtual Plenary Keynote - TBA |                  |
 |  2:30      |  4:00     | Session 7: Virtual Presentations 2 |                        |
@@ -104,7 +104,7 @@ Breakfast, lunch, and dinner are not provided.
 
 Breakfast, lunch, and dinner are not provided.
 
-| Start<br/>Time | End<br/>Time | <img width="440" height="1"> <div class="th-center">Event</div> | <img width="300" height="1"> <div class="th-center">Location</div> |
+| Start<br/>Time | End<br/>Time | <img width="440" height="1"> <span class="th-center">Event</span> | <img width="300" height="1"> <span class="th-center">Location</span> |
 | ---------: | --------: | -------------------------- | ------------------------------ |
 |  1:00      |  2:30     | Session 15: Virtual Presentations 5 |                       |
 | **8:30**   | **16:30** | **Registration**           | **Grand Hall Foyer - Level 1** |
