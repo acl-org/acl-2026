@@ -61,7 +61,7 @@ Posters will be in the Grand Hall.
 | 18:00      | 20:00     | Welcome Reception          |                                |
 | 21:00      | 22:00     | Fireworks - Big Bay Boom on the San Diego Bay |             |
 
-### Saturday, July 5th, 2026: Main Conference Day 1
+### Sunday, July 5th, 2026: Main Conference Day 1
 
 Breakfast, lunch, and dinner are not provided.
 
@@ -78,7 +78,7 @@ Breakfast, lunch, and dinner are not provided.
 | 16:00      | 17:30     | Session 4: Oral / Poster Session C |                        |
 | 18:00      | 19:30     | Session 5: Virtual Presentations 1 |                        |
 
-### Saturday, July 6th, 2026: Main Conference Day 2
+### Monday, July 6th, 2026: Main Conference Day 2
 
 Breakfast, lunch, and dinner are not provided.
 
@@ -100,7 +100,7 @@ Breakfast, lunch, and dinner are not provided.
 | 18:00      | 19:30     | Session 14: Virtual Presentations 4 |                       |
 | 18:30      | 22:00     | Social Event               |                                |
 
-### Saturday, July 7th, 2026: Main Conference Day 3
+### Tuesday, July 7th, 2026: Main Conference Day 3
 
 Breakfast, lunch, and dinner are not provided.
 
