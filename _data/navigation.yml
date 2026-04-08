@@ -21,6 +21,51 @@ main:
   - title: "Contact"
     url: /contact/
 
+program:
+  - title: "Programs"
+    children:
+      - title: "Conference Overview"
+        url: /program/
+      - title: "Workshops"
+        url: /program/workshops/
+      - title: "Tutorials"
+        url: /program/tutorials/
+
+  - title: Events
+    children:
+      - title: "Keynotes"
+        url: /program/keynotes/
+      - title: "Social Event"
+        url: /program/social_event/
+      - title: "Panel"
+        url: /program/panel/
+      - title: "Welcome Reception"
+        url: /program/reception/
+      - title: "Birds-of-a-Feather and Affinity Group Meetups"
+        url: /program/bof/
+
+  - title: "Accepted Papers"
+    children:
+      - title: "Main Conference"
+        url: /program/accepted_papers/
+      - title: "Findings"
+        url: /program/findings/
+      - title: "Industry Track"
+        url: /program/industry/
+      - title: "System Demonstrations"
+        url: /program/demo/
+
+  - title: "Awards"
+    children:
+      - title: "Best Papers"
+        url: /program/best_papers/
+      - title: "Outstanding Reviewers"
+        url: /program/outstanding_reviewers/
+      - title: "Outstanding Area Chairs"
+        url: /program/outstanding_acs/
+      - title: "Outstanding Senior Area Chairs"
+        url: /program/outstanding_sacs/
+
 calls:
   - title: "Calls"
     children:

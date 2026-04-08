@@ -7,9 +7,7 @@ sidebar:
   nav: "program"
 ---
 
-## ACL 2026 Program Overview
-
-### Thursday, July 2nd, 2026: Tutorials
+## Thursday, July 2nd, 2026: Tutorials
 
 Breakfast, lunch, and dinner are not provided. <br/>
 See Tutorials for detailed schedule (TBA).
@@ -25,7 +23,7 @@ See Tutorials for detailed schedule (TBA).
 | 15:30      | 16:00     | Coffee Break               |                                |
 | 16:00      | 17:30     | Session 2: Tutorials 5 - 8 |                                |
 
-### Friday, July 3rd, 2026: Workshops
+## Friday, July 3rd, 2026: Workshops
 
 Breakfast, lunch, and dinner are not provided. <br/>
 See Workshops for detailed schedule (TBA). <br/>
@@ -42,7 +40,7 @@ Posters will be in the Grand Hall.
 | 15:30      | 16:00     | Coffee Break               |                                |
 | 16:00      | 17:30     | Session 4                  |                                |
 
-### Saturday, July 4th, 2026: Workshops
+## Saturday, July 4th, 2026: Workshops
 
 Breakfast, lunch, and dinner are not provided. <br/>
 See Workshops for detailed schedule (TBA). <br/>
@@ -61,7 +59,7 @@ Posters will be in the Grand Hall.
 | 18:00      | 20:00     | Welcome Reception          |                                |
 | 21:00      | 22:00     | Fireworks - Big Bay Boom on the San Diego Bay |             |
 
-### Sunday, July 5th, 2026: Main Conference Day 1
+## Sunday, July 5th, 2026: Main Conference Day 1
 
 Breakfast, lunch, and dinner are not provided.
 
@@ -78,7 +76,7 @@ Breakfast, lunch, and dinner are not provided.
 | 16:00      | 17:30     | Session 4: Oral / Poster Session C |                        |
 | 18:00      | 19:30     | Session 5: Virtual Presentations 1 |                        |
 
-### Monday, July 6th, 2026: Main Conference Day 2
+## Monday, July 6th, 2026: Main Conference Day 2
 
 Breakfast, lunch, and dinner are not provided.
 
@@ -100,7 +98,7 @@ Breakfast, lunch, and dinner are not provided.
 | 18:00      | 19:30     | Session 14: Virtual Presentations 4 |                       |
 | 18:30      | 22:00     | Social Event               |                                |
 
-### Tuesday, July 7th, 2026: Main Conference Day 3
+## Tuesday, July 7th, 2026: Main Conference Day 3
 
 Breakfast, lunch, and dinner are not provided.
 
@@ -116,52 +114,3 @@ Breakfast, lunch, and dinner are not provided.
 | 15:00      | 15:30     | Coffee Break               |                                |
 | 15:30      | 17:00     | Session 19: Paper Award Session |                           |
 | 17:00      | 17:30     | Session 19: Closing Session |                               |
-
-
-## Accepted Papers
-
-Coming soon!
-
-## Findings
-
-Coming soon!
-
-## Industry Track
-
-Coming soon!
-
-## System Demonstrations
-
-Coming soon!
-
-## Events
-
-Coming soon!
-
-## Keynote Speakers
-
-Coming soon!
-
-## Panel
-
-Coming soon!
-
-## Welcome Reception
-
-Coming soon!
-
-## Social Event
-
-Coming soon!
-
-## Birds of a Feather & Affinity Group
-
-Coming soon!
-
-## Awards
-
-Coming soon!
-
-## Best Papers
-
-Coming soon!

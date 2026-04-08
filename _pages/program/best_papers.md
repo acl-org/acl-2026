@@ -1,8 +1,8 @@
 ---
-title: Tutorials
+title: Best Papers
 layout: single
-excerpt: "ACL 2026 Tutorials."
-permalink: /program/tutorials/
+excerpt: "ACL 2026 Best Paper Awards"
+permalink: /program/best_papers/
 sidebar:
   nav: "program"
 toc: True
