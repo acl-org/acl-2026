@@ -20,4 +20,4 @@ To learn more about each workshop, including schedule & times, visit the worksho
   <h6>Room: Old Town</h6>
   <p>Workshop on Customizable NLP: Progress and Challenges in Customizing NLP for a Domain, Application, Group, or Individual (CustomNLP4U)</p>
 </div>
-{.notice--primary}
+{: .notice--primary}
