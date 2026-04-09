@@ -104,6 +104,10 @@ body {
 		&:hover .header-link {
 			opacity: 1;
 		}
+
+		.sr-only {
+			display: none;
+		}
 	}
 
   p,
