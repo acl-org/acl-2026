@@ -9,7 +9,7 @@ toc: True
 toc_sticky: True
 ---
 
-## Thursday, July 2nd: Tutorials
+### Thursday, July 2nd: Tutorials
 
 Breakfast, lunch, and dinner are not provided. <br/>
 See [Tutorials](/program/tutorials/) for detailed schedule.
@@ -25,7 +25,7 @@ See [Tutorials](/program/tutorials/) for detailed schedule.
 | 15:30      | 16:00     | Coffee Break               |                                |
 | 16:00      | 17:30     | Session 2: Tutorials 5 - 8 |                                |
 
-## Friday, July 3rd: Workshops
+### Friday, July 3rd: Workshops
 
 Breakfast, lunch, and dinner are not provided. <br/>
 See [Workshops](/program/workshops/) for detailed schedule. <br/>
@@ -42,7 +42,7 @@ Posters will be in the Grand Hall.
 | 15:30      | 16:00     | Coffee Break               |                                |
 | 16:00      | 17:30     | Session 4                  |                                |
 
-## Saturday, July 4th: Workshops
+### Saturday, July 4th: Workshops
 
 Breakfast, lunch, and dinner are not provided. <br/>
 See [Workshops](/program/workshops/) for detailed schedule. <br/>
@@ -61,7 +61,7 @@ Posters will be in the Grand Hall.
 | 18:00      | 20:00     | Welcome Reception          |                                |
 | 21:00      | 22:00     | Fireworks - Big Bay Boom on the San Diego Bay |             |
 
-## Sunday, July 5th: Main Conference Day 1
+### Sunday, July 5th: Main Conference Day 1
 
 Breakfast, lunch, and dinner are not provided.
 
@@ -78,7 +78,7 @@ Breakfast, lunch, and dinner are not provided.
 | 16:00      | 17:30     | Session 4: Oral / Poster Session C |                        |
 | 18:00      | 19:30     | Session 5: Virtual Presentations 1 |                        |
 
-## Monday, July 6th: Main Conference Day 2
+### Monday, July 6th: Main Conference Day 2
 
 Breakfast, lunch, and dinner are not provided.
 
@@ -100,7 +100,7 @@ Breakfast, lunch, and dinner are not provided.
 | 18:00      | 19:30     | Session 14: Virtual Presentations 4 |                       |
 | 18:30      | 22:00     | Social Event               |                                |
 
-## Tuesday, July 7th: Main Conference Day 3
+### Tuesday, July 7th: Main Conference Day 3
 
 Breakfast, lunch, and dinner are not provided.
 
