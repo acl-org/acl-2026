@@ -12,7 +12,7 @@ toc_sticky: True
 ## Thursday, July 2nd: Tutorials
 
 Breakfast, lunch, and dinner are not provided. <br/>
-See Tutorials for detailed schedule (TBA).
+See [Tutorials](/program/tutorials/) for detailed schedule.
 
 | Start<br/>Time | End<br/>Time | <img width="440" height="1"> <span class="th-center">Event</span> | <img width="300" height="1"> <span class="th-center">Location</span> |
 | ---------: | --------: | -------------------------- | ------------------------------ |
@@ -28,7 +28,7 @@ See Tutorials for detailed schedule (TBA).
 ## Friday, July 3rd: Workshops
 
 Breakfast, lunch, and dinner are not provided. <br/>
-See Workshops for detailed schedule (TBA). <br/>
+See [Workshops](/program/workshops/) for detailed schedule. <br/>
 Posters will be in the Grand Hall.
 
 | Start<br/>Time | End<br/>Time | <img width="440" height="1"> <span class="th-center">Event</span> | <img width="300" height="1"> <span class="th-center">Location</span> |
@@ -45,7 +45,7 @@ Posters will be in the Grand Hall.
 ## Saturday, July 4th: Workshops
 
 Breakfast, lunch, and dinner are not provided. <br/>
-See Workshops for detailed schedule (TBA). <br/>
+See [Workshops](/program/workshops/) for detailed schedule. <br/>
 Posters will be in the Grand Hall.
 
 | Start<br/>Time | End<br/>Time | <img width="440" height="1"> <span class="th-center">Event</span> | <img width="300" height="1"> <span class="th-center">Location</span> |
