@@ -197,15 +197,6 @@ To learn more about each workshop, including schedule & times, visit the worksho
 ## Saturday, July 4th
 
 <div>
-  <h5><a href="#" target="_blank">BioNLP 2026 and Shared Tasks (BioNLP-ST 2026)</a></h5>
-  <h6>Organizers: Dina Demner-Fushman, Sophia Ananiadou, Kirk Roberts, Jun-ichi Tsujii</h6>
-  <h6>Full-day workshop</h6>
-  <h6>Room: Balboa A&amp;B</h6>
-  <p>Description: The BioNLP workshop organized by the ACL SIGBIOMED special interest group is an established primary venue for presenting research in language technologies for the biomedical and clinical domains. The workshop has been running every year since 2002. This year marks its 25th anniversary. BioNLP is a generalist that truly encompasses the breadth of the domain and brings together researchers in biomedical and clinical NLP from all over the world.</p>
-</div>
-{: .notice--primary}
-
-<div>
   <h5><a href="https://trustnlpworkshop.github.io/" target="_blank">The 6th Workshop on Trustworthy NLP (TrustNLP 2026)</a></h5>
   <h6>Organizers: Kai-Wei Chang</h6>
   <h6>Half-day workshop (morning)</h6>
