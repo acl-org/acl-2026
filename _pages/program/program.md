@@ -108,11 +108,11 @@ Breakfast, lunch, and dinner are not provided.
 | ---------: | --------: | -------------------------- | ------------------------------ |
 |  1:00      |  2:30     | Session 15: Virtual Presentations 5 |                       |
 | **8:30**   | **16:30** | **Registration**           | **Grand Hall Foyer - Level 1** |
-|  9:00      | 10:00     | Session 16: Oral / Poster Session F |                       |
-| 10:00      | 10:30     | Coffee Break               |                                |
-| 10:30      | 12:00     | Session 17: Oral / Poster Session G |                       |
-| 12:00      | 13:30     | Lunch Break                |                                |
-| 13:30      | 15:00     | Session 18: ACL Lifetime / ToT Awards / Memorial |          |
-| 15:00      | 15:30     | Coffee Break               |                                |
-| 15:30      | 17:00     | Session 19: Paper Award Session |                           |
+|  9:00      | 10:30     | Session 16: Oral / Poster Session F |                       |
+| 10:30      | 11:00     | Coffee Break               |                                |
+| 11:00      | 12:30     | Session 17: Oral / Poster Session G |                       |
+| 12:30      | 14:00     | Lunch Break                |                                |
+| 14:00      | 15:30     | Session 18: ACL Lifetime / ToT Awards / Memorial |          |
+| 15:30      | 16:00     | Coffee Break               |                                |
+| 16:00      | 17:00     | Session 19: Paper Award Session |                           |
 | 17:00      | 17:30     | Session 19: Closing Session |                               |
