@@ -77,3 +77,5 @@ calls:
         url: /calls/student_research_workshop/
       - title: "System Demonstrations"
         url: /calls/system_demonstration/
+      - title: "Volunteers"
+        url: /calls/volunteers/
