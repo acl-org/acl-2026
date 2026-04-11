@@ -9,27 +9,23 @@ toc: True
 toc_sticky: True
 ---
 
-# Call for ACL 2026 Volunteers
-
 Join us as a student volunteer at the prestigious ACL 2026 at San Diego, California, United States, July 2–7, 2026. We're seeking dedicated students, both for in-person and online roles, to contribute to the success of this event.
 
-#### What You Gain
-
+**What You Gain:** <br/>
 Selected volunteers will receive complimentary registration to the main conference, workshops, tutorials, and social events. Shifts are designed to optimize your access to conference events.
 
-#### Roles and Responsibilities
-
+**Roles and Responsibilities:** <br/>
 Volunteer tasks encompass various aspects such as assisting at the registration desk, on-boarding briefs to delegates checking in, problem solving, providing directional support at the conference venue, organizing delegate packs, overseeing poster sessions, coordinating volunteers, and providing AV/technical support, including social media management and aiding with conference events. If you apply and are selected as a virtual volunteer your roles and responsibilities will be monitoring content on platforms such as RocketChat; Underline, MiniConf etc. As a virtual attendee you will report content issues on publications and escalate issues to the on-site technical support team. With this knowledge, please make sure you possess the skills to handle such requirements during the conference. 
 
-#### Selection Criteria
-
+**Selection Criteria:** <br/>
 Candidates will be assessed based on their application package (details below). Preference will be given to students presenting papers at the main conference or affiliated workshops without alternative travel support.
 
 
-# Application Process
+## Application Process
  - Applicants must be full-time students.
  - Submission requires a completed application form [here](https://forms.gle/S48d86SLPiWaw9UUA) with a few questions and a concise one-page CV (resume).
  - Travel and accommodations should be arranged independently, regardless of the application outcome. Special Rate Lodging is secured by ACL Months in advance to the conference. The discounted rates can be seen and secured by going to the Conference website, Participant Info, Accommodations. 
+
 
 ## Application Instructions
 
