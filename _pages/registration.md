@@ -108,7 +108,7 @@ Note: Workshop authors receiving late notifications will have the ability to **a
 |                | **Early Rate**   | **Late Rate**     | **On-site Rate**  |
 | **Start Date** | April 15, 2026   | June 3, 2026      | July 1, 2026      |
 | **End Date**   | June 2, 2026 AoE | June 30, 2026 AoE | July 7, 2026      |
-|                |                  |                   |                   |{:mid-rule}
+| <div class="mid-rule"></div> | <div class="mid-rule"></div> | <div class="mid-rule"></div> | <div class="mid-rule"></div> |
 |IP - Full Conference - Registering Paper Industry |	$1,350.00 | $1,500.00 | $1,650.00 |
 |IP - Full Conference - Industry | $1,100.00 | $1,250.00 | $1,400.00 |
 |IP - Full Conference - Registering Paper Academic | $1,050.00 | $1,200.00 | $1,350.00 |
@@ -133,7 +133,7 @@ Note: Workshop authors receiving late notifications will have the ability to **a
 {: .dates-table}
 
 <style>
-.dates-table { font-size: .9em; }
+.dates-table { font-size: .7em; }
 .dates-table tr td:nth-child(1) { width: 55%; }
 .dates-table tr td:nth-child(2) { width: 25%; }
 .dates-table del { color: #888; }
@@ -145,7 +145,7 @@ Note: Workshop authors receiving late notifications will have the ability to **a
 |                | **Early Rate**   | **Late Rate**     | **On-site Rate**  |
 | **Start Date** | April 15, 2026   | June 3, 2026      | July 1, 2026      |
 | **End Date**   | June 2, 2026 AoE | June 30, 2026 AoE | July 7, 2026      |
-|                |                  |                   |                   |{:mid-rule}
+| <div class="mid-rule"></div> | <div class="mid-rule"></div> | <div class="mid-rule"></div> | <div class="mid-rule"></div> |
 |V - Full Conference - Registering Paper Industry | $600.00 | $750.00 | $750.00 |
 |V - Full Conference - Industry | $450.00 | $600.00 | $600.00 |
 |V - Full Conference - Registering Paper Academic | $450.00 | $600.00 | $600.00 |
@@ -167,7 +167,7 @@ Note: Workshop authors receiving late notifications will have the ability to **a
 {: .dates-table}
 
 <style>
-.dates-table { font-size: .9em; }
+.dates-table { font-size: .7em; }
 .dates-table tr td:nth-child(1) { width: 55%; }
 .dates-table tr td:nth-child(2) { width: 25%; }
 .dates-table del { color: #888; }
