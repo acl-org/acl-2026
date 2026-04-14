@@ -20,6 +20,7 @@ The 64th Annual Meeting of the Association for Computational Linguistics (ACL 20
 .news-table { font-size: .9em; table-layout: fixed; }
 .news-table tr td:nth-child(1) { font-weight: bold; width: 10em; }
 </style>
+| April 13, 2026 | [Registration page](/registration/) page is available.
 | April 11, 2026 | [Call for volunteers](/calls/volunteers/) is out.
 | April 9, 2026 | The list of [ACL workshops](/program/workshops/) is out.
 | January 12, 2026 | [System Demonstration call for papers](/calls/system_demonstration/) is out.
