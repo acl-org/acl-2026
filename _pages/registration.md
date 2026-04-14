@@ -105,11 +105,10 @@ Note: Workshop authors receiving late notifications will have the ability to **a
 
 ### In-person Registration Rates
 
-|                | **Early Rates**  | **Late Rates**    | **On-site Rates** |
+|                | **Early Rate**   | **Late Rate**     | **On-site Rate**  |
 | **Start Date** | April 15, 2026   | June 3, 2026      | July 1, 2026      |
 | **End Date**   | June 2, 2026 AoE | June 30, 2026 AoE | July 7, 2026      |
-| **End Date**   | June 2, 2026 AoE | June 30, 2026 AoE | July 7, 2026      |
-|                |                  |                   |                   |
+|                |                  |                   |                   |{:mid-rule}
 |IP - Full Conference - Registering Paper Industry |	$1,350.00 | $1,500.00 | $1,650.00 |
 |IP - Full Conference - Industry | $1,100.00 | $1,250.00 | $1,400.00 |
 |IP - Full Conference - Registering Paper Academic | $1,050.00 | $1,200.00 | $1,350.00 |
@@ -131,6 +130,7 @@ Note: Workshop authors receiving late notifications will have the ability to **a
 |IP - 1 Day Tutorial Only - Industry | $300.00 | $450.00 | $450.00 |
 |IP - 1 Day Tutorial Only - Academic | $200.00 | $350.00 | $350.00 |
 |IP - 1 Day Tutorial Only - Student | $100.00 | $250.00 | $250.00 |
+{: .dates-table}
 
 <style>
 .dates-table { font-size: .9em; }
@@ -139,16 +139,13 @@ Note: Workshop authors receiving late notifications will have the ability to **a
 .dates-table del { color: #888; }
 </style>
 
-{: .dates-table}
-
 
 ### Virtual Registration Rates
 
-                | **Early Rates**  | **Late Rates**    | **On-site Rates** |
- **Start Date** | April 15, 2026   | June 3, 2026      | July 1, 2026      |
- **End Date**   | June 2, 2026 AoE | June 30, 2026 AoE | July 7, 2026      |
- **End Date**   | June 2, 2026 AoE | June 30, 2026 AoE | July 7, 2026      |
-                |                  |                   |                   |
+|                | **Early Rate**   | **Late Rate**     | **On-site Rate**  |
+| **Start Date** | April 15, 2026   | June 3, 2026      | July 1, 2026      |
+| **End Date**   | June 2, 2026 AoE | June 30, 2026 AoE | July 7, 2026      |
+|                |                  |                   |                   |{:mid-rule}
 |V - Full Conference - Registering Paper Industry | $600.00 | $750.00 | $750.00 |
 |V - Full Conference - Industry | $450.00 | $600.00 | $600.00 |
 |V - Full Conference - Registering Paper Academic | $450.00 | $600.00 | $600.00 |
@@ -167,6 +164,7 @@ Note: Workshop authors receiving late notifications will have the ability to **a
 |V - 1 Day Tutorial/Workshop Only - Academic | $50.00 | $200.00 | $200.00 |
 |V - 1 Day Tutorial/Workshop Only - Registering Paper Student | $175.00 | $325.00 | $325.00 |
 |V - 1 Day Tutorial/Workshop Only - Student | $25.00 | $175.00 | $175.00 |
+{: .dates-table}
 
 <style>
 .dates-table { font-size: .9em; }
@@ -174,8 +172,6 @@ Note: Workshop authors receiving late notifications will have the ability to **a
 .dates-table tr td:nth-child(2) { width: 25%; }
 .dates-table del { color: #888; }
 </style>
-
-{: .dates-table}
 
 
 ## Invited Speakers
