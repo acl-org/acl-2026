@@ -51,21 +51,21 @@ This structure ensures that
  - Each registration covers **up to 2 papers** (additional fees apply beyond this and you can reach out to [aclinfo@yesevents.com](mailto:aclinfo@yesevents.com) to add up to 2 additional papers).
  - Papers not properly registered **will not be included in the program or proceedings**.
 
-**Exceptions**<br/>
+#### Exceptions
  - Findings papers **not being presented** do not require paper registration.
  - Workshop **shared task papers** do not require paper registration.
 
-**Important**<br/>
+#### Important
 If authors in the above exception categories plan to attend the conference, they **must still register as attendees**, but they are **not required to pay the Author Paper Presenter registration fee** and may register at the standard attendee rate.
 
 
 ## What Registration Covers
 
-**Main Conference**<br/>
+#### Main Conference
  - **In-person registration**: food & beverage (breaks, welcome reception, social events), venue space, AV/poster equipment
  - **Virtual registration**: internet, AV, content platforms, and delivery infrastructure
 
-**Tutorial & Workshop Only**<br/>
+#### Tutorial & Workshop Only
  - **In-person registration**: food & beverage breaks, venue space, AV/poster equipment 
  - **Virtual registration**: internet, AV, content platforms, and delivery infrastructure
 
@@ -90,7 +90,7 @@ Note: Workshop authors receiving late notifications will have the ability to **a
     - Choose their paper from a dropdown list to link it properly
     - List who is presenting the paper
 
-**Important**<br/>
+#### Important
  - Papers not linked to a valid registration will be **removed from the conference and the Anthology**.
  - The Presenter and the Author Registering the paper **must have the same presentation type**. For example a virtual Author registering paper can only present virtually. If presenting in-person, the Author registering the paper must register in-person attendance.
  - If a paper scheduled for presentation is not registered **two weeks prior to the conference**, it will be removed from the program & the proceedings.
@@ -197,7 +197,7 @@ Registrants may switch to Virtual to In-person Attendance or In-person to Virtua
  - 2 weeks before conference (June 17, 2026): No cancellations. Registration can be switched to Virtual (refund = difference in registration fees).
  - No-shows: No refund.
 
-**Exceptions**<br/>
+#### Exceptions
  - Written requests required with documentation for review and approval by ACL.
  - If a visa application is denied, registrants may convert their registration to Virtual Attendance. Refunds will be issued for the difference in cost less a $25 processing fee, provided documentation of the denial is submitted.
 
