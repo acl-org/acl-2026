@@ -36,7 +36,7 @@ Registration pricing remains as listed below.
 
 Note: In-person registration availability is limited and released in phases.
 
-### Phase 1
+### Phase 1: In-person
 
 **_In-Person_ Author Register Paper Presenter Rates**
 
@@ -77,13 +77,13 @@ Note: In-person registration availability is limited and released in phases.
 
 <br>
 
-### Phase 2
+### Phase 2: In-person
 
 **_In-Person_ Non-Presenter Rates**
 
 |                | **Early Rate**   | **Late Rate**     | **Onsite**
-| **Start Date** | April 21, 2026   | May 6, 2026      | July 1, 2026
-| **End Date**   | May 26, 2026 AoE | May 11, 2026 AoE | July 7, 2026 PDT
+| **Start Date** | May 12, 2026   | May 27, 2026      | July 1, 2026
+| **End Date**   | May 26, 2026 AoE | June 30, 2026 AoE | July 7, 2026 PDT
 | <span class="mid-rule"></span> | <span class="mid-rule"></span> | <span class="mid-rule"></span> | <span class="mid-rule"></span> |
 |IP - Full Conference - Industry (Non Presenter) |  $1,100.00 | $1,250.00 | $1,350.00 |
 |IP - 3 Day Main Conference Only - Industry (Non Presenter) | $900.00 | $1,050.00 | $1,150.00 |
@@ -103,7 +103,7 @@ Note: In-person registration availability is limited and released in phases.
 {: .dates-table}
 
 
-### Phase 1
+### Phase 1: Virtual
 
 **_Virtual_ Author Register Paper Presenter Rates**
 
@@ -132,28 +132,28 @@ Note: In-person registration availability is limited and released in phases.
 | **Start Date** | April 21, 2026   | May 6, 2026      |
 | **End Date**   | May 5, 2026 AoE | May 11, 2026 AoE |
 | <span class="mid-rule"></span> | <span class="mid-rule"></span> | <span class="mid-rule"></span> |
-|V - Full Conference - Industry |  $450.00 | $600.00 |
-|V - 2 Day Tutorial/Workshop Only - Industry |  $150.00 | $300.00 |
-|V - 1 Day Tutorial/Workshop Only - Industry |  $75.00 | $225.00 |
+|V - Full Conference - Industry (Non Presenter) |  $450.00 | $600.00 |
+|V - 2 Day Tutorial/Workshop Only - Industry (Non Presenter) |  $150.00 | $300.00 |
+|V - 1 Day Tutorial/Workshop Only - Industry (Non Presenter) |  $75.00 | $225.00 |
 {: .dates-table}
 
-### Phase 2
+### Phase 2: Virtual
 
 **_Virtual_ Non Presenter Rates**
 
 |                | **Early Rate**   | **Late Rate**     |
-| **Start Date** | April 21, 2026   | May 27, 2026      |
+| **Start Date** | May 12, 2026   | May 27, 2026      |
 | **End Date**   | May 26, 2026 AoE | June 30, 2026 AoE |
 | <span class="mid-rule"></span> | <span class="mid-rule"></span> | <span class="mid-rule"></span> |
-|V - Full Conference - Industry |  $450.00 | $600.00 |
-|V - 2 Day Tutorial/Workshop Only - Industry | $150.00 | $300.00 |
-|V - 1 Day Tutorial/Workshop Only - Industry | $75.00 | $225.00 |
-|V - Full Conference - Academic | $300.00 | $450.00 |
-|V - 2 Day Tutorial/Workshop Only - Academic | $100.00 | $250.00 |
-|V - 1 Day Tutorial/Workshop Only - Academic | $50.00 | $200.00 |
-|V - Full Conference - Student | $150.00 | $300.00 |
-|V - 2 Day Tutorial/Workshop Only - Student | $50.00 | $200.00 |
-|V - 1 Day Tutorial/Workshop Only - Student | $25.00 | $175.00 |
+|V - Full Conference - Industry (Non Presenter) |  $450.00 | $600.00 |
+|V - 2 Day Tutorial/Workshop Only - Industry (Non Presenter) | $150.00 | $300.00 |
+|V - 1 Day Tutorial/Workshop Only - Industry (Non Presenter) | $75.00 | $225.00 |
+|V - Full Conference - Academic (Non Presenter) | $300.00 | $450.00 |
+|V - 2 Day Tutorial/Workshop Only - Academic (Non Presenter) | $100.00 | $250.00 |
+|V - 1 Day Tutorial/Workshop Only - Academic (Non Presenter) | $50.00 | $200.00 |
+|V - Full Conference - Student (Non Presenter) | $150.00 | $300.00 |
+|V - 2 Day Tutorial/Workshop Only - Student (Non Presenter) | $50.00 | $200.00 |
+|V - 1 Day Tutorial/Workshop Only - Student (Non Presenter) | $25.00 | $175.00 |
 {: .dates-table}
 
 
