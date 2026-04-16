@@ -74,8 +74,12 @@ If your organization is interested in sponsoring ACL 2026, please refer to our [
 
 
 ## Gold
-
-Coming soon!
+<figure class="sponsors-list third">
+    <a href="http://www.cheninstitute.org" title="Chen Institute">
+      <div class="dummy-padding"></div>
+        <img src="/assets/images/sponsors/chen_institute.png" alt="Chen Institute">
+    </a>	
+</figure>
 
 ## Silver
 <figure class="sponsors-list third">
