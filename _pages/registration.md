@@ -65,8 +65,9 @@ Note: In-person registration availability is limited and released in phases.
 
 **_In-Person_ Employees of Sponsoring Companies/Institutions Registration**
 
-| **Start Date** | April 21, 2026   | May 27, 2026      | July 1, 2026
-| **End Date**   | May 26, 2026 AoE | June 30, 2026 AoE | July 7, 2026 PDT
+|                | **Early Rate**   | **Late Rate**     | **Onsite**       |
+| **Start Date** | April 21, 2026   | May 27, 2026      | July 1, 2026     |
+| **End Date**   | May 26, 2026 AoE | June 30, 2026 AoE | July 7, 2026 PDT |
 | <span class="mid-rule"></span> | <span class="mid-rule"></span> | <span class="mid-rule"></span> | <span class="mid-rule"></span> |
 |IP - Full Conference - Industry (Non Presenter) |  $1,100.00 | $1,250.00 | $1,350.00 |
 |IP - 3 Day Main Conference - Industry (Non Presenter) |  $900.00 | $1,050.00 | $1,150.00 |
@@ -81,9 +82,9 @@ Note: In-person registration availability is limited and released in phases.
 
 **_In-Person_ Non-Presenter Rates**
 
-|                | **Early Rate**   | **Late Rate**     | **Onsite**
-| **Start Date** | May 12, 2026     | May 27, 2026      | July 1, 2026
-| **End Date**   | May 26, 2026 AoE | June 30, 2026 AoE | July 7, 2026 PDT
+|                | **Early Rate**   | **Late Rate**     | **Onsite**       |
+| **Start Date** | May 12, 2026     | May 27, 2026      | July 1, 2026     |
+| **End Date**   | May 26, 2026 AoE | June 30, 2026 AoE | July 7, 2026 PDT |
 | <span class="mid-rule"></span> | <span class="mid-rule"></span> | <span class="mid-rule"></span> | <span class="mid-rule"></span> |
 |IP - Full Conference - Industry (Non Presenter) |  $1,100.00 | $1,250.00 | $1,350.00 |
 |IP - 3 Day Main Conference Only - Industry (Non Presenter) | $900.00 | $1,050.00 | $1,150.00 |
@@ -98,8 +99,8 @@ Note: In-person registration availability is limited and released in phases.
 |IP - Full Conference - Student (Non Presenter) | $500.00 | $350.00 | $450.00 |
 |IP - Main Conf Only - Student (Non Presenter) | $300.00 | $350.00 | $450.00 |
 |IP - 2 Day Workshop Only - Student (Non Presenter) | $200.00 | $350.00 | $400.00 |
-|IP - 1 Day Workshop Only - Student (Non Presenter) | $100.00 | $350.00 | $400.00 |
-|IP - 1 Day Tutorial Only - Student (Non Presenter) | $100.00 | $350.00 | $400.00 |
+|IP - 1 Day Workshop Only - Student (Non Presenter) | $100.00 | $250.00 | $300.00 |
+|IP - 1 Day Tutorial Only - Student (Non Presenter) | $100.00 | $250.00 | $300.00 |
 {: .dates-table}
 
 
