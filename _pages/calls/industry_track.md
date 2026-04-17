@@ -76,7 +76,7 @@ Paper submission deadline | February 14, 2026 |
 Review release date and beginning of rebuttal period | March 23, 2026 |
 Author response deadline | **March 30, 2026** |
 Notification of acceptance | April 12, 2026 |
-Camera-ready deadline | April 19, 2026 |
+Camera-ready deadline | **April 25, 2026** |
 Main conference | July 2-7, 2026 |
 
 <style>
