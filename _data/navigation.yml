@@ -81,3 +81,5 @@ calls:
         url: /calls/volunteers/
       - title: "Diversity and Inclusion Subsidies"
         url: /calls/di_subsidies/
+      - title: "Virtual Subsidies"
+        url: /calls/virtual_subsidies/
