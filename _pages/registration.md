@@ -9,32 +9,120 @@ toc_sticky: True
 
 <br/>
 
-## Important Registration Update
+#### ACL 2026 Conference Registration Phase 1 Opening April 21
 
-Due to onsite capacity limitations, ACL 2026 registration will follow a phased rollout beginning April 21, 2026 to ensure that at least one author per paper can present in person.
+We are pleased to announce that registration for the ACL 2026 Conference in San Diego is scheduled to officially open on Tuesday, April 21. As we prepare for this year’s event, we want to share important updates from the ACL Board and Business Office regarding registration structure, capacity, and pricing.
+
+## Onsite Capacity & Phased Registration
+
+ACL 2026 has a maximum onsite capacity of 3,500 attendees per day due to food & beverage constraints and space limitations for plenary events. Attendance beyond this threshold would significantly increase the cost per participant.
+
+While ACL will do its best to accommodate as many onsite participants as possible, we appreciate your patience and cooperation with our three-phase registration rollout.
+
+This approach ensures that:
+ - At least one author per paper can present in person
+ - Additional authors may attend as space allows
+ - Remaining capacity can be made available to the broader community
 
 ### Registration Phases
 
-**Phase 1 (April 21 – May 11)**: Presenting Author and Employees of Sponsoring Companies/Institutions Only
+#### Phase 1 – Presenting Author, Sponsors and Employees of Sponsoring Companies/Institutions Only
 
-Limited to one author per paper (must be the presenter)
+Presenting Authors 
+ - Early Registration: April 21 – May 5 
+ - Late Registration: May 6 – May 11
 
-Early Registration: April 21 – May 5
+Employees of Sponsoring Companies/Institutions Registration
+ - Early Registration: April 21 – May 26 if not sold out.
+ - Late Registration: May 27 - June 30th if not sold out. 
 
-Late Registration: May 6 – May 11
+This exclusive registration period is reserved for 1 author presenting at the conference (the 1 author applies to papers being presented in Main, Findings, Industry, Student Research Workshop, Demos and Workshop Papers that have received notification).
 
-Important: All papers must be registered by May 11, 2026, or they risk being removed from the proceedings.
+It also includes Our Sponsors, Employees of the sponsoring companies/institutions for ACL 2026 listed at <https://2026.aclweb.org/sponsors/> in recognition of the essential contribution of our sponsors. Current Sponsors are: Bloomberg, capital One, Alibaba Cloud, Megagon Labs, Appen, Meta, Oracle, Apple, Adobe, Translated, NatWest Group, ARC, Bablescape, DATAmundi.ai.
 
-**Phase 2 (Beginning May 12)**: Registration will open to the broader community and additional authors, based on remaining onsite capacity.
+<span style="color:#ff0000">**All papers must be registered for presentation by May 11.  Note that late registration fees will apply after May 5th.** Note all findings will be included in the proceeds however if you are not registered by May 11th you could miss presenting in-person due to capacity restrictions.</span>
 
-Onsite availability is limited and may sell out quickly. Authors planning additional in-person attendees should be prepared to register as soon as Phase 2 opens.
+Employees of sponsoring companies/institutions who are not presenting authors may also register in Phase 2 below **as long as space is still available**.
+
+#### Phase 2 – Open to Everyone *except* the Presenting Author deadline to register the paper is May 11, 2026.
+
+Early Registration rates: May 12 – May 26  If not sold out.
+
+Late Registration rates: Late Registration: May 27 - June 30th if not sold out.
+
+Onsite Registration rates: Starting July 1 (unlikely to be available for the main conference; may be possible for workshops and tutorials only)
+
+We will actively monitor capacity and provide updates, but those wishing to attend ACL 2026 in person are strongly encouraged to register as early as possible, as the conference is very likely to sell out quickly. The ACL 2026 venue has a maximum capacity of 3500 attendees in person; ACL 2025 in Vienna had over 5000 attendees in person and the San Diego venue was contracted prior to the recent explosive growth of ACL conference sizes.
+
+
+## ACL 2026 Pricing
+
+Due to continued increases in food & beverage, telecommunications, audiovisual (AV), and union labor costs, registration fees have been adjusted for 2026.
+
+To provide context:
+ - Food & beverage costs alone can exceed $800 per full conference attendee
+ - Presenter-related costs (AV, internet, labor compliance) have also risen significantly
+
+Despite these increases, ACL remains committed to accessibility:
+ - We intentionally subsidize student and academic registrations
+ - Pricing is structured such that early registrations alone would result in a loss, balanced by late registrations
+ - Supporting networking, collaboration, and community engagement remains a priority
+
+### Registration Categories
+The ACL Executive Committee has established three registration types:
+ - Industrial / Non-Academic
+ - Academic / Government 
+ - Student
+
+Each category includes:
+ - Author Paper Presenter Registration
+ - Non-presenting attendee registration (discounted)
+
+This ensures:
+ - Presenters cover the core costs of presenting
+ - Non-presenting participants can attend at a more accessible rate
+
+### Author Registration Requirements
+ - At least one author per accepted paper must register as an Author Paper Presenter
+ - Additional co-authors must register separately
+ - Each registration covers up to 2 papers (additional fees apply beyond this)
+
+Contact: [aclinfo@yesevents.com](mailto:aclinfo@yesevents.com) to add up to 2 additional papers
+
+Important:
+ - Papers not properly registered will not be included in the program or proceedings (all findings will be in the proceeds however if presenting will not be in the program. 
+
+#### Exceptions
+ - Findings papers not being presented do not require paper registration
+ - Workshop shared task papers do not require paper registration
+
+If attending, authors in these categories must still register as attendees (standard rate applies).
+
+#### What Registration Covers
+
+**Main Conference**
+ - In-person: welcome reception, breaks and social event food and beverage, venue space, AV/poster equipment
+ - Virtual: internet, AV, content platforms, delivery infrastructure
+
+**Tutorials & Workshops**
+ - In-person: breaks food and beverage, venue space, AV
+ - Virtual: internet, AV, content platforms
+
+All fees align with actual participation costs.
+
+
+### Updated Important Author Deadlines
+
+Main Conference Papers
+ - All papers must be registered for presentation by: May 11, 2026
+
+Workshop Papers
+ - Register by: May 26, 2026 (end of Early Registration)
 
 
 ### Registration Rates
 
 Registration pricing remains as listed below.
-
-Note: In-person registration availability is limited and released in phases.
 
 ### Phase 1: In-person
 
@@ -178,11 +266,6 @@ Note: In-person registration availability is limited and released in phases.
 </style>
 
 
-Additional details regarding registration availability and phases will be communicated as capacity is monitored.
-
-A final update with complete registration details will be posted by the end of this week.
-
-
 ## Invited Speakers
 
 Invited speakers and panelists will receive a registration code. Additional invited speakers must register as attendees. ACL membership is included.
@@ -203,21 +286,19 @@ D&I subsidies remain available to offset registration and travel costs.
 The ACL policy is that everyone attending an ACL conference must be a current (CY 2026) ACL member. So, in addition to the registration fee, each Regular will add $100 membership fee to their registration and each Student will add $50 membership fee to their registration if not already a 2026 paid member. Your ACL membership is for the entire calendar year, providing membership in the society devoted to promoting CL research throughout the world, open access to the CL and TACL Journals and ACL Anthology as well as access to other ACL conferences in the same year without paying membership again. Membership also entitles you to electronic notification of new issues of the journals, discounts on publications from participating publishers, announcements of ACL and related conferences, workshops, and journal calls of interest to the community.
 
 
-## Change Fee Policy 
-- No change fees will be applied through May 27, 2026
-- After May 27, a $25 processing fee will apply for:
-   - Switching from in-person to virtual
-   - Switching from virtual to in-person (if capacity allows)
+## Changes & Cancellation Policy
 
+#### Change Fees:
+No change fees will be applied through May 27, 2026
+<span color="#ff0000">After May 27, a **$25 processing fee will apply for**:</span>
+ - Switching from in-person to virtual
+ - Switching from virtual to in-person (if capacity allows)
 
-## Cancellation Policy
-
-The Association for Computational Linguistics (ACL) is committed to supporting our attendees while ensuring fairness and predictability in managing event registrations. Please review our cancellation and refund policy carefully before completing your registration.
-
-- By June 3, 2026: Full refund less the $50 processing fee
-- By June 10, 2026: $200 fee, or option to switch to virtual
-- After June 17, 2026: No cancellations (registration may be switched to virtual)
-- No-shows: No refund
+#### Cancellation Policy:
+ - **By June 3, 2026**: Full refund less the $50 processing fee
+ - **By June 10, 2026**: $200 fee, or option to switch to virtual
+ - **After June 17, 2026**: No cancellations (registration will be switched to virtual)
+ - **No-shows**: No refund
 
 
 ## Code of Ethics
