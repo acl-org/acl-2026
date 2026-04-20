@@ -48,14 +48,17 @@ Note: In-person registration availability is limited and released in phases.
 |IP - 3 Day Main Conference Only Registering Paper Industry | $1,150.00 | $1,300.00 |
 |IP - 2 Day Workshop Only - Registering Paper Industry | $850.00 | $900.00 |
 |IP - 1 Day Workshop Only - Registering Paper Industry | $550.00 | $700.00 |
+|IP - 1 Day Tutorial Only - Industry | $300.00 | $450.00 |
 |IP - Full Conference - Registering Paper Academic | $1,050.00 | $1,200.00 |
-|IP - 3 Day Main Conf Only - Registering Paper Academic | $850.00 | $1,000.00 |
+|IP - 3 Day Main Conference Only - Registering Paper Academic | $850.00 | $1,000.00 |
 |IP - 2 Day Workshop Only - Registering Paper Academic | $650.00 | $800.00 |
 |IP - 1 Day Workshop Only - Registering Paper Academic | $450.00 | $600.00 |
+|IP - 1 Day Tutorial Only - Academic | $200.00 | $350.00 |
 |IP - Full Conference - Registering Paper Student | $750.00 | $900.00 |
-|IP - Main Conf Only - Registering Paper Student | $550.00 | $700.00 |
+|IP - 3 Day Main Conference Only - Registering Paper Student | $550.00 | $700.00 |
 |IP - 2 Day Workshop Only - Registering Paper Student | $450.00 | $600.00 |
 |IP - 1 Day Workshop Only - Registering Paper Student | $350.00 | $500.00 |
+|IP - 1 Day Tutorial Only - Student | $100.00 | $250.00 |
 {: .dates-table}
 
 <br>
@@ -70,7 +73,7 @@ Note: In-person registration availability is limited and released in phases.
 |IP - 3 Day Main Conference - Industry (Non Presenter) |  $900.00 | $1,050.00 | $1,150.00 |
 |IP - 2 Day Workshop Only - Industry (Non Presenter) |  $600.00 | $750.00 | $800.00 |
 |IP - 1 Day Workshop Only - Industry (Non Presenter) |  $300.00 | $450.00 | $500.00 |
-|IP - 1 Day Tutorial - Industry (Non Presenter) |  $300.00 | $450.00 | $500.00 |
+|IP - 1 Day Tutorial Only - Industry |  $300.00 | $450.00 | $500.00 |
 {: .dates-table}
 
 <br>
@@ -85,19 +88,25 @@ Note: In-person registration availability is limited and released in phases.
 | <span class="mid-rule"></span> | <span class="mid-rule"></span> | <span class="mid-rule"></span> | <span class="mid-rule"></span> |
 |IP - Full Conference - Industry (Non Presenter) |  $1,100.00 | $1,250.00 | $1,350.00 |
 |IP - 3 Day Main Conference Only - Industry (Non Presenter) | $900.00 | $1,050.00 | $1,150.00 |
+|IP - 2 Day Workshop Only - Registering Paper Industry (Non Presenter) | $850.00 | $1000.00 | $1050.00 |
 |IP - 2 Day Workshop Only - Industry (Non Presenter) | $600.00 | $750.00 | $800.00 |
+|IP - 1 Day Workshop Only - Registering Paper Industry (Non Presenter) | $550.00 | $700.00 | $750.00 |
 |IP - 1 Day Workshop Only - Industry (Non Presenter) | $300.00 | $450.00 | $500.00 |
-|IP - 1 Day Tutorial Only - Industry (Non Presenter) | $300.00 | $450.00 | $500.00 |
+|IP - 1 Day Tutorial Only - Industry | $300.00 | $450.00 | $500.00 |
 |IP - Full Conference - Academic (Non Presenter) | $800.00 | $950.00 | $1,050.00 |
-|IP - 3 Day Main Conf Only - Academic (Non Presenter) | $600.00 | $750.00 | $850.00 |
+|IP - 3 Day Main Conference Only - Academic (Non Presenter) | $600.00 | $750.00 | $850.00 |
+|IP - 2 Day Workshop Only - Registering Paper Academic (Non Presenter) | $650.00 | $800.00 | $850.00 |
 |IP - 2 Day Workshop Only - Academic (Non Presenter) | $400.00 | $550.00 | $600.00 |
+|IP - 1 Day Workshop Only - Registering Paper Academic (Non Presenter) | $450.00 | $600.00 | $650.00 |
 |IP - 1 Day Workshop Only - Academic (Non Presenter) | $200.00 | $350.00 | $400.00 |
-|IP - 1 Day Tutorial Only - Academic (Non Presenter) | $200.00 | $350.00 | $400.00 |
+|IP - 1 Day Tutorial Only - Academic | $200.00 | $350.00 | $400.00 |
 |IP - Full Conference - Student (Non Presenter) | $500.00 | $350.00 | $450.00 |
-|IP - Main Conf Only - Student (Non Presenter) | $300.00 | $350.00 | $450.00 |
+|IP - 3 Day Main Conference Only - Student (Non Presenter) | $300.00 | $350.00 | $450.00 |
+|IP - 2 Day Workshop Only - Registering Paper Student (Non Presenter) | $450.00 | $600.00 | $650.00 |
 |IP - 2 Day Workshop Only - Student (Non Presenter) | $200.00 | $350.00 | $400.00 |
+|IP - 1 Day Workshop Only - Registering Paper Student (Non Presenter) | $350.00 | $500.00 | $550.00 |
 |IP - 1 Day Workshop Only - Student (Non Presenter) | $100.00 | $250.00 | $300.00 |
-|IP - 1 Day Tutorial Only - Student (Non Presenter) | $100.00 | $250.00 | $300.00 |
+|IP - 1 Day Tutorial Only - Student | $100.00 | $250.00 | $300.00 |
 {: .dates-table}
 
 
@@ -112,12 +121,15 @@ Note: In-person registration availability is limited and released in phases.
 |V - Full Conference - Registering Paper Industry |  $600.00 | $750.00 |
 |V - 2 Day Workshop Only - Registering Paper Industry | $300.00 | $450.00 |
 |V - 1 Day Workshop Only - Registering Paper Industry | $225.00 | $375.00 |
+|V - 1 Day Tutorial Only - Industry | $75.00 | $225.00 |
 |V - Full Conference - Registering Paper Academic | $450.00 | $600.00 |
 |V - 2 Day Workshop Only - Registering Paper Academic | $250.00 | $500.00 |
 |V - 1 Day Workshop Only - Registering Paper Academic | $200.00 | $350.00 |
+|V - 1 Day Tutorial Only - Academic | $50.00 | $100.00 |
 |V - Full Conference - Registering Paper Student | $300.00 | $450.00 |
 |V - 2 Day Workshop Only - Registering Paper Student | $200.00 | $350.00 |
 |V - 1 Day Workshop Only - Registering Paper Student | $175.00 | $325.00 |
+|V - 1 Day Tutorial Only - Student | $25.00 | $75.00 |
 {: .dates-table}
 
 <br>
@@ -130,7 +142,7 @@ Note: In-person registration availability is limited and released in phases.
 |V - Full Conference - Industry (Non Presenter) |  $450.00 | $600.00 |
 |V - 2 Day Workshop Only - Industry (Non Presenter) |  $150.00 | $300.00 
 |V - 1 Workshop Only - Industry (Non Presenter) |  $75.00 | $225.00 |
-|V - 1 Day Tutorial Only - Industry (Non Presenter) |  $75.00 | $225.00 |
+|V - 1 Day Tutorial Only - Industry |  $75.00 | $225.00 |
 {: .dates-table}
 
 ### Phase 2: Virtual
@@ -142,17 +154,22 @@ Note: In-person registration availability is limited and released in phases.
 | **End Date**   | May 26, 2026 AoE | June 30, 2026 AoE |
 | <span class="mid-rule"></span> | <span class="mid-rule"></span> | <span class="mid-rule"></span> |
 |V - Full Conference - Industry (Non Presenter) |  $450.00 | $600.00 |
+|V - 2 Day Workshop Only - Registering Paper Industry (Non Presenter) | $300.00 | $450.00 |
 |V - 2 Day Workshop Only - Industry (Non Presenter) | $150.00 | $300.00 |
+|V - 1 Day Workshop Only - Registering Paper Industry (Non Presenter) | $225.00 | $375.00 |
 |V - 1 Day Workshop Only - Industry (Non Presenter) | $75.00 | $225.00 |
-|V - 1 Day Tutorial Only - Industry (Non Presenter) | $75.00 | $225.00 |
+|V - 1 Day Tutorial Only - Industry | $75.00 | $225.00 |
 |V - Full Conference - Academic (Non Presenter) | $300.00 | $450.00 |
+|V - 2 Day Workshop Only - Registering Paper Academic (Non Presenter) | $250.00 | $400.00 |
 |V - 2 Day Workshop Only - Academic (Non Presenter) | $100.00 | $250.00 |
+|V - 1 Day Workshop Only - Registering Paper Academic (Non Presenter) | $200.00 | $350.00 |
 |V - 1 Day Workshop Only - Academic (Non Presenter) | $50.00 | $200.00 |
-|V - 1 Day Tutorial Only - Academic (Non Presenter) | $50.00 | $200.00 |
+|V - 1 Day Tutorial Only - Academic | $50.00 | $200.00 |
 |V - Full Conference - Student (Non Presenter) | $150.00 | $300.00 |
+|V - 2 Day Workshop Only - Registering Paper Student (Non Presenter) | $200.00 | $350.00 |
 |V - 2 Day Workshop Only - Student (Non Presenter) | $50.00 | $200.00 |
 |V - 1 Day Workshop Only - Student (Non Presenter) | $25.00 | $175.00 |
-|V - 1 Day Tutorial Only - Student (Non Presenter) | $25.00 | $175.00 |
+|V - 1 Day Tutorial Only - Student | $25.00 | $175.00 |
 {: .dates-table}
 
 
