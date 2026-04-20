@@ -255,6 +255,7 @@ Registration pricing remains as listed below.
 |V - Full Conference - Student (Non Presenter) | $150.00 | $300.00 |
 |V - 2 Day Workshop Only - Registering Paper Student (Non Presenter) | $200.00 | $350.00 |
 |V - 2 Day Workshop Only - Student (Non Presenter) | $50.00 | $200.00 |
+|V - 1 Day Workshop Only - Registering Paper Student (Non Presenter) | $175.00 | $325.00 |
 |V - 1 Day Workshop Only - Student (Non Presenter) | $25.00 | $175.00 |
 |V - 1 Day Tutorial Only - Student | $25.00 | $175.00 |
 {: .dates-table}
