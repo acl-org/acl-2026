@@ -7,7 +7,6 @@ toc: True
 toc_sticky: True
 ---
 
-<br/>
 
 #### ACL 2026 Conference Registration Phase 1 Opening April 21
 
