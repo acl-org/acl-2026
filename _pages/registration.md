@@ -283,8 +283,8 @@ D&I subsidies remain available to offset registration and travel costs.
  - [Virtual Subsidy Application](https://forms.gle/8K4AQmQ1svPHM6GW8) Deadline: **June 6, 2026, 23:59 PM (UTC-12:00 AOE)**
  - Papers with all authors in regions eligible for free/sliding-scale virtual registration may register under those terms.
  - [Student Volunteer Subsidy Application](https://docs.google.com/forms/d/e/1FAIpQLScNxjlIb2B3zoUWIIT4yOBVWI_D-UmhNQPJ0xWsqRG_qQwy3g/viewform) Deadline: **May 15, 2026, 23:59 PM (UTC-12:00 AOE)**
- - If you have submitted a subsidy application, please select the payment option: “My registration has been approved by an ACL grant code.” Grant notifications are scheduled for May 26, 2026.
- - If you have been notified that your subsidy application was denied, your registration will reflect a balance due. You will be responsible for covering this amount. Please note that all outstanding balances must be paid in full to gain entry to the conference.
+ - If you have submitted a subsidy application, please select the payment option: “I have a pending subsidy application.” Grant notifications are scheduled for May 26, 2026.
+ - If you have been notified that your subsidy application was denied, your registration will reflect a balance due. You will be responsible for covering this amount. Please note that all outstanding balances must be paid in full by June 3rd to gain entry to the conference.
 
 
 ## Membership Policy
