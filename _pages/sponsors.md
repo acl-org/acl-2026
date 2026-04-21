@@ -70,6 +70,10 @@ If your organization is interested in sponsoring ACL 2026, please refer to our [
       <div class="dummy-padding"></div>
         <img src="/assets/images/sponsors/apple.png" alt="Apple">
     </a>
+    <a href="https://home.baidu.com/home/index" title="Baidu">
+      <div class="dummy-padding"></div>
+        <img src="/assets/images/sponsors/baidu.png" alt="Baidu">
+    </a>
 </figure>
 
 
