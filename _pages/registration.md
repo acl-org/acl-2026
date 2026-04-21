@@ -187,8 +187,8 @@ Registration pricing remains as listed below.
 |IP - 1 Day Workshop Only - Registering Paper Academic (Non Presenter) | $450.00 | $600.00 | $650.00 |
 |IP - 1 Day Workshop Only - Academic (Non Presenter) | $200.00 | $350.00 | $400.00 |
 |IP - 1 Day Tutorial Only - Academic | $200.00 | $350.00 | $400.00 |
-|IP - Full Conference - Student (Non Presenter) | $500.00 | $350.00 | $450.00 |
-|IP - 3 Day Main Conference Only - Student (Non Presenter) | $300.00 | $350.00 | $450.00 |
+|IP - Full Conference - Student (Non Presenter) | $500.00 | $650.00 | $750.00 |
+|IP - 3 Day Main Conference Only - Student (Non Presenter) | $300.00 | $450.00 | $550.00 |
 |IP - 2 Day Workshop Only - Registering Paper Student (Non Presenter) | $450.00 | $600.00 | $650.00 |
 |IP - 2 Day Workshop Only - Student (Non Presenter) | $200.00 | $350.00 | $400.00 |
 |IP - 1 Day Workshop Only - Registering Paper Student (Non Presenter) | $350.00 | $500.00 | $550.00 |
