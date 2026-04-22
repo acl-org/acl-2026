@@ -66,11 +66,11 @@ Applications will be evaluated based on the submitted materials and provided jus
 
 All deadlines are 11:59 pm UTC -12h (“anywhere on Earth”).
  - Application Deadline: May 15, 2026
- - Notification Deadline: May 30, 2026
+ - Notification Deadline: May 22, 2026
 
 #### Notification of Acceptance
 
-Applicants will be notified on (or before) **May 29, 2026**,  before the  ACL 2026 early registration. Link to ACL 2026 registration: <https://2026.aclweb.org/registration/>
+Applicants will be notified on (or before) **May 22, 2026**,  before the  ACL 2026 early registration. Link to ACL 2026 registration: <https://2026.aclweb.org/registration/>
 
 We aim to send all the notifications by the deadline above. Please be patient and wait for our email as we will notify you as soon as we can and no matter what the response is.
 
