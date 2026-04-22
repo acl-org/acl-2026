@@ -104,15 +104,6 @@ To learn more about each workshop, including schedule & times, visit the worksho
 {: .notice--primary}
 
 <div>
-  <h5><a href="#" target="_blank">LLMSEC 2026 Workshop on LLM Security</a></h5>
-  <h6>Organizers: TBA</h6>
-  <h6>Half-day workshop (afternoon)</h6>
-  <h6>Room: Harbor G</h6>
-  <p>Description: TBA</p>
-</div>
-{: .notice--primary}
-
-<div>
   <h5><a href="https://sites.google.com/view/stereacult-2026" target="_blank">The 1st Workshop on Stereotypes Across Cultures in Language Technologies (StereACuLT)</a></h5>
   <h6>Organizers: Weicheng Ma, Soroush Vosoughi, Rolando Coto Solano, Nabeel Gillani</h6>
   <h6>Half-day workshop (afternoon)</h6>
