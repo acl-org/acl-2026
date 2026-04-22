@@ -31,17 +31,17 @@ This approach ensures that:
 
 #### Phase 1 – Presenting Author, Sponsors and Employees of Sponsoring Companies/Institutions Only
 
-Presenting Authors 
+Presenting Authors (Main, Findings, CL, TACL, Industry, SRW, DEMOS)
  - Early Registration: April 21 – May 5 
  - Late Registration: May 6 – May 11
 
-Employees of Sponsoring Companies/Institutions Registration
+ACL 26 Sponsors, Employees of Sponsoring Companies/Institutions Registration
  - Early Registration: April 21 – May 26 if not sold out.
  - Late Registration: May 27 - June 30th if not sold out. 
 
 This exclusive registration period is reserved for 1 author presenting at the conference (the 1 author applies to papers being presented in Main, Findings, Industry, Student Research Workshop, Demos and Workshop Papers that have received notification).
 
-It also includes Our Sponsors, Employees of the sponsoring companies/institutions for ACL 2026 listed at <https://2026.aclweb.org/sponsors/> in recognition of the essential contribution of our sponsors. Current Sponsors are: Bloomberg, capital One, Alibaba Cloud, Megagon Labs, Appen, Meta, Oracle, Apple, Adobe, Translated, NatWest Group, ARC, Bablescape, DATAmundi.ai.
+It also includes Our Sponsors, Employees of the sponsoring companies/institutions for ACL 2026 listed at <https://2026.aclweb.org/sponsors/> in recognition of the essential contribution of our sponsors. Current Sponsors are: Bloomberg, Capital One, Alibaba Cloud, Megagon Labs, Appen, Meta, Oracle, Apple, Baidu, Adobe, Translated, NatWest Group, ARC, Bablescape, DATAmundi.ai.
 
 <span style="color:#ff0000">**All papers must be registered for presentation by May 11.  Note that late registration fees will apply after May 5th.** Note all findings will be included in the proceeds however if you are not registered by May 11th you could miss presenting in-person due to capacity restrictions.</span>
 
@@ -73,7 +73,7 @@ If your company is an ACL 26 sponsor listed above, you may use the appropriate r
 
 Employees of sponsoring companies/institutions who are not presenting authors may also register in Phase 2 below **as long as space is still available**.
 
-#### Phase 2 – Open to Everyone *except* the Presenting Author deadline to register the paper is May 11, 2026.
+#### Phase 2 – Workshop Authors, Tutorial Presenters, Additional Main Conference Authors and the broader community (Opens May 12)
 
 Early Registration rates: May 12 – May 26  If not sold out.
 
@@ -130,12 +130,18 @@ If attending, authors in these categories must still register as attendees (stan
 #### What Registration Covers
 
 **Main Conference**
- - In-person: welcome reception, breaks and social event food and beverage, venue space, AV/poster equipment
- - Virtual: internet, AV, content platforms, delivery infrastructure
+ - In-person: welcome reception, breaks and social event food and beverage, venue space, AV/poster equipment, content platforms, with access to underline up to 1 month after the event. 
+ - Virtual: internet, AV, content platforms, delivery infrastructure, with access to underline up to 1 month after the event.
+- Morning and afternoon coffee breaks throughout the conference
+- Admission to the Welcome Reception on Saturday, July 4th 
+- Admission to the Social Event on  Monday, July 6th 
+
 
 **Tutorials & Workshops**
- - In-person: breaks food and beverage, venue space, AV
- - Virtual: internet, AV, content platforms
+ - In-person: breaks food and beverage, venue space, AV, with access to underline up to 1 month after the event. 
+ - Virtual: internet, AV, content platforms, with access to underline up to 1 month after the event. 
+- Admission to the Welcome Reception on Saturday, July 4th, may be added at an additional fee
+- Admission to the Social Event on  Monday, July 6th, may be added at an additional fee
 
 All fees align with actual participation costs.
 
@@ -307,13 +313,25 @@ D&I subsidies remain available to offset registration and travel costs.
  - [Virtual Subsidy Application](https://forms.gle/8K4AQmQ1svPHM6GW8) Deadline: **June 6, 2026, 23:59 PM (UTC-12:00 AOE)**
  - Papers with all authors in regions eligible for free/sliding-scale virtual registration may register under those terms.
  - [Student Volunteer Subsidy Application](https://docs.google.com/forms/d/e/1FAIpQLScNxjlIb2B3zoUWIIT4yOBVWI_D-UmhNQPJ0xWsqRG_qQwy3g/viewform) Deadline: **May 15, 2026, 23:59 PM (UTC-12:00 AOE)**
- - If you have submitted a subsidy application, please select the payment option: “My registration has been approved by an ACL grant code.” Grant notifications are scheduled for February 16, 2026.
- - If you have been notified that your subsidy application was denied, your registration will reflect a balance due. You will be responsible for covering this amount. Please note that all outstanding balances must be paid in full to gain entry to the conference.
+ - If you have submitted a subsidy application, please select the payment option: “I have a pending subsidy application.” Grant notifications are scheduled for May 26, 2026.
+ - If you have been notified that your subsidy application was denied, your registration will reflect a balance due. You will be responsible for covering this amount. Please note that all outstanding balances must be paid in full by June 3rd to gain entry to the conference.
 
 
 ## Membership Policy
 
-The ACL policy is that everyone attending an ACL conference must be a current (CY 2026) ACL member. So, in addition to the registration fee, each Regular will add $100 membership fee to their registration and each Student will add $50 membership fee to their registration if not already a 2026 paid member. Your ACL membership is for the entire calendar year, providing membership in the society devoted to promoting CL research throughout the world, open access to the CL and TACL Journals and ACL Anthology as well as access to other ACL conferences in the same year without paying membership again. Membership also entitles you to electronic notification of new issues of the journals, discounts on publications from participating publishers, announcements of ACL and related conferences, workshops, and journal calls of interest to the community.
+ACL Membership Policy (January–December 2026)
+
+All conference attendees must be current ACL members for 2026. So, in addition to the registration fee, each registration will incure the following fees if not already a paid 2026 member:
+
+- $100 for Industry, Non-Academic, and Academic attendees
+- $50 for Students
+
+Membership Benefits:
+
+- Valid for the entire calendar year (Jan–Dec 2026)
+- Access to all ACL conferences in 2026without paying membership again
+- Open access to the ACL Anthology, CL Journal, and TACL Journal
+- Electronic notifications of journal issues, calls, and conference/workshop announcements.
 
 
 ## Changes & Cancellation Policy
