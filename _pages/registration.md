@@ -8,6 +8,10 @@ toc_sticky: True
 ---
 
 
+**Registration for Phase 1 is now open. Register [Here](https://acl.swoogo.com/acl2026)**
+**Registration links for Employees of sponsoring companies are listed below.**
+
+
 #### ACL 2026 Conference Registration Phase 1 Opening April 21
 
 We are pleased to announce that registration for the ACL 2026 Conference in San Diego is scheduled to officially open on Tuesday, April 21. As we prepare for this year’s event, we want to share important updates from the ACL Board and Business Office regarding registration structure, capacity, and pricing.
@@ -40,6 +44,32 @@ This exclusive registration period is reserved for 1 author presenting at the co
 It also includes Our Sponsors, Employees of the sponsoring companies/institutions for ACL 2026 listed at <https://2026.aclweb.org/sponsors/> in recognition of the essential contribution of our sponsors. Current Sponsors are: Bloomberg, capital One, Alibaba Cloud, Megagon Labs, Appen, Meta, Oracle, Apple, Adobe, Translated, NatWest Group, ARC, Bablescape, DATAmundi.ai.
 
 <span style="color:#ff0000">**All papers must be registered for presentation by May 11.  Note that late registration fees will apply after May 5th.** Note all findings will be included in the proceeds however if you are not registered by May 11th you could miss presenting in-person due to capacity restrictions.</span>
+
+If your company is an ACL 26 sponsor listed above, you may use the appropriate registration link below to register as an Industry participant. To verify your eligibility, please register using the email address associated with your sponsoring company. All registrations will be validated with the company listed. Any misrepresentation or impersonation of a company employee may result in cancellation of the registration and/or an outstanding balance owed to ACL. 
+
+#### Diamond Sponsors
+ - Bloomberg: <https://acl.swoogo.com/acl2026/begin?code=ACL26BloombergP1>
+ - Capital One: <https://acl.swoogo.com/acl2026/begin?code=ACL26CapitalOneP1>
+ - Alibaba Cloud: <https://acl.swoogo.com/acl2026/begin?code=ACL26AlibabaCloudP1>
+
+#### Platinum Sponsors
+ - Megagon Labs: <https://acl.swoogo.com/acl2026/begin?code=ACL26MegagonP1>
+ - Oracle: <https://acl.swoogo.com/acl2026/begin?code=ACL26OracleP1>
+ - Appen: <https://acl.swoogo.com/acl2026/begin?code=ACL26AppenP1>
+ - Meta: <https://acl.swoogo.com/acl2026/begin?code=ACL26MetaP1>
+ - Apple: <https://acl.swoogo.com/acl2026/begin?code=ACL26AppleP1>
+ - Baidu: <https://acl.swoogo.com/acl2026/begin?code=ACL26BaiduP1>
+
+#### Gold Sponsors
+ - Chen Institute: <https://acl.swoogo.com/acl2026/begin?code=ACL26ChenInstP1>
+
+#### Silver Sponsors
+ - Adobe: <https://acl.swoogo.com/acl2026/begin?code=ACL26AdobeP1>
+ - Translated: <https://acl.swoogo.com/acl2026/begin?code=ACL26TranslatedP1>
+ - NatWest: <https://acl.swoogo.com/acl2026/begin?code=ACL26NatWestP1>
+ - ARC Productions: <https://acl.swoogo.com/acl2026/begin?code=ACL26ARCP1>
+ - Babelscape: <https://acl.swoogo.com/acl2026/begin?code=ACL26BabelscapeP1>
+ - DATAmundi: <https://acl.swoogo.com/acl2026/begin?code=ACL26DATAmundiP1>
 
 Employees of sponsoring companies/institutions who are not presenting authors may also register in Phase 2 below **as long as space is still available**.
 

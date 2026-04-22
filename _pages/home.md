@@ -20,6 +20,7 @@ The 64th Annual Meeting of the Association for Computational Linguistics (ACL 20
 .news-table { font-size: .9em; table-layout: fixed; }
 .news-table tr td:nth-child(1) { font-weight: bold; width: 10em; }
 </style>
+| April 21, 2026 | [Registration](/registration/) is now open.
 | April 20, 2026 | [Call for virtual subsidies](/calls/virtual_subsidies/) is out.
 | April 16, 2026 | [Call for D&I subsidies](/calls/di_subsidies/) is out.
 | April 13, 2026 | [Registration page](/registration/) is available.
