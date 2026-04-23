@@ -121,6 +121,24 @@ To learn more about each workshop, including schedule & times, visit the worksho
 </div>
 {: .notice--primary}
 
+<div>
+  <h5><a href="https://chumweb.org/program" target="_blank">The Second Workshop on Computational Humor (CHum 2026)</a></h5>
+  <h6>Organizers: Christian F. Hempelmann, Julia Rayz, Ori Amir, Tristan Millerm, Tiansi Dong</h6>
+  <h6>Time: TBA</h6>
+  <h6>Room: Virtual-only on Underline</h6>
+  <p>Description: CHum 2026 aims to foster further work on modeling the processes of humor with current methods in computational linguistics and natural language processing, against the theoretical backdrop of humor research and with reference to relevant corpora of textual, visual, and multimodal materials. A principal goal of the workshop is to unite researchers who can together probe the limits of various meaning representations—symbolic, neural, and hybrid—for humor processing.</p>
+</div>
+{: .notice--primary}
+
+<div>
+  <h5><a href="https://healthlanguageprocessing.org/smm4h-2026/" target="_blank">#SMM4H-HeaRD 2026: Joint 11th Social Media Mining for Health Applications and Health Real-World Data Workshop and Shared Tasks</a></h5>
+  <h6>Organizers: Guillermo Lopez-Garcia, Graciela Gonzalez-Hernandez</h6>
+  <h6>Time: TBA</h6>
+  <h6>Room: Virtual-only on Underline</h6>
+  <p>Description: TBA</p>
+</div>
+{: .notice--primary}
+
 ## Friday, July 3rd and Saturday, July 4th
 
 <div>
