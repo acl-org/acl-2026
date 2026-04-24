@@ -115,10 +115,6 @@ If your organization is interested in sponsoring ACL 2026, please refer to our [
       <div class="dummy-padding"></div>
         <img src="/assets/images/sponsors/datamundi.png" alt="DATAmundi">
     </a>
-    <a href="https://neclab.eu/" title="NEC">
-      <div class="dummy-padding"></div>
-        <img src="/assets/images/sponsors/nec.png" alt="NEC">
-    </a>
 </figure>
 
 ## Diversity & Inclusion
