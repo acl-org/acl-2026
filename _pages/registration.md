@@ -68,7 +68,7 @@ If your company is an ACL 26 sponsor listed above, you may use the appropriate r
  - Translated: <https://acl.swoogo.com/acl2026/begin?code=ACL26TranslatedP1>
  - NatWest: <https://acl.swoogo.com/acl2026/begin?code=ACL26NatWestP1>
  - ARC Productions: <https://acl.swoogo.com/acl2026/begin?code=ACL26ARCP1>
- - Babelscape: <https://acl.swoogo.com/acl2026/begin?code=ACL26BabelscapeP1>
+ - Bablescape: <https://acl.swoogo.com/acl2026/begin?code=ACL26BabelscapeP1>
  - DATAmundi: <https://acl.swoogo.com/acl2026/begin?code=ACL26DATAmundiP1>
 
 Employees of sponsoring companies/institutions who are not presenting authors may also register in Phase 2 below **as long as space is still available**.
