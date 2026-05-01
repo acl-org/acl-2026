@@ -74,6 +74,10 @@ If your organization is interested in sponsoring ACL 2026, please refer to our [
       <div class="dummy-padding"></div>
         <img src="/assets/images/sponsors/baidu.png" alt="Baidu">
     </a>
+    <a href="https://www.tencent.com/en-us/" title="Tencent">
+      <div class="dummy-padding"></div>
+        <img src="/assets/images/sponsors/tencent.png" alt="Tencent">
+    </a>
 </figure>
 
 
@@ -117,6 +121,6 @@ If your organization is interested in sponsoring ACL 2026, please refer to our [
     </a>
 </figure>
 
-## Diversity & Inclusion
+## Academic Ally
 
 Coming soon!
