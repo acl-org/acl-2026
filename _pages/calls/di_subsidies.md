@@ -42,7 +42,10 @@ This is for getting a waiver for ACL 2026 registration (this includes virtual re
  - “I have a paper accepted at the main conference and I am an active member of Latinx/Masakhane/North African in NLP/QueerinAI/WNLP.”
  - “I have an accepted paper at an ACL  Workshop, I live in a developing country [name the country] and I/my institution cannot afford the registration fees.”
 
-**Note** that if you are applying for a registration fee waiver, you **SHOULD NOT** register for the conference until you hear from us about your D&I subsidy application. Keep in mind that we will take your justification into account when processing your application.
+**NOTE**: If you have submitted a subsidy application, during the [registration](https://2026.aclweb.org/registration/#subsidies-and-regional-waivers) please select the payment option: “I have a pending subsidy application.” Grant notifications are scheduled for May 26, 2026.
+
+If you have been notified that your subsidy application was denied, your registration will reflect a balance due. You will be responsible for covering this amount. Please note that all outstanding balances must be paid in full by June 3rd to gain entry to the conference.
+
 
 
 ### Caregiving and Accessibility Subsidies
@@ -70,7 +73,7 @@ All deadlines are 11:59 pm UTC -12h (“anywhere on Earth”).
 
 #### Notification of Acceptance
 
-Applicants will be notified on (or before) **May 22, 2026**,  before the  ACL 2026 early registration. Link to ACL 2026 registration: <https://2026.aclweb.org/registration/>
+Applicants will be notified on (or before) **May 26, 2026**. Link to ACL 2026 registration instructions: <https://2026.aclweb.org/registration/#subsidies-and-regional-waivers>
 
 We aim to send all the notifications by the deadline above. Please be patient and wait for our email as we will notify you as soon as we can and no matter what the response is.
 
