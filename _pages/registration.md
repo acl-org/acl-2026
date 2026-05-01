@@ -41,7 +41,7 @@ ACL 26 Sponsors, Employees of Sponsoring Companies/Institutions Registration
 
 This exclusive registration period is reserved for 1 author presenting at the conference (the 1 author applies to papers being presented in Main, Findings, Industry, Student Research Workshop, Demos and Workshop Papers that have received notification).
 
-It also includes Our Sponsors, Employees of the sponsoring companies/institutions for ACL 2026 listed at <https://2026.aclweb.org/sponsors/> in recognition of the essential contribution of our sponsors. Current Sponsors are: Bloomberg, Capital One, Alibaba Cloud, Megagon Labs, Appen, Meta, Oracle, Apple, Baidu, Adobe, Translated, NatWest Group, ARC, Bablescape, DATAmundi.ai.
+It also includes Our Sponsors, Employees of the sponsoring companies/institutions for ACL 2026 listed at <https://2026.aclweb.org/sponsors/> in recognition of the essential contribution of our sponsors. Current Sponsors are: Bloomberg, Capital One, Alibaba Cloud, Megagon Labs, Appen, Meta, Oracle, Apple, Baidu, Tencent, Chen Institute, JPMorganChase, Adobe, Translated, NatWest Group, ARC, Babelscape, DATAmundi.ai, NEC, University of Washington.
 
 <span style="color:#ff0000">**All papers must be registered for presentation by May 11.  Note that late registration fees will apply after May 5th.** Note all findings will be included in the proceeds however if you are not registered by May 11th you could miss presenting in-person due to capacity restrictions.</span>
 
@@ -59,17 +59,25 @@ If your company is an ACL 26 sponsor listed above, you may use the appropriate r
  - Meta: <https://acl.swoogo.com/acl2026/begin?code=ACL26MetaP1>
  - Apple: <https://acl.swoogo.com/acl2026/begin?code=ACL26AppleP1>
  - Baidu: <https://acl.swoogo.com/acl2026/begin?code=ACL26BaiduP1>
+ - Tencent: <https://acl.swoogo.com/acl2026/begin?code=ACL26TencentP1>
 
 #### Gold Sponsors
  - Chen Institute: <https://acl.swoogo.com/acl2026/begin?code=ACL26ChenInstP1>
+ - JPMorganChase: <https://acl.swoogo.com/acl2026/begin?code=ACL26JPMCP1>
 
 #### Silver Sponsors
  - Adobe: <https://acl.swoogo.com/acl2026/begin?code=ACL26AdobeP1>
+
+#### Bronze Sponsors
  - Translated: <https://acl.swoogo.com/acl2026/begin?code=ACL26TranslatedP1>
  - NatWest: <https://acl.swoogo.com/acl2026/begin?code=ACL26NatWestP1>
  - ARC Productions: <https://acl.swoogo.com/acl2026/begin?code=ACL26ARCP1>
  - Bablescape: <https://acl.swoogo.com/acl2026/begin?code=ACL26BabelscapeP1>
  - DATAmundi: <https://acl.swoogo.com/acl2026/begin?code=ACL26DATAmundiP1>
+ - NEC: <https://acl.swoogo.com/acl2026/begin?code=ACL26NECP1>
+
+#### Academic Ally
+- University of Washington <https://acl.swoogo.com/acl2026/begin?code=ACL26UWP1>
 
 Employees of sponsoring companies/institutions who are not presenting authors may also register in Phase 2 below **as long as space is still available**.
 
