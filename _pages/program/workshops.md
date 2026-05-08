@@ -32,11 +32,11 @@ To learn more about each workshop, including schedule & times, visit the worksho
 {: .notice--primary}
 
 <div>
-  <h5><a href="#" target="_blank">5th Workshop on Advances in Language and Vision Research (ALVR 2026)</a></h5>
-  <h6>Organizers: TBA</h6>
+  <h5><a href="https://alvr-workshop.github.io/" target="_blank">5th Workshop on Advances in Language and Vision Research (ALVR 2026)</a></h5>
+  <h6>Organizers: Qianqi (Jackie) Yan, Syrielle Montariol, Yue Fan, Jing Gu, Jiayi Pan, Manling Li, Parisa Kordjamshidi, Alane Suhr, Xin Eric Wang</h6>
   <h6>Full-day workshop</h6>
   <h6>Room: Harbor H&amp;I</h6>
-  <p>Description: TBA</p>
+  <p>Description: The ALVR workshop covers topics from self-supervised pre-training, visually-grounded understanding and generation, and multimodal agents, to post-training and alignment, multilingual/culturally-aware LVLMs, ethics and bias, and real-world applications. Features 7 keynote talks (confirmed speakers include Raymond Mooney, Mohit Bansal, Jiajun Wu, Aishwarya Agrawal, and Hoifung Poon), spotlight presentations, poster sessions, and a panel discussion. Built on three prior editions at ACL/NAACL (2020, 2021, 2024).</p>
 </div>
 {: .notice--primary}
 
@@ -63,7 +63,7 @@ To learn more about each workshop, including schedule & times, visit the worksho
   <h6>Organizers: Bharathi Raja Chakravarthi, Ruba Priyadharshini, Anand Kumar M, Sajeetha Thavareesan, Saranya Rajiakodi, Subalalitha CN, Dhivya Chinnappa, Balasubramanian Palani, Malliga Subramanian, Kogilavani Shanmugavadivel</h6>
   <h6>Full-day workshop</h6>
   <h6>Room: Virtual-only on Underline</h6>
-  <p>Description: TBA</p>
+  <p>Description: DravidianLangTech-2026 welcomes theoretical, empirical, and applicationdriven contributions on any Dravidian languages that advance language processing, speech technologies, multimodality, or resource development. Submissions can address challenges in monolingual, bilingual, and code-mixed settings as well as crosslingual and low-resource transfer approaches.</p>
 </div>
 {: .notice--primary}
 
@@ -115,7 +115,7 @@ To learn more about each workshop, including schedule & times, visit the worksho
 <div>
   <h5><a href="https://knowledgeable-lm.github.io/" target="_blank">4th Workshop on Towards Knowledgeable Foundation Models (KnowFM)</a></h5>
   <h6>Organizers: Canyu Chen, Yuji Zhang, Zoey Sha Li, Zihan Wang, Qineng Wang, Priyanka Kargupta, Sara Vera Marjanović, Jeff Z. Pan, Mohit Bansal, Isabelle Augenstein, Jiawei Han, Heng Ji, Manling Li</h6>
-  <h6>Time: TBA</h6>
+  <h6>Full-day workshop</h6>
   <h6>Room: Virtual-only on Underline</h6>
   <p>Description: Our workshop focuses on systematically exploring the origin, scope, reliability, and correction of knowledge within large language models, covering knowledge emergence, injection, updating, and probing to advance a comprehensive understanding of the knowledge lifecycle in foundation models.</p>
 </div>
@@ -124,7 +124,7 @@ To learn more about each workshop, including schedule & times, visit the worksho
 <div>
   <h5><a href="https://chumweb.org/program" target="_blank">The Second Workshop on Computational Humor (CHum 2026)</a></h5>
   <h6>Organizers: Christian F. Hempelmann, Julia Rayz, Ori Amir, Tristan Millerm, Tiansi Dong</h6>
-  <h6>Time: TBA</h6>
+  <h6>Full-day workshop</h6>
   <h6>Room: Virtual-only on Underline</h6>
   <p>Description: CHum 2026 aims to foster further work on modeling the processes of humor with current methods in computational linguistics and natural language processing, against the theoretical backdrop of humor research and with reference to relevant corpora of textual, visual, and multimodal materials. A principal goal of the workshop is to unite researchers who can together probe the limits of various meaning representations—symbolic, neural, and hybrid—for humor processing.</p>
 </div>
@@ -133,20 +133,20 @@ To learn more about each workshop, including schedule & times, visit the worksho
 <div>
   <h5><a href="https://healthlanguageprocessing.org/smm4h-2026/" target="_blank">#SMM4H-HeaRD 2026: Joint 11th Social Media Mining for Health Applications and Health Real-World Data Workshop and Shared Tasks</a></h5>
   <h6>Organizers: Guillermo Lopez-Garcia, Graciela Gonzalez-Hernandez</h6>
-  <h6>Time: TBA</h6>
+  <h6>Full-day workshop</h6>
   <h6>Room: Virtual-only on Underline</h6>
-  <p>Description: TBA</p>
+  <p>Description: The #SMM4H-HeaRD Workshop offers an interdisciplinary forum for advances in NLP, machine learning, and AI applied to health-related web and real-world data. Now in its 11th edition, the workshop emphasizes privacy-preserving data sharing and real-world evaluation, focusing on sources such as social media, electronic health records, and biomedical literature.</p>
 </div>
 {: .notice--primary}
 
 ## Friday, July 3rd and Saturday, July 4th
 
 <div>
-  <h5><a href="#" target="_blank">Society for Computation in Linguistics (SCiL)</a></h5>
+  <h5><a href="https://sites.google.com/view/scil2026" target="_blank">Society for Computation in Linguistics (SCiL)</a></h5>
   <h6>Organizers: Rob Voigt, Alex Warstadt, Naomi Feldman, Tal Linzen</h6>
   <h6>Full-day workshop</h6>
   <h6>Room: Promenade</h6>
-  <p>Description: TBA</p>
+  <p>Description: The Society for Computation in Linguistics (SCiL) is devoted to facilitating and promoting research on computational and mathematical approaches in Linguistics. SCiL aims to provide a central forum for exchange of ideas and dissemination of original research results on computational approaches in any area of linguistics.</p>
 </div>
 {: .notice--primary}
 
@@ -164,7 +164,7 @@ To learn more about each workshop, including schedule & times, visit the worksho
   <h6>Organizers: Debanjan Ghosh, Kai North, Shervin Malmasi, Ekaterina Kochmar, Mamoru Komachi, Marcos Zampieri</h6>
   <h6>Full-day workshop</h6>
   <h6>Room: Harbor C</h6>
-  <p>Description: TBA</p>
+  <p>Description: SemEval (the International Workshop on Semantic Evaluation) is an ongoing series of evaluations of computational semantics systems, organized under the umbrella of SIGLEX, the Special Interest Group on the Lexicon of the Association for Computational Linguistics.</p>
 </div>
 {: .notice--primary}
 
@@ -178,11 +178,11 @@ To learn more about each workshop, including schedule & times, visit the worksho
 {: .notice--primary}
 
 <div>
-  <h5><a href="#" target="_blank">*SEM 2026</a></h5>
-  <h6>Organizers: TBA</h6>
-  <h6>Time: TBA</h6>
+  <h5><a href="https://starsem2026.github.io/" target="_blank">*SEM 2026</a></h5>
+  <h6>Organizers: Saif Mohammad, Nedjma Ousidhoum</h6>
+  <h6>Full-day workshop</h6>
   <h6>Room: Harbor A on Friday, July 3rd; Virtual-only on Underline on Saturday, July 4th</h6>
-  <p>Description: TBA</p>
+  <p>Description: The 15th Joint Conference on Lexical and Computational Semantics  </p>
 </div>
 {: .notice--primary}
 
@@ -243,19 +243,19 @@ To learn more about each workshop, including schedule & times, visit the worksho
 
 <div>
   <h5><a href="https://sites.google.com/view/lt-edi-2026/" target="_blank">Sixth Workshop on Language Technology for Equality, Diversity and Inclusion (LTEDI)</a></h5>
-  <h6>Organizers: Bharathi Raja Chakravarthi, Bharathi B, Durairaj Thenmozhi, Salud María Jiménez Zafra, Miguel Ángel García Cumbreras</h6>
+  <h6>Organizers: Bharathi Raja Chakravarthi, Bharathi B, Durairaj Thenmozhi, Salud María Jiménez Zafra, Miguel Ángel García Cumbreras </h6>
   <h6>Full-day workshop</h6>
   <h6>Room: Virtual-only on Underline</h6>
-  <p>Description: TBA</p>
+  <p>Description: LTEDI-2026 invites theoretical, empirical, and applied papers from the Natural Language Processing (NLP), Artificial Intelligence (AI), and interdisciplinary communities particularly those focusing on bias in language technologies.</p>
 </div>
 {: .notice--primary}
 
 <div>
-  <h5><a href="#" target="_blank">The Second Workshop on Multimodal Augmented Generation via Multimodal Retrieval (MAGMaR)</a></h5>
+  <h5><a href="https://nlp.jhu.edu/magmar/#sched" target="_blank">The Second Workshop on Multimodal Augmented Generation via Multimodal Retrieval (MAGMaR)</a></h5>
   <h6>Organizers: Reno Kriz; Kenton Murray; Andrew Yates; Desmond Elliott; Francis Ferraro; Xiang Xiang; William Walden; Jeremy Gwinnup; Joel Brogan; Alexander Martin</h6>
   <h6>Full-day workshop</h6>
   <h6>Room: Old Town</h6>
-  <p>Description: TBA</p>
+  <p>Description: MAGMaR's focus this year is on two primary areas: (1) the retrieval of multimodal content spanning text, images, audio, and video; and (2) retrieval-augmented generation, with an emphasis on multimodal retrieval and grounded generation.</p>
 </div>
 {: .notice--primary}
 
@@ -305,11 +305,11 @@ To learn more about each workshop, including schedule & times, visit the worksho
 {: .notice--primary}
 
 <div>
-  <h5><a href="#" target="_blank">Beyond Alignment: Transdisciplinary Conversations on Human-AI Futures (BATCH)</a></h5>
+  <h5><a href="http://go.rutgers.edu/batch2026" target="_blank">Beyond Alignment: Transdisciplinary Conversations on Human-AI Futures (BATCH)</a></h5>
   <h6>Organizers: Matthew Stone, Malihe Alikhani, Camille Gagnier, Lauren M. E. Goodlad, Dan Roth, Mark Sammons</h6>
   <h6>Full-day workshop</h6>
   <h6>Room: Pier</h6>
-  <p>Description: TBA</p>
+  <p>Description: The BATCH workshop aims to jumpstart new collaborations toward rebooting alignment, improving real-world impacts of language technology, and designing a new generation of NLP tools, by bringing technologists into conversation with scholars in the humanities and social sciences.</p>
 </div>
 {: .notice--primary}
 
@@ -332,11 +332,11 @@ To learn more about each workshop, including schedule & times, visit the worksho
 {: .notice--primary}
 
 <div>
-  <h5><a href="#" target="_blank">Second Workshop on Evaluating Evaluations (EvalEval): Examining Best Practices for Utilizing and Developing Generative Model Evaluations</a></h5>
+  <h5><a href="https://evalevalai.com/events/2026-acl-workshop/" target="_blank">Second Workshop on Evaluating Evaluations (EvalEval): Examining Best Practices for Utilizing and Developing Generative Model Evaluations</a></h5>
   <h6>Organizers: Jennifer Mickel, Ichhya Pant, Mubashara Akhtar, Jan Batzner, Zeerak Talat, Avijit Ghosh</h6>
   <h6>Half-day workshop (afternoon)</h6>
   <h6>Room: Harbor A</h6>
-  <p>Description: TBA</p>
+  <p>Description: The EvalEval Workshop focuses on AI evaluation in practice, centering the tensions and collaborations between model developers and evaluation researchers across methodological rigor, sociotechnical perspectives, scalability, community-informed evaluation, and real-world use.</p>
 </div>
 {: .notice--primary}
 
