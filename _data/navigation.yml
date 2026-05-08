@@ -77,6 +77,8 @@ calls:
         url: /calls/student_research_workshop/
       - title: "System Demonstrations"
         url: /calls/system_demonstration/
+      - title: "Shared Interest and Affinity Group"
+        url: /calls/bof/
       - title: "Volunteers"
         url: /calls/volunteers/
       - title: "Diversity and Inclusion Subsidies"
