@@ -10,7 +10,7 @@ toc: True
 toc_sticky: True
 ---
 
-#### (also known as Birds-of-a-Feather Events[^1])
+<h3 style="margin-top:0px;">(also known as Birds-of-a-Feather Events[^1])</h3>
 
 [^1]: The name is a reference to the English idiom “birds of a feather flock together”, meaning that people who are similar tend to spend time with each other.
 
