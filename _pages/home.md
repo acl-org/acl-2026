@@ -20,7 +20,7 @@ The 64th Annual Meeting of the Association for Computational Linguistics (ACL 20
 .news-table { font-size: .9em; table-layout: fixed; }
 .news-table tr td:nth-child(1) { font-weight: bold; width: 10em; }
 </style>
-| May 8, 2026 | [Call for shared interest and affinity group events](/calls/virtual_subsidies/) is out.
+| May 8, 2026 | [Call for shared interest/affinity group events](/calls/bof_affinity_events/) is out.
 | May 2, 2026 | The list of [ACL tutorials](/program/tutorials/) is out.
 | April 21, 2026 | [Registration](/registration/) is now open.
 | April 20, 2026 | [Call for virtual subsidies](/calls/virtual_subsidies/) is out.
