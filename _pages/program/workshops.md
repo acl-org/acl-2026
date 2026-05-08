@@ -32,7 +32,7 @@ To learn more about each workshop, including schedule & times, visit the worksho
 {: .notice--primary}
 
 <div>
-  <h5><a href="https://alvr-workshop.github.io/" target="_blank">5th Workshop on Advances in Language and Vision Research (ALVR 2026)</a></h5>
+  <h5><a href="https://alvr-workshop.github.io/" target="_blank">4th Workshop on Advances in Language and Vision Research (ALVR 2026)</a></h5>
   <h6>Organizers: Qianqi (Jackie) Yan, Syrielle Montariol, Yue Fan, Jing Gu, Jiayi Pan, Manling Li, Parisa Kordjamshidi, Alane Suhr, Xin Eric Wang</h6>
   <h6>Full-day workshop</h6>
   <h6>Room: Harbor H&amp;I</h6>
@@ -69,10 +69,10 @@ To learn more about each workshop, including schedule & times, visit the worksho
 
 <div>
   <h5><a href="#" target="_blank">The 9th Workshop on Event Extraction and Understanding: Challenges and Applications (EEUCA 2026)</a></h5>
-  <h6>Organizers: Hristo Tanev</h6>
+  <h6>Organizers: Hristo Tanev, Surendrabikram Thapa, Ali Hürriyetoğlu</h6>
   <h6>Full-day workshop</h6>
   <h6>Room: Pier</h6>
-  <p>Description: TBA</p>
+  <p>Description: The 9th Workshop on Event Extraction and Understanding: Challenges and Applications focuses on advancing research in extracting and understanding events from text and multimodal data. The workshop covers topics such as event detection, argument extraction, temporal reasoning, event linking, multilingual event extraction, and applications of Large Language Models. It welcomes contributions from NLP, AI, machine learning, and domain researchers working with event-centric data in areas such as social science, health, policy, and crisis response.</p>
 </div>
 {: .notice--primary}
 
@@ -139,6 +139,24 @@ To learn more about each workshop, including schedule & times, visit the worksho
 </div>
 {: .notice--primary}
 
+<div>
+  <h5><a href="https://starsem2026.github.io/" target="_blank">*SEM 2026</a></h5>
+  <h6>Organizers: Saif Mohammad, Nedjma Ousidhoum</h6>
+  <h6>Full-day workshop</h6>
+  <h6>Room: Harbor A</h6>
+  <p>Description: The 15th Joint Conference on Lexical and Computational Semantics  </p>
+</div>
+{: .notice--primary}
+
+<div>
+  <h5><a href="#" target="_blank">Seventh Workshop on NLP and Computational Social Science (NLP+CSS)</a></h5>
+  <h6>Organizers: Dallas Card, Anjalie Field, Katie Keith, Julia Mendelsohn</h6>
+  <h6>Full-day workshop</h6>
+  <h6>Room: Gaslamp A&amp;B</h6>
+  <p>Description: This workshop aims to advance the joint computational analysis of social sciences and language by explicitly involving social scientists, NLP researchers, and industry partners. Our focus is on NLP for social sciences - to continue the progress of CSS, and to integrate CSS with current trends and techniques in NLP.</p>
+</div>
+{: .notice--primary}
+
 ## Friday, July 3rd and Saturday, July 4th
 
 <div>
@@ -169,20 +187,11 @@ To learn more about each workshop, including schedule & times, visit the worksho
 {: .notice--primary}
 
 <div>
-  <h5><a href="#" target="_blank">BioNLP 2026 and Shared Tasks (BioNLP-ST 2026)</a></h5>
+  <h5><a href="https://aclweb.org/aclwiki/BioNLP_Workshop" target="_blank">BioNLP 2026 and Shared Tasks (BioNLP-ST 2026)</a></h5>
   <h6>Organizers: Dina Demner-Fushman, Sophia Ananiadou, Kirk Roberts, Jun-ichi Tsujii</h6>
   <h6>Full-day workshop</h6>
   <h6>Room: Balboa A&amp;B</h6>
   <p>Description: The BioNLP workshop organized by the ACL SIGBIOMED special interest group is an established primary venue for presenting research in language technologies for the biomedical and clinical domains. The workshop has been running every year since 2002. This year marks its 25th anniversary. BioNLP is a generalist that truly encompasses the breadth of the domain and brings together researchers in biomedical and clinical NLP from all over the world.</p>
-</div>
-{: .notice--primary}
-
-<div>
-  <h5><a href="https://starsem2026.github.io/" target="_blank">*SEM 2026</a></h5>
-  <h6>Organizers: Saif Mohammad, Nedjma Ousidhoum</h6>
-  <h6>Full-day workshop</h6>
-  <h6>Room: Harbor A on Friday, July 3rd; Virtual-only on Underline on Saturday, July 4th</h6>
-  <p>Description: The 15th Joint Conference on Lexical and Computational Semantics  </p>
 </div>
 {: .notice--primary}
 
@@ -197,6 +206,7 @@ To learn more about each workshop, including schedule & times, visit the worksho
 
 <div>
   <h5><a href="http://conll.org/" target="_blank">CoNLL 2026: The SIGNLL Conference on Computational Natural Language Learning</a></h5>
+  <h6>Organizers: Claire Bonial, Yevgeni Berzak</h6>
   <h6>Full-day workshop</h6>
   <h6>Room: Harbor B</h6>
   <p>Description: 30th Conference on Computational Natural Language Learning</p>
@@ -233,7 +243,7 @@ To learn more about each workshop, including schedule & times, visit the worksho
 {: .notice--primary}
 
 <div>
-  <h5><a href="#" target="_blank">The Sixth Workshop on NLP for Indigenous Languages of the Americas (AmericasNLP)</a></h5>
+  <h5><a href="https://turing.iimas.unam.mx/americasnlp/2026_workshop.html" target="_blank">The Sixth Workshop on NLP for Indigenous Languages of the Americas (AmericasNLP)</a></h5>
   <h6>Organizers: Manuel Mager, Arturo Oncevay, Abteen Ebrahimi,  Minh Duc Bui, Shruti Rijhwani, Luis Chiruzzo, Robert Pugh, Rolando Coto-Solano, John E. Ortega, Katharina von der Wense</h6>
   <h6>Half-day workshop (morning)</h6>
   <h6>Room: La Jolla</h6>
@@ -283,15 +293,6 @@ To learn more about each workshop, including schedule & times, visit the worksho
   <h6>Full-day workshop</h6>
   <h6>Room: Balboa C</h6>
   <p>Description: ComputEL explores the interface and intersection of computational linguistics, documentary linguistics, and community-based efforts in language revitalization and reclamation</p>
-</div>
-{: .notice--primary}
-
-<div>
-  <h5><a href="#" target="_blank">Seventh Workshop on NLP and Computational Social Science (NLP+CSS)</a></h5>
-  <h6>Organizers: Dallas Card, Anjalie Field, Katie Keith, Julia Mendelsohn</h6>
-  <h6>Full-day workshop</h6>
-  <h6>Room: Gaslamp A&amp;B</h6>
-  <p>Description: This workshop aims to advance the joint computational analysis of social sciences and language by explicitly involving social scientists, NLP researchers, and industry partners. Our focus is on NLP for social sciences - to continue the progress of CSS, and to integrate CSS with current trends and techniques in NLP.</p>
 </div>
 {: .notice--primary}
 
