@@ -1,5 +1,5 @@
 ---
-title: Call for Shared Interest and Affinity Group Events (also known as Birds-of-a-Feather Events[^1])
+title: Call for Shared Interest and Affinity Group Events
 layout: single
 author: diversity-chairs
 excerpt: "ACL 2026 Shared Interest and Affinity Group Events."
@@ -9,6 +9,8 @@ sidebar:
 toc: True
 toc_sticky: True
 ---
+
+#### (also known as Birds-of-a-Feather Events[^1])
 
 [^1]: The name is a reference to the English idiom “birds of a feather flock together”, meaning that people who are similar tend to spend time with each other.
 
