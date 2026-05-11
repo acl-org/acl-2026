@@ -13,7 +13,7 @@ toc_sticky: True
 
 | Start<br/>Time | End<br/>Time | <img width="440" height="1"> <span class="th-center">Event</span> | <img width="300" height="1"> <span class="th-center">Location</span> |
 | ---------: | --------: | -------------------------- | ------------------------------ |
-| **17:00**  | **20:00** | **Registration**           | **Grand Hall Foyer - Level 1** |
+| **17:00**  | **20:00** | **Registration & Conference Check In (Full Conference & Tutorial Only Attendees)** | **Grand Hall Foyer - Level 1** |
 
 
 ### Thursday, July 2nd: Tutorials
@@ -23,7 +23,8 @@ Breakfast, lunch, and dinner are not provided. <br/>
 
 | Start<br/>Time | End<br/>Time | <img width="440" height="1"> <span class="th-center">Event</span> | <img width="300" height="1"> <span class="th-center">Location</span> |
 | ---------: | --------: | -------------------------- | ------------------------------ |
-| **8:00**   | **16:30** | **Registration**           | **Grand Hall Foyer - Level 1** |
+| **8:00**   | **17:30** | **Registration & Conference Check In Full Conference & Tutorial Only Attendees** | **Grand Hall Foyer - Level 1** |
+| **16:00**  | **17:30** | **Workshop Only registration will open at 16:00** | **Grand Hall Foyer - Level 1** |
 |  9:00      | 10:30     | Session 1: Tutorials 1 - 4 |                                |
 | 10:30      | 11:00     | Coffee Break               |                                |
 | 11:00      | 12:30     | Session 2: Tutorials 1 - 4 |                                |
@@ -40,7 +41,7 @@ Posters will be in the Grand Hall.
 
 | Start<br/>Time | End<br/>Time | <img width="440" height="1"> <span class="th-center">Event</span> | <img width="300" height="1"> <span class="th-center">Location</span> |
 | ---------: | --------: | -------------------------- | ------------------------------ |
-| **8:00**   | **16:30** | **Registration**           | **Grand Hall Foyer - Level 1** |
+| **8:00**   | **17:30** | **Registration & Conference Check In (Full Conference & Workshop Only Attendees)**           | **Grand Hall Foyer - Level 1** |
 |  9:00      | 10:30     | Session 1                  |                                |
 | 10:30      | 11:00     | Coffee Break               |                                |
 | 11:00      | 12:30     | Session 2                  |                                |
@@ -57,7 +58,8 @@ Posters will be in the Grand Hall.
 
 | Start<br/>Time | End<br/>Time | <img width="440" height="1"> <span class="th-center">Event</span> | <img width="300" height="1"> <span class="th-center">Location</span> |
 | ---------: | --------: | -------------------------- | ------------------------------ |
-| **8:00**   | **19:30** | **Registration**           | **Grand Hall Foyer - Level 1** |
+| **8:00**   | **17:30** | **Registration & Conference Check In (Full Conference & Workshop Only Attendees)** | **Grand Hall Foyer - Level 1** |
+| **16:00**  | **19:30** | **Main Conf Only registration will open at 16:00** | **Grand Hall Foyer - Level 1** |
 |  9:00      | 10:30     | Session 1                  |                                |
 | 10:30      | 11:00     | Coffee Break               |                                |
 | 11:00      | 12:30     | Session 2                  |                                |
@@ -74,7 +76,7 @@ Breakfast, lunch, and dinner are not provided.
 
 | Start<br/>Time | End<br/>Time | <img width="440" height="1"> <span class="th-center">Event</span> | <img width="300" height="1"> <span class="th-center">Location</span> |
 | ---------: | --------: | -------------------------- | ------------------------------ |
-| **7:30**   | **16:30** | **Registration**           | **Grand Hall Foyer - Level 1** |
+| **7:30**   | **16:30** | **Registration & Conference Check In (Full Conference & Main Conference Attendees)** | **Grand Hall Foyer - Level 1** |
 |  9:00      |  9:30     | Session 1: Welcome         |                                |
 |  9:30      | 10:30     | Session 1: [Keynote: Philip Resnik (University of Maryland)](https://www.cs.umd.edu/people/resnik)   |                                |
 | 10:30      | 11:00     | Coffee Break               |                                |
@@ -94,7 +96,7 @@ Breakfast, lunch, and dinner are not provided.
 | ---------: | --------: | -------------------------- | ------------------------------ |
 |  1:00      |  2:00     | Session 6: Virtual Plenary Keynote - TBA |                  |
 |  2:30      |  4:00     | Session 7: Virtual Presentations 2 |                        |
-| **8:30**   | **16:30** | **Registration**           | **Grand Hall Foyer - Level 1** |
+| **8:30**   | **16:30** | **Registration & Conference Check In (Full Conference & Main Conference Attendees)** | **Grand Hall Foyer - Level 1** |
 |  9:00      | 10:30     | Session 8: Oral / Poster Session D |                        |
 | 10:30      | 11:00     | Coffee Break               |                                |
 | 11:00      | 12:30     | Session 9: Oral / Poster Session E |                        |
@@ -115,7 +117,7 @@ Breakfast, lunch, and dinner are not provided.
 | Start<br/>Time | End<br/>Time | <img width="440" height="1"> <span class="th-center">Event</span> | <img width="300" height="1"> <span class="th-center">Location</span> |
 | ---------: | --------: | -------------------------- | ------------------------------ |
 |  1:00      |  2:30     | Session 15: Virtual Presentations 5 |                       |
-| **8:30**   | **16:30** | **Registration**           | **Grand Hall Foyer - Level 1** |
+| **8:30**   | **16:30** | **Registration & Conference Check In (Full Conference & Main Conference Attendees)** | **Grand Hall Foyer - Level 1** |
 |  9:00      | 10:30     | Session 16: Oral / Poster Session F |                       |
 | 10:30      | 11:00     | Coffee Break               |                                |
 | 11:00      | 12:30     | Session 17: Oral / Poster Session G |                       |
