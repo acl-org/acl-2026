@@ -120,7 +120,7 @@ Breakfast, lunch, and dinner are not provided.
 | 10:30      | 11:00     | Coffee Break               |                                |
 | 11:00      | 12:30     | Session 17: Oral / Poster Session G |                       |
 | 12:30      | 14:00     | Lunch Break                |                                |
-| 14:00      | 15:30     | Session 18: ACL Lifetime / ToT Awards / Memorial |          |
+| 14:00      | 15:30     | Session 18: Memorial/ ToT Awards / ACL Lifetime Award |          |
 | 15:30      | 16:00     | Coffee Break               |                                |
 | 16:00      | 17:00     | Session 19: Paper Award Session |                           |
 | 17:00      | 17:30     | Session 19: Closing Session |                               |
