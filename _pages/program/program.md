@@ -76,7 +76,7 @@ Breakfast, lunch, and dinner are not provided.
 | ---------: | --------: | -------------------------- | ------------------------------ |
 | **7:30**   | **16:30** | **Registration**           | **Grand Hall Foyer - Level 1** |
 |  9:00      |  9:30     | Session 1: Welcome         |                                |
-|  9:30      | 10:30     | Session 1: Keynote - TBA   |                                |
+|  9:30      | 10:30     | Session 1: [Keynote: Philip Resnik (University of Maryland)](https://www.cs.umd.edu/people/resnik)   |                                |
 | 10:30      | 11:00     | Coffee Break               |                                |
 | 11:00      | 12:30     | Session 2: Oral / Poster Session A |                        |
 | 12:30      | 14:00     | Lunch Break                |                                |
@@ -104,7 +104,7 @@ Breakfast, lunch, and dinner are not provided.
 | 14:45      | 15:30     | Session 12: Discussion |                          |
 | 15:30      | 16:15     | Session 12: Presidential Address    |                                |
 | 16:15      | 16:45     | Coffee Break               |                                |
-| 16:45      | 17:45     | Session 13: Keynote - TBA  |                                |
+| 16:45      | 17:45     | Session 13: [Keynote: Professor Tania Lombrozo](https://psych.princeton.edu/people/tania-lombrozo) |                                |
 | 18:00      | 19:30     | Session 14: Virtual Presentations 4 |                       |
 | 18:30      | 22:00     | Social Event               |                                |
 
