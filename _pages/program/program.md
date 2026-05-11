@@ -101,10 +101,10 @@ Breakfast, lunch, and dinner are not provided.
 | 12:30      | 13:30     | Lunch Break                |                                |
 | 12:45      | 14:15     | Session 10: Virtual Presentations 3 |                       |
 | 13:30      | 14:30     | Session 11: Business Meeting (all attendees welcome) |      |
-| 14:45      | 15:30     | Session 12: Presidential Address |                          |
-| 15:30      | 16:30     | Session 12: Discussion     |                                |
-| 16:30      | 17:00     | Coffee Break               |                                |
-| 17:00      | 18:00     | Session 13: Keynote - TBA  |                                |
+| 14:45      | 15:30     | Session 12: Discussion |                          |
+| 15:30      | 16:15     | Session 12: Presidential Address    |                                |
+| 16:15      | 16:45     | Coffee Break               |                                |
+| 16:45      | 17:45     | Session 13: Keynote - TBA  |                                |
 | 18:00      | 19:30     | Session 14: Virtual Presentations 4 |                       |
 | 18:30      | 22:00     | Social Event               |                                |
 
