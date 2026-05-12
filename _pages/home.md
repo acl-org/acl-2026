@@ -8,6 +8,8 @@ header:
 excerpt: "San Diego, California, United States<br>July 2&ndash;7, 2026"
 ---
 
+#### <span style="color:#aa0000;">Important</span>: [ACL Statement on Desk Rejecting Papers with Hallucinated Referemces](/acl_statement/)
+
 ## Welcome!
 
 The 64th Annual Meeting of the Association for Computational Linguistics (ACL 2026) will take place in **San Diego, California**, from **July 2 - 7, 2026**.

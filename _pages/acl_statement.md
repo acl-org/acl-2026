@@ -1,0 +1,16 @@
+---
+title: ACL Statement on Desk Rejecting Papers with Hallucinated Referemces
+layout: single
+permalink: /acl_statement/
+sidebar: false
+toc: false
+toc_sticky: false
+---
+
+The foundation of scientific communication rests upon the ability of researchers to verify and build upon documented evidence. Scientific integrity requires that every claim and reference be grounded in verifiable reality. It is the fundamental responsibility of the authors to ensure the accuracy of all content within their manuscript. A citation is a formal assertion of a relationship between works, and when that relationship is fabricated, the integrity of the entire document and the scholarly record is compromised. Moreover this contamination of the scientific literature has further serious consequences in propagating ghost references with a knock on effect on general information proliferation and the establishment of non-existent knowledge resources. ACL and ARR have taken a clear stance on the requirement that all citations in a paper be verified and real artifacts. During the ARR review process, reviewers identified many non-existent references which led to those submissions being desk rejected.
+
+During the final consistency checks of the camera ready versions of papers accepted to ACL 2026, we identified over 100 papers that contained citations to non-existent literature. Since these papers were going to be published and are no longer subject to the anonymity requirements, an automated system was used to identify potential citation issues and then all flagged citations were reviewed by human experts (PCs and SACs) to confirm that references did not exist. Whether human-authored or LLM-generated, the inclusion of these non-existent references is a clear violation of the [ACL Policy on Publication Ethics](https://www.aclweb.org/adminwiki/index.php/ACL_Policy_on_Publication_Ethics). Consequently, we have made the decision to desk- reject these accepted papers to maintain the quality and trustworthiness of the conference proceedings.
+
+While the use of LLMs has become common in the literature review workflow, these tools do not replace the necessity for rigorous human oversight and authorial responsibility. An author who fabricates a citation commits a serious breach of ethics, and using an automated system as a proxy to generate such citations is equally unacceptable. The efficiency provided by these models for literature review does not remove the author’s obligation to manually confirm the existence and relevance of every cited source before submission.
+
+We reject these papers with sincere regret, recognizing the significant time and effort invested by the authors of these papers during the review and camera ready preparation process as well as all reviewers, ACs and SACs —and knowing that some authors may have already made travel plans. It is never the preference of the program chairs to reject work that has already undergone peer review and been deemed worthy of acceptance. However, preserving the integrity and reliability of the ACL proceedings is our responsibility and these measures are necessary to uphold the standards of our community and to ensure that the work published remains a credible resource for future scientific inquiry.
