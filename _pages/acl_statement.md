@@ -1,5 +1,5 @@
 ---
-title: ACL Statement on Desk Rejecting Papers with Hallucinated Referemces
+title: ACL Statement on Desk Rejecting Papers with Hallucinated References
 layout: single
 permalink: /acl_statement/
 sidebar: false

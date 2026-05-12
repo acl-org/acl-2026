@@ -8,7 +8,7 @@ header:
 excerpt: "San Diego, California, United States<br>July 2&ndash;7, 2026"
 ---
 
-#### <span style="color:#aa0000;">Important</span>: [ACL Statement on Desk Rejecting Papers with Hallucinated Referemces](/acl_statement/)
+#### <span style="color:#aa0000;">Important</span>: [ACL Statement on Desk Rejecting Papers with Hallucinated References](/acl_statement/)
 
 ## Welcome!
 
