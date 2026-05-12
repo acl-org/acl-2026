@@ -78,6 +78,10 @@ If your organization is interested in sponsoring ACL 2026, please refer to our [
       <div class="dummy-padding"></div>
         <img src="/assets/images/sponsors/tencent.png" alt="Tencent">
     </a>
+    <a href="https://www.antgroup.com/en" title="Ant Group">
+      <div class="dummy-padding"></div>
+        <img src="/assets/images/sponsors/antgroup.png" alt="Ant Group">
+    </a>
 </figure>
 
 
@@ -86,6 +90,10 @@ If your organization is interested in sponsoring ACL 2026, please refer to our [
     <a href="https://www.cheninstitute.org" title="Chen Institute">
       <div class="dummy-padding"></div>
         <img src="/assets/images/sponsors/chen_institute.png" alt="Chen Institute">
+    </a>
+    <a href="http://www.speak.com/" title="Speak">
+      <div class="dummy-padding"></div>
+        <img src="/assets/images/sponsors/speak.png" alt="Speak">
     </a>	
 </figure>
 
@@ -94,7 +102,7 @@ If your organization is interested in sponsoring ACL 2026, please refer to our [
     <a href="https://research.adobe.com/" title="Adobe">
       <div class="dummy-padding"></div>
         <img src="/assets/images/sponsors/adobe.jpg" alt="Adobe">
-    </a>	
+    </a>
 </figure>
 
 ## Bronze
@@ -122,5 +130,9 @@ If your organization is interested in sponsoring ACL 2026, please refer to our [
 </figure>
 
 ## Academic Ally
-
-Coming soon!
+<figure class="sponsors-list third">
+    <a href="https://www.compling.uw.edu/" title="University of Washington">
+      <div class="dummy-padding"></div>
+        <img src="/assets/images/sponsors/uw.jpg" alt="University of Washington">
+    </a>
+</figure>
