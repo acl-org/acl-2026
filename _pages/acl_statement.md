@@ -14,3 +14,9 @@ During the final consistency checks of the camera ready versions of papers accep
 While the use of LLMs has become common in the literature review workflow, these tools do not replace the necessity for rigorous human oversight and authorial responsibility. An author who fabricates a citation commits a serious breach of ethics, and using an automated system as a proxy to generate such citations is equally unacceptable. The efficiency provided by these models for literature review does not remove the author’s obligation to manually confirm the existence and relevance of every cited source before submission.
 
 We reject these papers with sincere regret, recognizing the significant time and effort invested by the authors of these papers during the review and camera ready preparation process as well as all reviewers, ACs and SACs —and knowing that some authors may have already made travel plans. It is never the preference of the program chairs to reject work that has already undergone peer review and been deemed worthy of acceptance. However, preserving the integrity and reliability of the ACL proceedings is our responsibility and these measures are necessary to uphold the standards of our community and to ensure that the work published remains a credible resource for future scientific inquiry.
+
+Program Committee Chairs<br>
+&nbsp;&nbsp;&nbsp;&nbsp;_David Jurgens_<br>
+&nbsp;&nbsp;&nbsp;&nbsp;_Maria Liakata_<br>
+&nbsp;&nbsp;&nbsp;&nbsp;_Viviane Moreira_<br>
+&nbsp;&nbsp;&nbsp;&nbsp;_Jiajun Zhang_
