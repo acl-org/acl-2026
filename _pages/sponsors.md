@@ -133,6 +133,6 @@ If your organization is interested in sponsoring ACL 2026, please refer to our [
 <figure class="sponsors-list third">
     <a href="https://www.compling.uw.edu/" title="University of Washington">
       <div class="dummy-padding"></div>
-        <img src="/assets/images/sponsors/uw.jpg" alt="University of Washington">
+        <img src="/assets/images/sponsors/uw.png" alt="University of Washington">
     </a>
 </figure>
