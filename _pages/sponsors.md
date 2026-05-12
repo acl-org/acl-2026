@@ -91,6 +91,10 @@ If your organization is interested in sponsoring ACL 2026, please refer to our [
       <div class="dummy-padding"></div>
         <img src="/assets/images/sponsors/chen_institute.png" alt="Chen Institute">
     </a>
+    <a href="https://www.jpmorgan.com/technology/applied-ai-and-ml/machine-learning" title="JP Morgan Chase">
+      <div class="dummy-padding"></div>
+        <img src="/assets/images/sponsors/jpmorganchase.png" alt="JP Morgan Chase">
+    </a>
     <a href="http://www.speak.com/" title="Speak">
       <div class="dummy-padding"></div>
         <img src="/assets/images/sponsors/speak.png" alt="Speak">
