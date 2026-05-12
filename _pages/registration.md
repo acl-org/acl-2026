@@ -8,13 +8,17 @@ toc_sticky: True
 ---
 
 
-**Registration for Phase 1 is now open. Register [Here](https://acl.swoogo.com/acl2026)**
+#### Phase 2 is officially open for Workshop Authors, Tutorial Presenters, Additional Main Conference Authors and the broader community
+
+Early registration rates: May 12 – May 26 if not sold out.
+
+Late registration rates: May 27 - June 30 if not sold out.
+
+Onsite registration rates: Starting July 1 (unlikely to be available for the main conference; may only be available for workshops and tutorials only).
+
+We will actively monitor capacity and provide updates, but those wishing to attend ACL 2026 in person are strongly encouraged to register as early as possible, as the conference is very likely to sell out quickly. The ACL 2026 venue has a maximum capacity of 3500 attendees in person; ACL 2025 in Vienna had over 5000 attendees in person and the San Diego venue was contracted prior to the recent explosive growth of ACL conference sizes.
+
 **Registration links for Employees of sponsoring companies are listed below.**
-
-
-#### ACL 2026 Conference Registration Phase 1 Opening April 21
-
-We are pleased to announce that registration for the ACL 2026 Conference in San Diego is scheduled to officially open on Tuesday, April 21. As we prepare for this year’s event, we want to share important updates from the ACL Board and Business Office regarding registration structure, capacity, and pricing.
 
 ## Onsite Capacity & Phased Registration
 
@@ -60,10 +64,13 @@ If your company is an ACL 26 sponsor listed above, you may use the appropriate r
  - Apple: <https://acl.swoogo.com/acl2026/begin?code=ACL26AppleP1>
  - Baidu: <https://acl.swoogo.com/acl2026/begin?code=ACL26BaiduP1>
  - Tencent: <https://acl.swoogo.com/acl2026/begin?code=ACL26TencentP1>
+ - Google: <https://acl.swoogo.com/acl2026/begin?code=ACL26GoogleP1>
+ - Ant Group: <https://acl.swoogo.com/acl2026/begin?code=ACL26AntGroupP1>
 
 #### Gold Sponsors
  - Chen Institute: <https://acl.swoogo.com/acl2026/begin?code=ACL26ChenInstP1>
  - JPMorganChase: <https://acl.swoogo.com/acl2026/begin?code=ACL26JPMCP1>
+ - Speak: link coming soon!
 
 #### Silver Sponsors
  - Adobe: <https://acl.swoogo.com/acl2026/begin?code=ACL26AdobeP1>
@@ -81,15 +88,9 @@ If your company is an ACL 26 sponsor listed above, you may use the appropriate r
 
 Employees of sponsoring companies/institutions who are not presenting authors may also register in Phase 2 below **as long as space is still available**.
 
-#### Phase 2 – Workshop Authors, Tutorial Presenters, Additional Main Conference Authors and the broader community (Opens May 12)
+#### ACL 2026 Conference Registration Phase 1 Opening April 21
 
-Early Registration rates: May 12 – May 26  If not sold out.
-
-Late Registration rates: Late Registration: May 27 - June 30th if not sold out.
-
-Onsite Registration rates: Starting July 1 (unlikely to be available for the main conference; may be possible for workshops and tutorials only)
-
-We will actively monitor capacity and provide updates, but those wishing to attend ACL 2026 in person are strongly encouraged to register as early as possible, as the conference is very likely to sell out quickly. The ACL 2026 venue has a maximum capacity of 3500 attendees in person; ACL 2025 in Vienna had over 5000 attendees in person and the San Diego venue was contracted prior to the recent explosive growth of ACL conference sizes.
+We are pleased to announce that registration for the ACL 2026 Conference in San Diego has officially opened on Tuesday, April 21. As we prepare for this year’s event, we want to share important updates from the ACL Board and Business Office regarding registration structure, capacity, and pricing.
 
 
 ## ACL 2026 Pricing
