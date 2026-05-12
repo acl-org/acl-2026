@@ -13,7 +13,7 @@ toc_sticky: True
 
 | Start<br/>Time | End<br/>Time | <img width="440" height="1"> <span class="th-center">Event</span> | <img width="300" height="1"> <span class="th-center">Location</span> |
 | ---------: | --------: | -------------------------- | ------------------------------ |
-| **17:00**  | **20:00** | **Registration & Conference Check In (Full Conference & Tutorial Only Attendees)** | **Grand Hall Foyer - Level 1** |
+| **17:00**  | **20:00** | **Registration & Conference Check In (Full Conference & Tutorial-Only Attendees)** | **Grand Hall Foyer - Level 1** |
 
 
 ### Thursday, July 2nd: Tutorials
@@ -23,8 +23,8 @@ Breakfast, lunch, and dinner are not provided. <br/>
 
 | Start<br/>Time | End<br/>Time | <img width="440" height="1"> <span class="th-center">Event</span> | <img width="300" height="1"> <span class="th-center">Location</span> |
 | ---------: | --------: | -------------------------- | ------------------------------ |
-| **8:00**   | **17:30** | **Registration & Conference Check In Full Conference & Tutorial Only Attendees** | **Grand Hall Foyer - Level 1** |
-| **16:00**  | **17:30** | **Workshop Only registration will open at 16:00** | **Grand Hall Foyer - Level 1** |
+| **8:00**   | **17:30** | **Registration & Conference Check In (Full Conference & Tutorial-Only Attendees)** | **Grand Hall Foyer - Level 1** |
+| **16:00**  | **17:30** | **Workshop-Only Registration** | **Grand Hall Foyer - Level 1** |
 |  9:00      | 10:30     | Session 1: Tutorials 1 - 4 |                                |
 | 10:30      | 11:00     | Coffee Break               |                                |
 | 11:00      | 12:30     | Session 2: Tutorials 1 - 4 |                                |
@@ -41,7 +41,7 @@ Posters will be in the Grand Hall.
 
 | Start<br/>Time | End<br/>Time | <img width="440" height="1"> <span class="th-center">Event</span> | <img width="300" height="1"> <span class="th-center">Location</span> |
 | ---------: | --------: | -------------------------- | ------------------------------ |
-| **8:00**   | **17:30** | **Registration & Conference Check In (Full Conference & Workshop Only Attendees)**           | **Grand Hall Foyer - Level 1** |
+| **8:00**   | **17:30** | **Registration & Conference Check In (Full Conference & Workshop-Only Attendees)**           | **Grand Hall Foyer - Level 1** |
 |  9:00      | 10:30     | Session 1                  |                                |
 | 10:30      | 11:00     | Coffee Break               |                                |
 | 11:00      | 12:30     | Session 2                  |                                |
@@ -58,8 +58,8 @@ Posters will be in the Grand Hall.
 
 | Start<br/>Time | End<br/>Time | <img width="440" height="1"> <span class="th-center">Event</span> | <img width="300" height="1"> <span class="th-center">Location</span> |
 | ---------: | --------: | -------------------------- | ------------------------------ |
-| **8:00**   | **17:30** | **Registration & Conference Check In (Full Conference & Workshop Only Attendees)** | **Grand Hall Foyer - Level 1** |
-| **16:00**  | **19:30** | **Main Conf Only registration will open at 16:00** | **Grand Hall Foyer - Level 1** |
+| **8:00**   | **17:30** | **Registration & Conference Check In (Full Conference & Workshop-Only Attendees)** | **Grand Hall Foyer - Level 1** |
+| **16:00**  | **19:30** | **Main Conference-Only Registration** | **Grand Hall Foyer - Level 1** |
 |  9:00      | 10:30     | Session 1                  |                                |
 | 10:30      | 11:00     | Coffee Break               |                                |
 | 11:00      | 12:30     | Session 2                  |                                |
