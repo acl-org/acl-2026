@@ -10,6 +10,8 @@ toc_sticky: True
 
 #### Phase 2 is officially open for Workshop Authors, Tutorial Presenters, Additional Main Conference Authors and the broader community
 
+Register [Here](https://acl.swoogo.com/acl2026)
+
 Early registration rates: May 12 – May 26 if not sold out.
 
 Late registration rates: May 27 - June 30 if not sold out.
