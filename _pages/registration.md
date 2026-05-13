@@ -14,9 +14,9 @@ Register [Here](https://acl.swoogo.com/acl2026)
 
 Early registration rates: May 12 – May 26 if not sold out.
 
-Late registration rates: May 27 - June 30 if not sold out.
+Late registration rates: May 27 – June 30 if not sold out.
 
-Onsite registration rates: Starting July 1 (unlikely to be available for the main conference; may only be available for workshops and tutorials only).
+Onsite registration rates: Starting July 1 (unlikely to be available for the main conference; may only be available for workshops and tutorials).
 
 We will actively monitor capacity and provide updates, but those wishing to attend ACL 2026 in person are strongly encouraged to register as early as possible, as the conference is very likely to sell out quickly. The ACL 2026 venue has a maximum capacity of 3500 attendees in person; ACL 2025 in Vienna had over 5000 attendees in person and the San Diego venue was contracted prior to the recent explosive growth of ACL conference sizes.
 
