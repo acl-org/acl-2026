@@ -47,7 +47,7 @@ ACL 26 Sponsors, Employees of Sponsoring Companies/Institutions Registration
 
 This exclusive registration period is reserved for 1 author presenting at the conference (the 1 author applies to papers being presented in Main, Findings, Industry, Student Research Workshop, Demos and Workshop Papers that have received notification).
 
-It also includes Our Sponsors, Employees of the sponsoring companies/institutions for ACL 2026 listed at <https://2026.aclweb.org/sponsors/> in recognition of the essential contribution of our sponsors. Current Sponsors are: Bloomberg, Capital One, Alibaba Cloud, Megagon Labs, Appen, Meta, Oracle, Apple, Baidu, Tencent, Chen Institute, JPMorganChase, Adobe, Translated, NatWest Group, ARC, Babelscape, DATAmundi.ai, NEC, University of Washington.
+It also includes Our Sponsors, Employees of the sponsoring companies/institutions for ACL 2026 listed at <https://2026.aclweb.org/sponsors/> in recognition of the essential contribution of our sponsors. Current Sponsors are: Bloomberg, Capital One, Alibaba Cloud, Megagon Labs, Appen, Meta, Oracle, Apple, Baidu, Tencent, Google, Ant Group, Chen Institute, JPMorganChase, Speak, Adobe, Translated, NatWest Group, ARC, Babelscape, DATAmundi.ai, NEC, University of Washington.
 
 <span style="color:#ff0000">**All papers must be registered for presentation by May 11.  Note that late registration fees will apply after May 5th.** Note all findings will be included in the proceeds however if you are not registered by May 11th you could miss presenting in-person due to capacity restrictions.</span>
 
