@@ -82,6 +82,14 @@ If your organization is interested in sponsoring ACL 2026, please refer to our [
       <div class="dummy-padding"></div>
         <img src="/assets/images/sponsors/antgroup.png" alt="Ant Group">
     </a>
+    <a href="https://www.google.com/about/careers/applications/how-we-hire" title="Google">
+      <div class="dummy-padding"></div>
+        <img src="/assets/images/sponsors/google.png" alt="Google">
+    </a>
+    <a href="https://www.snowflake.com/en/" title="Snowflake">
+      <div class="dummy-padding"></div>
+        <img src="/assets/images/sponsors/snowflake.png" alt="Snowflake">
+    </a>
 </figure>
 
 
@@ -131,10 +139,18 @@ If your organization is interested in sponsoring ACL 2026, please refer to our [
       <div class="dummy-padding"></div>
         <img src="/assets/images/sponsors/datamundi.png" alt="DATAmundi">
     </a>
+    <a href="https://neclab.eu/" title="NEC">
+      <div class="dummy-padding"></div>
+        <img src="/assets/images/sponsors/nec.png" alt="NEC">
+    </a>
 </figure>
 
 ## Academic Ally
 <figure class="sponsors-list third">
+    <a href="https://machinelearning.apple.com/" title="Apple">
+      <div class="dummy-padding"></div>
+        <img src="/assets/images/sponsors/apple.png" alt="Apple">
+    </a>
     <a href="https://www.compling.uw.edu/" title="University of Washington">
       <div class="dummy-padding"></div>
         <img src="/assets/images/sponsors/uw.png" alt="University of Washington">
