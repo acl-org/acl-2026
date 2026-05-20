@@ -68,13 +68,13 @@ If your company is an ACL 26 sponsor listed above, you may use the appropriate r
  - Tencent: <https://acl.swoogo.com/acl2026/begin?code=ACL26TencentP1>
  - Google: <https://acl.swoogo.com/acl2026/begin?code=ACL26GoogleP1>
  - Ant Group: <https://acl.swoogo.com/acl2026/begin?code=ACL26AntGroupP1>
- - Snowflake: link coming soon!
- - Zhongguancun Academy: link coming soon!
+ - Snowflake: <https://acl.swoogo.com/acl2026>
+ - Zhongguancun Academy: <https://acl.swoogo.com/acl2026>
 
 #### Gold Sponsors
  - Chen Institute: <https://acl.swoogo.com/acl2026/begin?code=ACL26ChenInstP1>
  - JPMorganChase: <https://acl.swoogo.com/acl2026/begin?code=ACL26JPMCP1>
- - Speak: link coming soon!
+ - Speak: <https://acl.swoogo.com/acl2026>
 
 #### Silver Sponsors
  - Adobe: <https://acl.swoogo.com/acl2026/begin?code=ACL26AdobeP1>
