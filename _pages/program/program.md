@@ -94,7 +94,7 @@ Breakfast, lunch, and dinner are not provided.
 
 | Start<br/>Time | End<br/>Time | <img width="440" height="1"> <span class="th-center">Event</span> | <img width="300" height="1"> <span class="th-center">Location</span> |
 | ---------: | --------: | -------------------------- | ------------------------------ |
-|  1:00      |  2:00     | Session 6: Virtual Plenary Keynote - TBA |                  |
+|  1:00      |  2:00     | Session 6: [Keynote: Yue Zhang (Westlake University)](https://frcchang.github.io/) | Underline (virtual) |
 |  2:30      |  4:00     | Session 7: Virtual Presentations 2 |                        |
 | **8:30**   | **16:30** | **Registration & Conference Check In (Full Conference & Main Conference Attendees)** | **Grand Hall Foyer - Level 1** |
 |  9:00      | 10:30     | Session 8: Oral / Poster Session D |                        |
@@ -102,7 +102,6 @@ Breakfast, lunch, and dinner are not provided.
 | 11:00      | 12:30     | Session 9: Oral / Poster Session E |                        |
 | 12:30      | 13:30     | Lunch Break                |                                |
 | 12:45      | 14:15     | Session 10: Virtual Presentations 3 |                       |
-| 13:00      | 14:00     | Session 10: [Keynote: Yue Zhang (Westlake University)](https://frcchang.github.io/) | Underline (virtual) |
 | 13:30      | 14:30     | Session 11: Business Meeting (all attendees welcome) |      |
 | 14:45      | 15:30     | Session 12: Discussion |                          |
 | 15:30      | 16:15     | Session 12: [Presidential Address: Barbara Plank (LMU Munich)](https://bplank.github.io/)    | Harbor Ballroom Level 2 |

@@ -16,16 +16,6 @@ p.speaker-bio { font-style: italic; font-size: 80%; }
 .speaker-photo { width: 250px; height: 250px; object-fit: contain; }
 </style>
 
-## Presidential Address: Barbara Plank
-
-![Barbara Plank](/assets/images/speakers/barbara_plank.jpg){: .align-center .speaker-photo}
-
-**Monday, July 6, 2026, 15:45 Harbor Ballroom, Level 2**
-
-#### ACL 2026 Presidential Address
-
-**Bio:** Barbara Plank is Professor and co-director of the Center for Information and Language Processing at LMU Munich. She holds the Chair for AI and Computational Linguistics at LMU Munich and is a visiting Professor at the Computer Science department at the IT University of Copenhagen. She directs the MaiNLP research lab (Munich AI and NLP lab) which focuses on Natural Language Processing with an emphasis on human-inspired and data-centric approaches. Her research has been funded by distinguished grants and awards, including an ERC Consolidator Grant (DIALECT) and a DFF Sapere Aude Research Leader grant. She is an ELLIS Fellow and regularly serves on international committees, including ACL and EACL, as well as on scientific advisory boards in academia and industry.
-
 ## Keynote 1: Philip Resnik
 
 ![Philip Resnik](/assets/images/speakers/philip_resnik.png){: .align-center .speaker-photo}
@@ -50,6 +40,17 @@ p.speaker-bio { font-style: italic; font-size: 80%; }
 **Abstract:** ACL has become 30+ times larger than two decades ago, and we face issues such as overwhelming participants, outdated papers, and low quality review. The reason can largely be attributed to increasing research in LLM, and AI accelerating research. Can AI help us address challenges in academic publication and evaluation? How can we accommodate AI-driven research? Could the research and publication paradigm be improved? In this talk, I will try to give some thoughts, sharing some of our recent work on AI review automation, paper recommendation, and AI arXiv, before briefly discussing a bit of AI research automation.
 
 **Bio:** Yue Zhang is a Professor at Westlake University, and a fellow of ACL (https://frcchang.github.io). His research interests include fundamental NLP and its machine learning algorithms, and his recent research focuses on LLM reasoning and AI scientist. His major contributions to the field include machine learning algorithms for structured prediction (e.g., parsing and IE), neural NLP models (i.e., lattice and graph LSTM), and generalization for NLP/LM (e.g., OOD and logical reasoning). He co-authored the Cambridge University Press book ``Natural Language Processing -- a Machine Learning Perspective’'. He served as a PC co-chair for CCL 2020, EMNLP 2022, and LMG 2025, and a general chair for AACL 2026 and NLPCC 2026. He was a co-chair for the test-of-time award committee of ACL 2024 and 2025. He serves as editor in chief for the LLM journal, action editor for TACL, and associate editor for ACM/IEEE TASLP, ACM TALLIP, and IEEE TBD.
+
+
+## Presidential Address: Barbara Plank
+
+![Barbara Plank](/assets/images/speakers/barbara_plank.jpg){: .align-center .speaker-photo}
+
+**Monday, July 6, 2026, 15:45 Harbor Ballroom, Level 2**
+
+#### ACL 2026 Presidential Address
+
+**Bio:** Barbara Plank is Professor and co-director of the Center for Information and Language Processing at LMU Munich. She holds the Chair for AI and Computational Linguistics at LMU Munich and is a visiting Professor at the Computer Science department at the IT University of Copenhagen. She directs the MaiNLP research lab (Munich AI and NLP lab) which focuses on Natural Language Processing with an emphasis on human-inspired and data-centric approaches. Her research has been funded by distinguished grants and awards, including an ERC Consolidator Grant (DIALECT) and a DFF Sapere Aude Research Leader grant. She is an ELLIS Fellow and regularly serves on international committees, including ACL and EACL, as well as on scientific advisory boards in academia and industry.
 
 
 ## Keynote 3: Tania Lombrozo
