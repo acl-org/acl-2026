@@ -16,7 +16,25 @@ p.speaker-bio { font-style: italic; font-size: 80%; }
 .speaker-photo { width: 250px; height: 250px; object-fit: contain; }
 </style>
 
-## Philip Resnik
+## Presidential Address: Barbara Plank
+
+![Barbara Plank](/assets/images/speakers/barbara_plank.png){: .align-center .speaker-photo}
+
+**Monday, July 6, 2026, 15:45 Harbor Ballroom, Level 2**
+
+#### ACL 2026 Presidential Address
+
+**Bio:** Barbara Plank is Professor and co-director of the Center for Information and Language Processing at LMU Munich. She holds the Chair for AI and Computational Linguistics at LMU Munich and is a visiting Professor at the Computer Science department at the IT University of Copenhagen. She directs the MaiNLP research lab (Munich AI and NLP lab) which focuses on Natural Language Processing with an emphasis on human-inspired and data-centric approaches. Her research has been funded by distinguished grants and awards, including an ERC Consolidator Grant (DIALECT) and a DFF Sapere Aude Research Leader grant. She is an ELLIS Fellow and regularly serves on international committees, including ACL and EACL, as well as on scientific advisory boards in academia and industry.
+
+#### A New Balancing Act: Reflections on the Relationship between Computational Linguistics and AI
+
+**Sunday, July 5, 2026, 9:30, Harbor Ballroom Level 2**
+
+**Abstract:** Beginning in the mid-1980s, a "statistical revolution" in our field redefined what it meant to work on language from a computational perspective. Steve Abney, in his essay opening The Balancing Act: Combining Symbolic and Statistical Approaches to Language (Klavans and Resnik, eds., MIT Press, 1996), wrote: "In the space of the last ten years, statistical methods have gone from being virtually unknown in computational linguistics to being a fundamental given". We are again caught up in revolutionary times. Except this time around, the revolution is hurtling forward even faster, and it is redefining not only the research we do, but what it means to do research in the first place, the role of research in society, and society itself. What does this mean for ACL -- what defines us as a community, what is our role, and where do we go from here?
+
+**Bio:** Philip Resnik is a Professor at the University of Maryland with joint appointments in the Department of Linguistics and the Institute for Advanced Computer Studies. In 2020 he was named an ACL Fellow for significant contributions to symbolic-statistical methods for natural language processing, multilinguality, and the interdisciplinary study of language. Philip's most recent research has focused in three main areas. The first is computational social science, with an emphasis on qualitative analysis and connecting the signal available in people's language use with underlying mental state. The second is the computational cognitive neuroscience of language, using computational modeling in connection with brain imaging to look at the role of context and predictive processing during online language comprehension. The third involves fundamental questions about how current AI models relate to human cognition and to human society. Outside academia, Philip's industry experience includes research at Bolt Beranek and Newman and Sun Microsystems Laboratories, as well as an internship at IBM T.J. Watson Research Center, and in entrepreneurial life he has been a technical co-founder of CodeRyte (clinical NLP, acquired by 3M in 2012), an advisor to FiscalNote (machine learning and analytics for government relations, went public in 2022), and he currently serves as an advisor to Trustible (technology provider for responsible AI governance). Philip was an undergrad in CS at Harvard and earned his PhD in Computer and Information Science at the University of Pennsylvania.
+
+## Keynote 1: Philip Resnik
 
 ![Philip Resnik](/assets/images/speakers/philip_resnik.png){: .align-center .speaker-photo}
 
@@ -29,7 +47,7 @@ p.speaker-bio { font-style: italic; font-size: 80%; }
 **Bio:** Philip Resnik is a Professor at the University of Maryland with joint appointments in the Department of Linguistics and the Institute for Advanced Computer Studies. In 2020 he was named an ACL Fellow for significant contributions to symbolic-statistical methods for natural language processing, multilinguality, and the interdisciplinary study of language. Philip's most recent research has focused in three main areas. The first is computational social science, with an emphasis on qualitative analysis and connecting the signal available in people's language use with underlying mental state. The second is the computational cognitive neuroscience of language, using computational modeling in connection with brain imaging to look at the role of context and predictive processing during online language comprehension. The third involves fundamental questions about how current AI models relate to human cognition and to human society. Outside academia, Philip's industry experience includes research at Bolt Beranek and Newman and Sun Microsystems Laboratories, as well as an internship at IBM T.J. Watson Research Center, and in entrepreneurial life he has been a technical co-founder of CodeRyte (clinical NLP, acquired by 3M in 2012), an advisor to FiscalNote (machine learning and analytics for government relations, went public in 2022), and he currently serves as an advisor to Trustible (technology provider for responsible AI governance). Philip was an undergrad in CS at Harvard and earned his PhD in Computer and Information Science at the University of Pennsylvania.
 
 
-## Yue Zhang
+## Keynote 2: Yue Zhang
 
 ![Yue Zhang](/assets/images/speakers/yue_zhang.jpg){: .align-center .speaker-photo}
 
@@ -42,7 +60,7 @@ p.speaker-bio { font-style: italic; font-size: 80%; }
 **Bio:** Yue Zhang is a Professor at Westlake University, and a fellow of ACL (https://frcchang.github.io). His research interests include fundamental NLP and its machine learning algorithms, and his recent research focuses on LLM reasoning and AI scientist. His major contributions to the field include machine learning algorithms for structured prediction (e.g., parsing and IE), neural NLP models (i.e., lattice and graph LSTM), and generalization for NLP/LM (e.g., OOD and logical reasoning). He co-authored the Cambridge University Press book ``Natural Language Processing -- a Machine Learning Perspective’'. He served as a PC co-chair for CCL 2020, EMNLP 2022, and LMG 2025, and a general chair for AACL 2026 and NLPCC 2026. He was a co-chair for the test-of-time award committee of ACL 2024 and 2025. He serves as editor in chief for the LLM journal, action editor for TACL, and associate editor for ACM/IEEE TASLP, ACM TALLIP, and IEEE TBD.
 
 
-## Tania Lombrozo
+## Keynote 3: Tania Lombrozo
 
 ![Tania Lombrozo](/assets/images/speakers/tania_lombrozo.jpg){: .align-center .speaker-photo}
 

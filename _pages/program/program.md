@@ -105,7 +105,7 @@ Breakfast, lunch, and dinner are not provided.
 | 13:00      | 14:00     | Session 10: [Keynote: Yue Zhang (Westlake University)](https://frcchang.github.io/) | Underline (virtual) |
 | 13:30      | 14:30     | Session 11: Business Meeting (all attendees welcome) |      |
 | 14:45      | 15:30     | Session 12: Discussion |                          |
-| 15:30      | 16:15     | Session 12: Presidential Address    |                                |
+| 15:30      | 16:15     | Session 12: [Presidential Address: Barbara Plank (LMU Munich)](https://bplank.github.io/)    | Harbor Ballroom Level 2 |
 | 16:15      | 16:45     | Coffee Break               |                                |
 | 16:45      | 17:45     | Session 13: [Keynote: Tania Lombrozo (Princeton University)](https://psych.princeton.edu/people/tania-lombrozo) | Harbor Ballroom Level 2 |
 | 18:00      | 19:30     | Session 14: Virtual Presentations 4 |                       |
