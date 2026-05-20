@@ -18,7 +18,7 @@ p.speaker-bio { font-style: italic; font-size: 80%; }
 
 ## Presidential Address: Barbara Plank
 
-![Barbara Plank](/assets/images/speakers/barbara_plank.png){: .align-center .speaker-photo}
+![Barbara Plank](/assets/images/speakers/barbara_plank.jpg){: .align-center .speaker-photo}
 
 **Monday, July 6, 2026, 15:45 Harbor Ballroom, Level 2**
 
