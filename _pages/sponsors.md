@@ -103,7 +103,7 @@ If your organization is interested in sponsoring ACL 2026, please refer to our [
       <div class="dummy-padding"></div>
         <img src="/assets/images/sponsors/jpmorganchase.png" alt="JP Morgan Chase">
     </a>
-    <a href="http://www.speak.com/" title="Speak">
+    <a href="https://jobs.ashbyhq.com/speak?utm_source=ACL_2026/" title="Speak">
       <div class="dummy-padding"></div>
         <img src="/assets/images/sponsors/speak.png" alt="Speak">
     </a>	
