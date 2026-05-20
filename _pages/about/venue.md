@@ -136,7 +136,7 @@ Poster pickup will be available on-site at ACL 2026:
  - Monday, July 6, 8:00am – 1:30pm
  - Tuesday, July 6, 8:00am – 12:30pm 
 
-[Click here](https://acl.myprintdesk.net/login) to find out more information about ordering your poster.
+**[Click here](https://acl.myprintdesk.net/login) to find out more information about ordering your poster.**
 
 
 ### About San Diego
