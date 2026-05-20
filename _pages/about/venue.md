@@ -118,17 +118,33 @@ For more information about MTS services and buying trolley or bus tickets, pleas
 
 ## Author/Presenter Information
 
-Coming soon!
+### Poster Printing
 
-## Poster Printing
+Poster Printing Services will be provided by ARC. Posters **must** be printed **portrait** style:
+ - 36in (w) x 47in (h)
+ - 91cm (w) x 119cm (h)
 
-Coming soon!
+Orders placed by May 31, 2026, will receive early bird pricing:
+ - Eco 24lb paper: $70
+ - Glossy 8mil Satin: $80
+ - HQ Non-Tear: $100
 
-## About San Diego
+Poster pickup will be available on-site at ACL 2026:
+ - Friday, July 3, 8:00am – 5:00pm
+ - Saturday, July 4, 8:00am – 5:00pm
+ - Sunday, July 5, 8:00am – 5:00pm
+ - Monday, July 6, 8:00am – 1:30pm
+ - Tuesday, July 6, 8:00am – 12:30pm 
+
+[Click here](https://acl.myprintdesk.net/login) to find out more information about ordering your poster.
+
+
+### About San Diego
 
 San Diego, California, is a vibrant coastal city known for its stunning beaches, rich history, and technological innovation. It is home to the largest naval fleet in the world and enjoys over 260 sunny days a year, making it a paradise for outdoor enthusiasts. The city is also a hub for biotech and telecommunications, with companies like Qualcomm leading advancements in wireless technology. San Diego hosts Comic-Con International, the world's largest comic book and popular arts convention, attracting fans and creators from around the globe. Additionally, the Torrey Pines State Natural Reserve is one of the only places where the rare Torrey Pine tree grows, adding to the city's unique natural beauty. A fun fact: the very first video ever uploaded to YouTube by co-founder Jawed Karim, titled Me at the zoo, was filmed at the elephant exhibit in the San Diego Zoo in 2005. Whether you're exploring its cultural landmarks or diving into its tech scene, San Diego offers a fascinating blend of history, nature, and innovation.
 
-## Things To Do
+
+### Things To Do
 
 San Diego offers a mix of natural beauty, cultural experiences, and exciting activities—perfect for a memorable visit! Here are some top things to do:
 
@@ -144,3 +160,118 @@ San Diego offers a mix of natural beauty, cultural experiences, and exciting act
  - [Coronado Island](https://coronadovisitorcenter.com/) – Home to beautiful beaches and the iconic Hotel del Coronado.
  - [Liberty Public Market](https://libertypublicmarketsd.com/) – A great place to sample local food and drinks in a vibrant setting.
  - [Pacific Beach Boardwalk](https://www.tripadvisor.com/Attraction_Review-g60750-d1091705-Reviews-Pacific_Beach-San_Diego_California.html) – Rent a bike or scooter and cruise along the scenic coastline.
+
+
+### Local Information about San Diego
+
+#### Languages
+English is the primary and de facto official language used in San Diego, California, with Spanish widely spoken as the second most common language.
+
+#### Weather
+San Diego in early July (including the week of ACL 2026, July 1-8) typically features warm, comfortable summer conditions that are ideal for visitors. Daytime temperatures usually reach the mid‑20s Celsius (mid‑70s to around 80°F), while evenings cool to the high teens (mid‑60s F), creating a refreshing contrast between day and night. Weather is predominantly sunny and very dry, with little to no rainfall expected, although mornings may begin with a light coastal cloud layer that typically clears by midday. Gentle ocean breezes help moderate temperatures and keep humidity comfortable, making conditions pleasant for both indoor events and outdoor activities. Overall, attendees can expect consistently mild, sunny, and enjoyable weather throughout the week.
+
+#### Currency
+The official currency used in San Diego is the US Dollar. Several major banks and ATMs are located within walking distance or a short drive from the venue.
+
+#### Power Plugs/Outlets
+The United States uses Type A and Type B electrical outlets, with a standard voltage of 120 volts and a frequency of 60 Hz. Type A plugs have two flat parallel pins, while Type B plugs include an additional round grounding pin for increased safety. Travelers from regions such as Europe, the UK, or Switzerland will typically need a plug adapter, and in some cases a voltage converter if their devices are not compatible with 120V systems
+
+#### Clothing	
+Clothing recommendation: Bring light jackets; temperature differences between morning/evening and daytime can be significant, so a medium-weight jacket is advisable.
+
+#### Water	
+Water served at local establishments undergoes filtration and is safe for consumption. Although the municipal water supply complies with all safety regulations, a slight chlorine scent may occasionally be present. For individuals with heightened sensitivities or specific hydration preferences, bottled water is always an alternative.
+
+
+#### Local Customs (Do's and Don'ts in San Diego)	
+
+##### Do's
+
+DO stand on the right, walk on the left: When using escalators (like at the airport or shopping malls), stand on the right side so people in a rush can pass you on the left.
+
+DO expect "sticker shock" at checkout: The price you see on a price tag or menu is not the final price. Sales tax (around 7.75% in San Diego) is calculated and added at the cash register.
+
+DO make small talk: Americans are incredibly friendly and conversational. Cashiers, waiters, and strangers in line will likely ask, "How are you doing today?" A short, polite "Good, thanks! How are you?" is all that is expected.
+
+DO look at the fine print on menu water: As mentioned before, if a restaurant waiter asks if you want "still, sparkling, or tap water," choose tap water if you want it to be free. Saying "still" usually results in an expensive bottle of water added to your bill.
+
+
+##### Don'ts
+
+DON'T smoke on the beaches or in parks: San Diego has incredibly strict smoke-free laws. Smoking cigarettes or e-cigarettes (vapes) is completely banned on all public beaches, boardwalks, parks, and outdoor restaurant patios.
+
+DON'T drink alcohol in public spaces: You cannot walk down the street, boardwalk, or sit on the beach with an open beer or cocktail. Alcohol can only be consumed inside licensed establishments or designated private areas.
+
+DON'T cross the street anywhere you want: "Jaywalking" (crossing the street outside of a marked pedestrian crosswalk or against a red light) can result in a hefty fine from the police. Always wait for the white "walk" signal.
+
+DON'T underdress for the evening: San Diego has beautiful daytime weather, but because it is on the Pacific Ocean, the temperature drops significantly as soon as the sun goes down. Don't leave your hotel for the day without a light jacket or sweater.
+
+DON'T pet or feed the sea lions: If you visit La Jolla Cove to see the famous wild sea lions, keep your distance (at least 50 feet or 15 meters). It is illegal to harass, feed, or get too close to them, and local lifeguards will publicly call you out on a loudspeaker if you try to take a selfie too close to them.
+
+#### Public Transportation Etiquette	
+
+##### Sound and Space
+ - Always use headphones: Listening to music, watching videos, or having a phone call on speakerphone without headphones is the number one complaint among San Diego riders. 
+ - Keep your headphones plugged in while on board.
+ - Keep your belongings to one seat: Do not use the empty seat next to you as a shelf for your backpack, purse, or shopping bags if the transit vehicle is filling up. 
+ - Keep your items on your lap or between your feet.
+ - Never put your feet on the seats: Propping your shoes up on the seat across from you is a major etiquette violation and can actually result in a legal citation from transit security.
+
+##### Priority Seating and Space 
+ - Move for seniors and disabled riders: The seats closest to the doors on both buses and trolleys are clearly marked with blue signs as Priority Seating. If you are sitting there and someone who is elderly, pregnant, or has a disability boards, you are expected to stand up and offer them the seat immediately without being asked.
+ - Let people off first: When boarding buses/trolleys and the doors open, stand to the side of the door on the platform and let arriving passengers exit completely before you try to step inside.
+
+
+##### Food, Drink, and Trash 
+ - No eating allowed: To keep vehicles clean and prevent unwanted pests, eating food on board buses and trolleys is strictly prohibited by MTS regulations.
+ - Drinks must have lids: You can bring a beverage on board (like a coffee or water bottle), but it must have a secure, spill-proof lid.
+ - Alcohol is completely illegal on all public transit.
+
+#### Tipping	
+Tipping is appreciated and usually honored in the US; it is how service workers make their living. Tip 15% to 20% at sit-down restaurants, $1 to $2 per drink at a bar, and $2 to $5 for hotel porters or rideshare drivers.
+
+#### Shopping, Dining, and Entertainment
+
+The conference venue is near plenty of options for shopping, dining, and entertainment, accessible by foot, bike, car, or public transportation. Visit these nearby downtown neighborhoods: Gaslamp Quarter, Little Italy, Embarcadero & Marina District, East Village, and Golden Hill.
+
+[Click here](https://www.sandiego.org/beaches-neighborhoods/downtown-san-diego) to read more.
+
+#### Best Transportation to Get Around the City
+
+The Manchester Grand Hyatt San Diego sits just a few miles from San Diego International Airport (SAN), offering convenient access for arriving attendees. 
+**The MTS Bus Route 992** provides direct service from the airport to Broadway & Kettner Blvd, the appropriate stop for reaching the hotel. Taxis from the airport typically range from $13–$16. Once at the venue, attendees can comfortably explore nearby waterfront destinations—including the Marina District, the Embarcadero, and the Gaslamp Quarter—on foot. For travel to other parts of the city, the Seaport Village Station, served by the **MTS Trolley Green Line**, is located adjacent to the hotel.
+
+[Click here](https://www.sdmts.com/getting-around/maps-and-schedules) to view the full MTS bus schedule and map.
+
+
+#### Practical Information
+
+##### Important Notes
+City & Traffic Awareness: Stay alert in high‑traffic zones.
+Use crosswalks and signals and avoid jaywalking, especially downtown where vehicle, bike, and scooter traffic is dense.
+
+##### Transportation Tips
+Use reliable transportation such as licensed taxis, rideshare services, or public transit. Avoid walking alone late at night in unfamiliar areas. 
+Airport navigation: Arrive at SAN at least 2 hours before flights, bring valid ID, and use the free shuttle to the Rental Car Center if needed. 
+Public transit: Amtrak and COASTER trains connect major areas, and rideshare pickup zones are clearly marked at the airport. 
+
+##### Beach & Outdoor Safety
+Follow lifeguard instructions and swim only in designated areas.
+Watch for rip currents and avoid swimming alone.
+Hydrate and use sun protection — San Diego sun is strong year‑round.
+Stay aware of surroundings in crowded beach areas to avoid theft. 
+
+##### General Safety
+Research neighborhoods before exploring; stay aware in crowded tourist zones like Gaslamp Quarter. 
+Keep belongings secure — pickpocketing can occur in busy areas.
+Use well‑lit streets at night and travel with others when possible."
+
+##### In Case of an Emergency	
+Emergency Contact Information for San Diego: The following are the essential numbers every ACL attendee should save.
+
+**Immediate Emergencies**: 911 — Police, Fire, Medical.
+Use for life‑threatening emergencies or urgent safety threats. 
+
+**Non‑Emergency & Support Services**: San Diego Police Non‑Emergency Line — 619-531-2000
+
+**Local Urgent Care & Medical Services**: The closest 24/7 urgent care to the Manchester Grand Hyatt is Primary Care & House Calls, located 0.3 miles away and open 24 hours.

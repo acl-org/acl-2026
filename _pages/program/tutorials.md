@@ -49,7 +49,7 @@ toc_sticky: True
 
 <div>
   <h5>Knowledge Control for Responsible Generative AI: Bridging Academia,Industry, and Society</h5>
-  <h6><b>Organizers:</b> Zheyuan Liu, Yixin Wan, Kai-Wei Chang, Meng Jiang, Jieyu Zhao, Nouha Dziri, Cem Anil and Yuning Mao</h6>
+  <h6><b>Organizers:</b> Zheyuan Liu, Yixin Wan, Kai-Wei Chang, Meng Jiang, Jieyu Zhao, Nouha Dziri, Yuning Mao, Jiachen Gu, and Jindong Gu</h6>
   <p><b>Description:</b> This tutorial explores post-training knowledge control as a practical and responsible framework for shaping the behavior of large generative models. It brings together perspectives from academia, industry, and society to address the growing need for scalable, interpretable, and ethically grounded interventions in AI systems. Through discussions of diverse knowledge control techniques like machine unlearning, knowledge editing, and inference-time control, the tutorial illustrates how these approaches can remove or adjust undesirable model behaviors while preserving integrity and usefulness. It emphasizes bridging research, deployment, and societal perspectives, offering attendees a holistic understanding of how advances across academia, industry, and society can jointly promote safer, fairer, and more accountable generative AI.</p>
 </div>
 {: .notice--primary}
