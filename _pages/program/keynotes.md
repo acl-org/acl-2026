@@ -1,5 +1,5 @@
 ---
-title: Main Conference Keynotes
+title: Keynotes
 layout: single
 excerpt: "ACL 2026 Keynote Speakers"
 permalink: /program/keynotes/
@@ -31,7 +31,7 @@ p.speaker-bio { font-style: italic; font-size: 80%; }
 
 ## Yue Zhang
 
-![Yue Zhang](/assets/images/speakers/yue_zhang.png){: .align-center .speaker-photo}
+![Yue Zhang](/assets/images/speakers/yue_zhang.jpg){: .align-center .speaker-photo}
 
 #### How Can AI Help Us Manage AI Conferences (where Troubles Are Caused by AI)
 
@@ -44,7 +44,7 @@ p.speaker-bio { font-style: italic; font-size: 80%; }
 
 ## Tania Lombrozo
 
-![Tania Lombrozo](/assets/images/speakers/tania_lombrozo.png){: .align-center .speaker-photo}
+![Tania Lombrozo](/assets/images/speakers/tania_lombrozo.jpg){: .align-center .speaker-photo}
 
 #### Explanation and Understanding: A Perspective from Cognitive Science
 
