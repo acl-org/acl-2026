@@ -269,9 +269,9 @@ Use well‑lit streets at night and travel with others when possible."
 ##### In Case of an Emergency	
 Emergency Contact Information for San Diego: The following are the essential numbers every ACL attendee should save.
 
-**Immediate Emergencies**: 911 — Police, Fire, Medical.
+**Immediate Emergencies**: [911](tel:911) — Police, Fire, Medical.
 Use for life‑threatening emergencies or urgent safety threats. 
 
-**Non‑Emergency & Support Services**: San Diego Police Non‑Emergency Line — 619-531-2000
+**Non‑Emergency & Support Services**: San Diego Police Non‑Emergency Line — [619-531-2000](tel:+16195312000)
 
 **Local Urgent Care & Medical Services**: The closest 24/7 urgent care to the Manchester Grand Hyatt is Primary Care & House Calls, located 0.3 miles away and open 24 hours.
