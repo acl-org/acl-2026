@@ -46,9 +46,9 @@ p.speaker-bio { font-style: italic; font-size: 80%; }
 
 ![Barbara Plank](/assets/images/speakers/barbara_plank.jpg){: .align-center .speaker-photo}
 
-**Monday, July 6, 2026, 15:45 Harbor Ballroom, Level 2**
-
 #### ACL 2026 Presidential Address
+
+**Monday, July 6, 2026, 15:45 Harbor Ballroom, Level 2**
 
 **Bio:** Barbara Plank is Professor and co-director of the Center for Information and Language Processing at LMU Munich. She holds the Chair for AI and Computational Linguistics at LMU Munich and is a visiting Professor at the Computer Science department at the IT University of Copenhagen. She directs the MaiNLP research lab (Munich AI and NLP lab) which focuses on Natural Language Processing with an emphasis on human-inspired and data-centric approaches. Her research has been funded by distinguished grants and awards, including an ERC Consolidator Grant (DIALECT) and a DFF Sapere Aude Research Leader grant. She is an ELLIS Fellow and regularly serves on international committees, including ACL and EACL, as well as on scientific advisory boards in academia and industry.
 
