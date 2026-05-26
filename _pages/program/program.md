@@ -13,7 +13,7 @@ toc_sticky: True
 
 | Start<br/>Time | End<br/>Time | <img width="440" height="1"> <span class="th-center">Event</span> | <img width="300" height="1"> <span class="th-center">Location</span> |
 | ---------: | --------: | -------------------------- | ------------------------------ |
-| **17:00**  | **20:00** | **Registration & Conference Check In (Full Conference & Tutorial-Only Attendees)** | **Grand Hall Foyer - Level 1** |
+| **17:30**  | **20:00** | **Registration & Conference Check In (Full Conference & Tutorial-Only Attendees)** | **Grand Hall Foyer - Level 1** |
 
 
 ### Thursday, July 2nd: Tutorials
