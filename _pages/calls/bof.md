@@ -10,11 +10,11 @@ toc: True
 toc_sticky: True
 ---
 
-<h3 style="margin-top:0px;">(also known as Birds-of-a-Feather Events[^1])</h3>
-
-[^1]: The name is a reference to the English idiom “birds of a feather flock together”, meaning that people who are similar tend to spend time with each other.
+<h3 style="margin-top:0px;">(also known as Birds-of-a-Feather Events<sup>1</sup></h3>
 
 Applicants should fill out the [application form](https://forms.gle/sQHix6QCXFf2Qc6g9) before **June 6th, 2026 23:59 (AoE)**. Please read the information carefully to help you fill in the form.
+
+<sup>1</sup><small>The name is a reference to the English idiom “birds of a feather flock together”, meaning that people who are similar tend to spend time with each other.</small>
 
 
 ### Introduction

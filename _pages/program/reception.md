@@ -11,8 +11,8 @@ toc_sticky: True
 
 We are delighted to invite you to the ACL 2026 Welcome Reception—a wonderful opportunity to kick off the conference in a relaxed and engaging setting.
 
-**Venue:** Manchester Grand Hyatt (1 Market Pl, San Diego, CA 92101)
-**Location:** Level 4 – Follow Hyatt signs to the Sports Court and ACL directional signage
+**Venue:** Manchester Grand Hyatt (1 Market Pl, San Diego, CA 92101)<br>
+**Location:** Level 4 – Follow Hyatt signs to the Sports Court and ACL directional signage<br>
 **Date & Time:** Saturday, July 4, 2026, 18:00–20:00
 
 Join us for an evening of networking, refreshments, and lively conversation with fellow members of the natural language processing community. Whether you're reconnecting with colleagues or meeting new peers, this reception offers the perfect start to an inspiring conference experience.

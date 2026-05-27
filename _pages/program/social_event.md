@@ -11,8 +11,8 @@ toc_sticky: True
 
 We are excited to invite you to the ACL 2026 Social Event, taking place aboard one of San Diego’s most iconic landmarks—the historic USS Midway.
 
-**Venue:** USS Midway Museum (910 N Harbor Dr, San Diego, CA 92101)
-**Location:** A short walk from the Manchester Grand Hyatt along the waterfront
+**Venue:** USS Midway Museum (910 N Harbor Dr, San Diego, CA 92101)<br>
+**Location:** A short walk from the Manchester Grand Hyatt along the waterfront<br>
 **Date & Time:** Monday, July 6, 2026, 18:30–22:00
 
 Step aboard this legendary aircraft carrier—once the longest-serving U.S. Navy aircraft carrier of the 20th century—for an unforgettable evening of networking, exploration, and fun. Now a world-renowned floating museum, the USS Midway offers a unique opportunity to experience history firsthand while connecting with colleagues from across the ACL community.
