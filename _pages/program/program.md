@@ -13,7 +13,7 @@ toc_sticky: True
 
 | Start<br/>Time | End<br/>Time | <img width="440" height="1"> <span class="th-center">Event</span> | <img width="300" height="1"> <span class="th-center">Location</span> |
 | ---------: | --------: | -------------------------- | ------------------------------ |
-| **17:00**  | **20:00** | **Registration & Conference Check In (Full Conference & Tutorial-Only Attendees)** | **Grand Hall Foyer - Level 1** |
+| **17:30**  | **20:00** | **Registration & Conference Check In (Full Conference & Tutorial-Only Attendees)** | **Grand Hall Foyer - Level 1** |
 
 
 ### Thursday, July 2nd: Tutorials
@@ -83,7 +83,7 @@ Breakfast, lunch, and dinner are not provided.
 | 11:00      | 12:30     | Session 2: Oral / Poster Session A |                        |
 | 12:30      | 14:00     | Lunch Break                |                                |
 | 14:00      | 15:30     | Session 3: Oral / Poster Session B |                        |
-| 14:00      | 15:30     | Industry Symposium         |                        |
+| 14:00      | 15:30     | Linguistics Symposium         |                        |
 | 15:30      | 16:00     | Coffee Break               |                                |
 | 16:00      | 17:30     | Session 4: Oral / Poster Session C |                        |
 | 18:00      | 19:30     | Session 5: Virtual Presentations 1 |                        |

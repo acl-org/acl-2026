@@ -22,8 +22,8 @@ If you intend to commit to ACL 2026 and need an invitation letter for visas plea
 
 ## Registration
 
-Coming soon!
+Questions regarding registration or payment can be directed to [ACLinfo@yesevents.com](mailto:ACLinfo@yesevents.com).
 
 ## Virtual Conference
 
-Coming soon!
+For inquiries about the Virtual conference, please contact our support: [acl2026@underline.io](mailto:acl2026@underline.io).
