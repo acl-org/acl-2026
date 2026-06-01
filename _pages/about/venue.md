@@ -138,6 +138,8 @@ Poster pickup will be available on-site at ACL 2026:
 
 **[Click here](https://acl.myprintdesk.net/login) to find out more information about ordering your poster.**
 
+Questions may be emailed to: SanDiego.COLOR@e-arc.com
+
 
 ### About San Diego
 
