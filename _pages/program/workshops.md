@@ -160,7 +160,7 @@ To learn more about each workshop, including schedule & times, visit the worksho
 <div>
   <h5><a href="https://turing.iimas.unam.mx/americasnlp/2026_workshop.html" target="_blank">The Sixth Workshop on NLP for Indigenous Languages of the Americas (AmericasNLP)</a></h5>
   <h6>Organizers: Manuel Mager, Arturo Oncevay, Abteen Ebrahimi,  Minh Duc Bui, Shruti Rijhwani, Luis Chiruzzo, Robert Pugh, Rolando Coto-Solano, John E. Ortega, Katharina von der Wense</h6>
-  <h6>Half-day workshop (morning)</h6>
+  <h6>Half-day workshop (afternoon)</h6>
   <h6>Room: Old Town</h6>
   <p>Description: AmericasNLP promotes the research of NLP for the indigenous languages of the American continent.</p>
 </div>
