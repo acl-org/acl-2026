@@ -61,8 +61,8 @@ To learn more about each workshop, including schedule & times, visit the worksho
 <div>
   <h5><a href="https://sites.google.com/view/dravidianlangtech-2026" target="_blank">The Sixth Workshop on Speech and Language Technologies for Dravidian Languages (DravidianLangTech)</a></h5>
   <h6>Organizers: Bharathi Raja Chakravarthi, Ruba Priyadharshini, Anand Kumar M, Sajeetha Thavareesan, Saranya Rajiakodi, Subalalitha CN, Dhivya Chinnappa, Balasubramanian Palani, Malliga Subramanian, Kogilavani Shanmugavadivel</h6>
-  <h6>Full-day workshop</h6>
-  <h6>Room: Virtual-only on Underline</h6>
+  <h6>Morning, half-day workshop</h6>
+  <h6>Room: La Jolla Old Town</h6>
   <p>Description: DravidianLangTech-2026 welcomes theoretical, empirical, and applicationdriven contributions on any Dravidian languages that advance language processing, speech technologies, multimodality, or resource development. Submissions can address challenges in monolingual, bilingual, and code-mixed settings as well as crosslingual and low-resource transfer approaches.</p>
 </div>
 {: .notice--primary}
