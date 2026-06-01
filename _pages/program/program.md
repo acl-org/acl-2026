@@ -67,7 +67,7 @@ Posters will be in the Grand Hall.
 | 14:00      | 15:30     | Session 3                  |                                |
 | 15:30      | 16:00     | Coffee Break               |                                |
 | 16:00      | 17:30     | Session 4                  |                                |
-| 18:00      | 20:00     | Welcome Reception          |                                |
+| 18:00      | 20:00     | Welcome Reception (Click [here](/program/reception) for more details)          |                                |
 | 21:00      | 22:00     | Fireworks - Big Bay Boom on the San Diego Bay |             |
 
 ### Sunday, July 5th: Main Conference Day 1
@@ -83,7 +83,7 @@ Breakfast, lunch, and dinner are not provided.
 | 11:00      | 12:30     | Session 2: Oral / Poster Session A |                        |
 | 12:30      | 14:00     | Lunch Break                |                                |
 | 14:00      | 15:30     | Session 3: Oral / Poster Session B |                        |
-| 14:00      | 15:30     | Linguistics Symposium         |                        |
+| 14:00      | 15:30     | Linguistics Symposium - **Linguistics and NLP in the LLM Era** (Allyson Ettinger, Richard Futrell, Zoey Liu and Tom McCoy) |                        |
 | 15:30      | 16:00     | Coffee Break               |                                |
 | 16:00      | 17:30     | Session 4: Oral / Poster Session C |                        |
 | 18:00      | 19:30     | Session 5: Virtual Presentations 1 |                        |
@@ -102,13 +102,13 @@ Breakfast, lunch, and dinner are not provided.
 | 11:00      | 12:30     | Session 9: Oral / Poster Session E |                        |
 | 12:30      | 13:30     | Lunch Break                |                                |
 | 12:45      | 14:15     | Session 10: Virtual Presentations 3 |                       |
-| 13:30      | 14:30     | Session 11: Business Meeting (all attendees welcome) |      |
-| 14:45      | 15:30     | Session 12: Discussion |                          |
+| 13:30      | 14:30     | Session 11: Business Meeting (all attendees welcome) | Harbor Ballroom Level 2 |
+| 14:45      | 15:30     | Session 12: Panel Discussion Explainability of LLMs: Academic vs Industry Perspective <br/>Panelists: Tal Linzen (NYU/Google); Sameer Singh (UCI/Spiffy AI); Kamalika Das (Intuit) <br/> Moderator: Julian McAuley (UCSD) |                          |
 | 15:30      | 16:15     | Session 12: [Presidential Address: Barbara Plank (LMU Munich)](https://bplank.github.io/)    | Harbor Ballroom Level 2 |
 | 16:15      | 16:45     | Coffee Break               |                                |
 | 16:45      | 17:45     | Session 13: [Keynote: Tania Lombrozo (Princeton University)](https://psych.princeton.edu/people/tania-lombrozo) | Harbor Ballroom Level 2 |
 | 18:00      | 19:30     | Session 14: Virtual Presentations 4 |                       |
-| 18:30      | 22:00     | Social Event               |                                |
+| 18:30      | 22:00     | Social Event (Click [here](/program/social_event) for details)              |                                |
 
 ### Tuesday, July 7th: Main Conference Day 3
 
@@ -122,7 +122,7 @@ Breakfast, lunch, and dinner are not provided.
 | 10:30      | 11:00     | Coffee Break               |                                |
 | 11:00      | 12:30     | Session 17: Oral / Poster Session G |                       |
 | 12:30      | 14:00     | Lunch Break                |                                |
-| 14:00      | 15:30     | Session 18: Memorial/ ToT Awards / ACL Lifetime Award |          |
-| 15:30      | 16:00     | Coffee Break               |                                |
-| 16:00      | 17:00     | Session 19: Paper Award Session |                           |
-| 17:00      | 17:30     | Session 19: Closing Session |                               |
+| 14:00      | 15:30     | Session 18: Memorial/ ToT Awards / ACL Lifetime Award |  Harbor Ballroom Level 2        |
+| 15:30      | 16:00     | Coffee Break               |  Grand Hall Foyer - Level 1                              |
+| 16:00      | 17:00     | Session 19: Paper Award Session | Harbor Ballroom Level 2                            |
+| 17:00      | 17:30     | Session 19: Closing Session | Harbor Ballroom Level 2                               |
