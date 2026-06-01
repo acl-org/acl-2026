@@ -157,6 +157,15 @@ To learn more about each workshop, including schedule & times, visit the worksho
 </div>
 {: .notice--primary}
 
+<div>
+  <h5><a href="https://turing.iimas.unam.mx/americasnlp/2026_workshop.html" target="_blank">The Sixth Workshop on NLP for Indigenous Languages of the Americas (AmericasNLP)</a></h5>
+  <h6>Organizers: Manuel Mager, Arturo Oncevay, Abteen Ebrahimi,  Minh Duc Bui, Shruti Rijhwani, Luis Chiruzzo, Robert Pugh, Rolando Coto-Solano, John E. Ortega, Katharina von der Wense</h6>
+  <h6>Half-day workshop (morning)</h6>
+  <h6>Room: Old Town</h6>
+  <p>Description: AmericasNLP promotes the research of NLP for the indigenous languages of the American continent.</p>
+</div>
+{: .notice--primary}
+
 ## Friday, July 3rd and Saturday, July 4th
 
 <div>
@@ -239,15 +248,6 @@ To learn more about each workshop, including schedule & times, visit the worksho
   <h6>Half-day workshop (morning)</h6>
   <h6>Room: Harbor A&amp;B</h6>
   <p>Description: RAG4Reports focuses on developing systems and evaluation methods for the Multilingual Report Generation, which is a multilingual long-form generation task with complex information need.</p>
-</div>
-{: .notice--primary}
-
-<div>
-  <h5><a href="https://turing.iimas.unam.mx/americasnlp/2026_workshop.html" target="_blank">The Sixth Workshop on NLP for Indigenous Languages of the Americas (AmericasNLP)</a></h5>
-  <h6>Organizers: Manuel Mager, Arturo Oncevay, Abteen Ebrahimi,  Minh Duc Bui, Shruti Rijhwani, Luis Chiruzzo, Robert Pugh, Rolando Coto-Solano, John E. Ortega, Katharina von der Wense</h6>
-  <h6>Half-day workshop (morning)</h6>
-  <h6>Room: La Jolla</h6>
-  <p>Description: AmericasNLP promotes the research of NLP for the indigenous languages of the American continent.</p>
 </div>
 {: .notice--primary}
 
