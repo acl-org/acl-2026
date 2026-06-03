@@ -99,7 +99,8 @@ Breakfast, lunch, and dinner are not provided.
 | **8:30**   | **16:30** | **Registration & Conference Check In (Full Conference & Main Conference Attendees)** | **Grand Hall Foyer - Level 1** |
 |  9:00      | 10:30     | Session 8: Oral / Poster Session D |                        |
 | 10:30      | 11:00     | Coffee Break               |                                |
-| 11:00      | 12:30     | Session 9: Oral / Poster Session E / Mentorship Session |   |
+| 11:00      | 12:30     | Session 9: Oral / Poster Session E |                        |
+| 11:00      | 12:30     | Mentorship Session         |                                |
 | 12:30      | 13:30     | Lunch Break                |                                |
 | 12:45      | 14:15     | Session 10: Virtual Presentations 3 |                       |
 | 13:30      | 14:30     | Session 11: Business Meeting (all attendees welcome) | Harbor Ballroom Level 2 |
