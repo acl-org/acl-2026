@@ -103,7 +103,7 @@ If your organization is interested in sponsoring ACL 2026, please refer to our [
       <div class="dummy-padding"></div>
         <img src="/assets/images/sponsors/chen_institute.png" alt="Chen Institute">
     </a>
-    <a href="https://www.jpmorgan.com/technology/applied-ai-and-ml/machine-learning" title="JP Morgan Chase">
+    <a href="https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/jobs?keyword=%23CDAO_CAO_jobs&amp;mode=location" title="JP Morgan Chase">
       <div class="dummy-padding"></div>
         <img src="/assets/images/sponsors/jpmorganchase.png" alt="JP Morgan Chase">
     </a>
