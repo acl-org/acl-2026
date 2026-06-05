@@ -111,7 +111,7 @@ If your organization is interested in sponsoring ACL 2026, please refer to our [
       <div class="dummy-padding"></div>
         <img src="/assets/images/sponsors/speak.png" alt="Speak">
     </a>
-    <a href="https://stepfun.ai/" title="StepFun">
+    <a href="https://www.stepfun.com/company" title="StepFun">
       <div class="dummy-padding"></div>
         <img src="/assets/images/sponsors/stepfun.png" alt="StepFun">
     </a>	
