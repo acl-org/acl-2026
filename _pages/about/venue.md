@@ -42,7 +42,7 @@ Visit Booking.com, Airbnb.com, Hostelworld or your preferred booking sites for a
 ### Venue Parking at the Manchester Grand Hyatt San Diego
 
 #### Self-parking
- - Max parking height: 6’7”
+ - Max parking height: 6’ 7”
  - Cost per day (May-August): $55.00 USD
 
 #### Transit self-parking
@@ -50,8 +50,8 @@ Visit Booking.com, Airbnb.com, Hostelworld or your preferred booking sites for a
  - Cost for every additional hour: $8.00 USD (up to a maximum of $60/day)
 
 #### Valet parking
- - Max parking height: 8’2”
- - Cost for overnight guests: $75.00 USD
+ - Max parking height: 8’ 2”
+ - Cost for overnight guests (May-August): $75.00 USD
 
 #### Transit valet parking
  - Cost for first hour: $12.00 USD
