@@ -37,7 +37,26 @@ San Diego, CA 92101\
 
 Explore Southern California’s vibrant culture and natural beauty from our waterfront hotel in downtown San Diego. Unwind in spacious hotel rooms and family suites featuring stunning views and appointed with upscale amenities. Located steps from the city’s top attractions, like Petco Park and the San Diego Convention Center, our guests enjoy easy access to all things San Diego, including the region’s best beaches, the local restaurant scene, Seaport Village and various entertainment venues.
 
-Additional accommodation options TBA.
+Visit Booking.com, Airbnb.com, Hostelworld or your preferred booking sites for additional accommodations near the venue.
+
+### Venue Parking at the Manchester Grand Hyatt San Diego
+
+#### Self-parking
+ - Max parking height: 6’7”
+ - Cost per day (May-August): $55.00 USD
+
+#### Transit self-parking
+ - Cost for first hour: $10.00 USD
+ - Cost for every additional hour: $8.00 USD (up to a maximum of $60/day)
+
+#### Valet parking
+ - Max parking height: 8’2”
+ - Cost for overnight guests: $75.00 USD
+
+#### Transit valet parking
+ - Cost for first hour: $12.00 USD
+ - Cost for every additional hour: $8.00 USD (up to a maximum of $80/day)
+
 
 ## Visa Requirements
 
