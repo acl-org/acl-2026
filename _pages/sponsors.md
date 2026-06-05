@@ -110,6 +110,10 @@ If your organization is interested in sponsoring ACL 2026, please refer to our [
     <a href="https://jobs.ashbyhq.com/speak?utm_source=ACL_2026/" title="Speak">
       <div class="dummy-padding"></div>
         <img src="/assets/images/sponsors/speak.png" alt="Speak">
+    </a>
+    <a href="https://stepfun.ai/" title="StepFun">
+      <div class="dummy-padding"></div>
+        <img src="/assets/images/sponsors/stepfun.png" alt="StepFun">
     </a>	
 </figure>
 
