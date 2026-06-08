@@ -9,6 +9,12 @@ toc: True
 toc_sticky: True
 ---
 
+For the detailed program, please check [here](https://docs.google.com/spreadsheets/d/16ZuzEVhY1BAeZGK9LJskLcvqacy-7YuoAaK1yXoRcFQ/edit?usp=sharing).
+
+**If you wish to switch your presentation from in-person to virtual**, please fill out this survey [https://acl2026-virtual.paperform.co/](https://acl2026-virtual.paperform.co/).
+
+Once completed, kindly notify us at acl2026@underline.io with your Paper ID, Paper Title, and confirmation that the survey has been submitted.
+
 ### Wednesday, July 1st: Tutorials & Main Conference Registration
 
 | Start<br/>Time | End<br/>Time | <img width="440" height="1"> <span class="th-center">Event</span> | <img width="300" height="1"> <span class="th-center">Location</span> |
