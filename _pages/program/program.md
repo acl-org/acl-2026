@@ -15,6 +15,8 @@ For the detailed program, please check [here](https://docs.google.com/spreadshee
 
 Once completed, kindly notify us at acl2026@underline.io with your Paper ID, Paper Title, and confirmation that the survey has been submitted.
 
+Click [**here**](https://drive.google.com/drive/folders/10hGYeFuUDXeS0umiwf3LGXmfWWhasUJe?usp=drive_link) for User Guides for all presenters, session chairs and general attendees.
+
 ### Wednesday, July 1st: Tutorials & Main Conference Registration
 
 | Start<br/>Time | End<br/>Time | <img width="440" height="1"> <span class="th-center">Event</span> | <img width="300" height="1"> <span class="th-center">Location</span> |
