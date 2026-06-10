@@ -325,7 +325,7 @@ To learn more about each workshop, including schedule & times, visit the worksho
 
 <div>
   <h5><a href="https://c3nlp.github.io/" target="_blank">Cross-Cultural Considerations in NLP (C3NLP) 2026</a></h5>
-  <h6>Organizers: Vinodkumar Prabhakaran, Sunipa Dev, Luciana Benotti, Daniel Hershcovich, Yong Cao, Ife Adebara, Li Zhou</h6>
+  <h6>Organizers: Vinodkumar Prabhakaran, Sunipa Dev, Luciana Benotti, Daniel Hershcovich, Yong Cao, Li Zhou, Ife Adebara, Bolei Ma</h6>
   <h6>Half-day workshop (afternoon)</h6>
   <h6>Room: La Jolla</h6>
   <p>Description: The 4th Workshop on Cross-Cultural Considerations in NLP (C3NLP)</p>
