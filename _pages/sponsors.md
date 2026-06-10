@@ -90,7 +90,7 @@ If your organization is interested in sponsoring ACL 2026, please refer to our [
       <div class="dummy-padding"></div>
         <img src="/assets/images/sponsors/snowflake.png" alt="Snowflake">
     </a>
-    <a href="https://www.zgci.ac.cn/en/" title="Zhongguancun Academy">
+    <a href="https://www.bza.edu.cn/en/" title="Zhongguancun Academy">
       <div class="dummy-padding"></div>
         <img src="/assets/images/sponsors/zhongguancun.png" alt="Zhongguancun Academy">
     </a>
