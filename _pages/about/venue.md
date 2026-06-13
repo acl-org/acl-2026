@@ -157,7 +157,7 @@ Poster pickup will be available on-site at ACL 2026:
 
 **[Click here](https://acl.myprintdesk.net/login) to find out more information about ordering your poster.**
 
-Questions may be emailed to: [SanDiego.COLOR@e-arc.com](mailto:SanDiego.COLOR@e-arc.com)
+Questions may be emailed to: [DSF.Team@e-arc.com](mailto:DSF.Team@e-arc.com)
 
 ### Conference App (Whova)
 
