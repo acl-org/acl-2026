@@ -50,7 +50,7 @@ To learn more about each workshop, including schedule & times, visit the worksho
 {: .notice--primary}
 
 <div>
-  <h5><a href="https://sites.google.com/view/codi-crac2026/schedule" target="_blank">Joint Workshop on Computational Approaches to Discourse, Context and Document-Level Inferences (CODI) and Computational Models of Reference, Anaphora and Coreference (CRAC)</a></h5>
+  <h5><a href="https://sites.google.com/view/codi-crac2026/schedule" target="_blank">2nd Joint Workshop on Computational Approaches to Discourse, Context and Document-Level Inferences and Computational Models of Reference, Anaphora and Coreference (CODI-CRAC 2026)</a></h5>
   <h6>Organizers: Chloé Braud, Christian Hardmeier, Chuyuan Li, Junyi Jessy Li, Sharid Loáiciga, Vincent Ng, Michal Novák, Maciej Ogrodniczuk, Massimo Poesio, Michael Strube, Amir Zeldes</h6>
   <h6>Full-day workshop</h6>
   <h6>Room: Regatta</h6>
@@ -190,7 +190,7 @@ To learn more about each workshop, including schedule & times, visit the worksho
   <h5><a href="https://semeval.github.io/SemEval2026/" target="_blank">SemEval-2026: The 20th International Workshop on Semantic Evaluation</a></h5>
   <h6>Organizers: Debanjan Ghosh, Kai North, Shervin Malmasi, Ekaterina Kochmar, Mamoru Komachi, Marcos Zampieri</h6>
   <h6>Full-day workshop</h6>
-  <h6>Room: Harbor C</h6>
+  <h6>Room: Harbor B</h6>
   <p>Description: SemEval (the International Workshop on Semantic Evaluation) is an ongoing series of evaluations of computational semantics systems, organized under the umbrella of SIGLEX, the Special Interest Group on the Lexicon of the Association for Computational Linguistics.</p>
 </div>
 {: .notice--primary}
@@ -217,7 +217,7 @@ To learn more about each workshop, including schedule & times, visit the worksho
   <h5><a href="http://conll.org/" target="_blank">CoNLL 2026: The SIGNLL Conference on Computational Natural Language Learning</a></h5>
   <h6>Organizers: Claire Bonial, Yevgeni Berzak</h6>
   <h6>Full-day workshop</h6>
-  <h6>Room: Harbor B</h6>
+  <h6>Room: Harbor C</h6>
   <p>Description: 30th Conference on Computational Natural Language Learning</p>
 </div>
 {: .notice--primary}
