@@ -94,6 +94,10 @@ If your organization is interested in sponsoring ACL 2026, please refer to our [
       <div class="dummy-padding"></div>
         <img src="/assets/images/sponsors/zhongguancun.png" alt="Zhongguancun Academy">
     </a>
+    <a href="https://www.abaka.ai/" title="Abaka AI">
+      <div class="dummy-padding"></div>
+        <img src="/assets/images/sponsors/abakaai.png" alt="Abaka AI">
+    </a>
 </figure>
 
 
