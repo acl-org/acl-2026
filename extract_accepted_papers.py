@@ -60,6 +60,33 @@ with open(sys.argv[1]) as csvfile:
       print(f'  Title: {title}')
       print(f'  Authors: {authors}')
 
+    # check for errors in author list
+    author_list = authors.split(',')
+    if any(len(author) > 25 for author in author_list):
+      print(f'WARNING: Found author with name longer than 25 characters.')
+      print(f'  Title: {title}')
+      print(f'  Authors: {authors}')
+    if any(sum(1 for c in author if c.isupper()) / len(author) > 0.5 for author in author_list if len(author) != 0):
+      print(f'WARNING: Found author with name consisting of mostly capital letters.')
+      print(f'  Title: {title}')
+      print(f'  Authors: {authors}')
+    if any(not any(c.isupper() for c in author) for author in author_list):
+      print(f'WARNING: Found author with name consisting of all lowercase letters.')
+      print(f'  Title: {title}')
+      print(f'  Authors: {authors}')
+    if any(len(author) == 0 for author in author_list):
+      print(f'WARNING: Found paper with an empty author.')
+      print(f'  Title: {title}')
+      print(f'  Authors: {authors}')
+    if any(not author.strip()[-1].isalpha() for author in author_list if len(author.strip()) != 0):
+      print(f'WARNING: Found author with non alphabetic last letter.')
+      print(f'  Title: {title}')
+      print(f'  Authors: {authors}')
+    if any(author[:3] == 'and' for author in author_list if len(author.strip()) >= 3):
+      print(f'WARNING: Found author starting with the word "and".')
+      print(f'  Title: {title}')
+      print(f'  Authors: {authors}')
+
     try:
       paper_type = paper_id[paper_id.index('-')+1:]
     except ValueError:
