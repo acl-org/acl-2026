@@ -5,8 +5,6 @@ excerpt: "Accepted Student Research Workshop Papers of ACL 2026"
 permalink: /program/srw_papers/
 sidebar:
   nav: "program"
-toc: True
-toc_sticky: True
 ---
 
 {% for paper in site.data.papers_srw %}
