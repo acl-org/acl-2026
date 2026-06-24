@@ -1,56 +1,56 @@
-- title: MERLIN: A Testbed for Multilingual Multimodal Entity Recognition and Linking
-  authors: Sathyanarayanan Ramamoorthy, Vishwa Shah, Simran Khanuja, Zaid Sheikh, Shan Jie, Ann Chia, Shearman Chua, Graham Neubig
-- title: What Can String Probability Tell Us About Grammaticality?
-  authors: Jennifer Hu, Ethan Wilcox, Siyuan Song, Kyle Mahowald, Roger Levy
-- title: Benchmarking Linguistic Diversity of Large Language Models
-  authors: Yanzhu Guo, Guokan Shang, Chloé Clavel
-- title: Simulating Hard Attention Using Soft Attention
-  authors: Andy Yang, Lena Strobl, David Chiang, Dana Angluin
-- title: Objectifying the Subjective: Cognitive Biases in Topic Interpretations
-  authors: Swapnil Hingmire, Ze Shi Li, Shiyu (Vivienne) Zeng, Ahmed Musa Awon, Luiz Franciscatto Guerra, Neil Ernst
-- title: A Systematic Review of NLP for Dementia: Tasks, Datasets and Opportunities
-  authors: Roi Reichart, Lotem Peled-Cohen
-- title: Cross-layer Attention Sharing for Pre-trained Large Language Models
-  authors: Yongyu Mu, Yuzhang Wu, Yuchun Fan, Chenglong Wang, Hengyu Li, Jiali Zeng, Qiaozhi He, Murun Yang, Fandong Meng, Jie Zhou, Tong Xiao, Jingbo Zhu
-- title: Beyond One-Size-Fits-All: Inversion Learning for Highly Effective NLG Evaluation Prompts
-  authors: Chenghua Lin, Hanhua Hong, Chenghao Xiao, Yang Wang, Yiqi Liu, Wenge Rong
-- title: Generative Induction of Dialogue Task Schemas with Streaming Refinement and Simulated Interactions
-  authors: James Finch, Yasasvi Josyula, Jinho Choi
-- title: On the Effect of Instruction Tuning Loss on Generalization
-  authors: Anwoy Chatterjee, H S V N S Kowndinya Renduchintala, Sumit Bhatia, Tanmoy Chakraborty
-- title: Can LLMs Automate Fact-Checking Article Writing?
-  authors: Dhruv Sahnan, David Corney, Irene Larraz, Giovanni Zagni, Ruben Miguez, Zhuohan Xie, Iryna Gurevych, Elizabeth Churchill, Tanmoy Chakraborty, Preslav Nakov
-- title: Self-Consistency Falls Short!: The Adverse Effects of Positional Bias on Long-Context Problems
-  authors: Adam Byerly, Daniel Khashabi
-- title: Localizing Factual Inconsistencies in Attributable Text Generation
-  authors: Arie Cattan, Paul Roit, Shiyue Zhang, David Wan, Roee Aharoni, Idan Szpektor, Mohit Bansal, Ido Dagan
-- title: On the Limitations of Language Targeted Pruning: Investigating the Calibration Language Impact in Multilingual LLM Pruning
-  authors: Simon Kurz, Jian-Jia Chen, Lucie Flek, Zhixue Zhao
-- title: Inferring Scientific Cross-Document Coreference and Hierarchy with Definition-Augmented Relational Reasoning
-  authors: Lior Forer, Tom Hope
-- title: Dissecting GraphRAG: A Modular Analysis of Knowledge Structuring for Factoid Question Answering
-  authors: Noriki Nishida, Rumana Ferdous Munne, Shanshan Liu, Narumi Tokunaga, Yuki Yamagata, Fei Cheng, Koiji Kozaki, Yuji Matsumoto
-- title: PsyMem: Fine-grained psychological alignment and Explicit Memory Control for Advanced Role-Playing LLMs
-  authors: Yunxiao Qin, Xilong Cheng, Yuting Tan, Zhengnan Li, Ye Wang, Hongjiang Xiao, Yuan Zhang,Yikang Liu
-- title: MoNaCo: More Natural and Complex Questions for Reasoning Across Dozens of Documents
-  authors: Tomer Wolfson, Harsh Trivedi, Mor Geva, Dan Roth, Tushar Khot, Ashish Sabharwal, Reut Tsarfaty
-- title: Goal Alignment in LLM-Based User Simulators for Conversational AI
-  authors: Shuhaib Mehri, Xiaocheng Yang, Takyoung Kim, Gokhan Tur, Shikib Mehri, Dilek Hakkani-Tür
-- title: Text-to-SQL Task-oriented Dialogue Ontology Construction
-  authors: Renato Vukovic, Carel van Niekerk, Michael Heck, Benjamin Ruppik, Hsien-Chin Lin, Shutong Feng, Nurul Lubis, Milica Gasic
-- title: A Survey on Memory-Efficient Fine-Tuning for Large Language Models
-  authors: Yeachan Kim, Mingyu Lee, SangKeun Lee
-- title: In-N-Out: A Parameter-Level API Graph Dataset for Tool Agents
-  authors: Seungkyu Lee, Nalim Kim, Yohan Jo
-- title: Universal Jailbreak Suffixes Are Strong Attention Hijackers
-  authors: Matan Ben-Tov, Mor Geva, Mahmood Sharif
-- title: Retain or Reframe? A Computational Framework for the Analysis of Framing in News Articles and Reader Comments
-  authors: Matteo Guida, Yulia Otmakhova, Eduard Hovy, Lea Frermann
-- title: From Belief Entrenchment to Robust Reasoning in LLM Agents
-  authors: Jihwan Oh, Minchan Jeong, Jongwoo Ko, Se-Young Yun
-- title: Psychometric Item Validation Using Virtual Respondents with Trait-Response Mediators
-  authors: Sungjib Lim, Woojung Song, Yohan Jo, Eun-Ju Lee
-- title: ResearchQA: Evaluating Scholarly Question Answering at Scale Across 75 Fields with Survey-Mined Questions and Rubrics
-  authors: Li S. Yifei, Allen Chang, Chaitanya Malaviya, Mark Yatskar
-- title: Start Making Sense(s): A Developmental Probe of Attention Specialization Using Lexical Ambiguity
-  authors: Pamela Riviere, Sean Trott
+- title: "MERLIN: A Testbed for Multilingual Multimodal Entity Recognition and Linking"
+  authors: "Sathyanarayanan Ramamoorthy, Vishwa Shah, Simran Khanuja, Zaid Sheikh, Shan Jie, Ann Chia, Shearman Chua, Graham Neubig"
+- title: "What Can String Probability Tell Us About Grammaticality?"
+  authors: "Jennifer Hu, Ethan Wilcox, Siyuan Song, Kyle Mahowald, Roger Levy"
+- title: "Benchmarking Linguistic Diversity of Large Language Models"
+  authors: "Yanzhu Guo, Guokan Shang, Chloé Clavel"
+- title: "Simulating Hard Attention Using Soft Attention"
+  authors: "Andy Yang, Lena Strobl, David Chiang, Dana Angluin"
+- title: "Objectifying the Subjective: Cognitive Biases in Topic Interpretations"
+  authors: "Swapnil Hingmire, Ze Shi Li, Shiyu (Vivienne) Zeng, Ahmed Musa Awon, Luiz Franciscatto Guerra, Neil Ernst"
+- title: "A Systematic Review of NLP for Dementia: Tasks, Datasets and Opportunities"
+  authors: "Roi Reichart, Lotem Peled-Cohen"
+- title: "Cross-layer Attention Sharing for Pre-trained Large Language Models"
+  authors: "Yongyu Mu, Yuzhang Wu, Yuchun Fan, Chenglong Wang, Hengyu Li, Jiali Zeng, Qiaozhi He, Murun Yang, Fandong Meng, Jie Zhou, Tong Xiao, Jingbo Zhu"
+- title: "Beyond One-Size-Fits-All: Inversion Learning for Highly Effective NLG Evaluation Prompts"
+  authors: "Chenghua Lin, Hanhua Hong, Chenghao Xiao, Yang Wang, Yiqi Liu, Wenge Rong"
+- title: "Generative Induction of Dialogue Task Schemas with Streaming Refinement and Simulated Interactions"
+  authors: "James Finch, Yasasvi Josyula, Jinho Choi"
+- title: "On the Effect of Instruction Tuning Loss on Generalization"
+  authors: "Anwoy Chatterjee, H S V N S Kowndinya Renduchintala, Sumit Bhatia, Tanmoy Chakraborty"
+- title: "Can LLMs Automate Fact-Checking Article Writing?"
+  authors: "Dhruv Sahnan, David Corney, Irene Larraz, Giovanni Zagni, Ruben Miguez, Zhuohan Xie, Iryna Gurevych, Elizabeth Churchill, Tanmoy Chakraborty, Preslav Nakov"
+- title: "Self-Consistency Falls Short!: The Adverse Effects of Positional Bias on Long-Context Problems"
+  authors: "Adam Byerly, Daniel Khashabi"
+- title: "Localizing Factual Inconsistencies in Attributable Text Generation"
+  authors: "Arie Cattan, Paul Roit, Shiyue Zhang, David Wan, Roee Aharoni, Idan Szpektor, Mohit Bansal, Ido Dagan"
+- title: "On the Limitations of Language Targeted Pruning: Investigating the Calibration Language Impact in Multilingual LLM Pruning"
+  authors: "Simon Kurz, Jian-Jia Chen, Lucie Flek, Zhixue Zhao"
+- title: "Inferring Scientific Cross-Document Coreference and Hierarchy with Definition-Augmented Relational Reasoning"
+  authors: "Lior Forer, Tom Hope"
+- title: "Dissecting GraphRAG: A Modular Analysis of Knowledge Structuring for Factoid Question Answering"
+  authors: "Noriki Nishida, Rumana Ferdous Munne, Shanshan Liu, Narumi Tokunaga, Yuki Yamagata, Fei Cheng, Koiji Kozaki, Yuji Matsumoto"
+- title: "PsyMem: Fine-grained psychological alignment and Explicit Memory Control for Advanced Role-Playing LLMs"
+  authors: "Yunxiao Qin, Xilong Cheng, Yuting Tan, Zhengnan Li, Ye Wang, Hongjiang Xiao, Yuan Zhang,Yikang Liu"
+- title: "MoNaCo: More Natural and Complex Questions for Reasoning Across Dozens of Documents"
+  authors: "Tomer Wolfson, Harsh Trivedi, Mor Geva, Dan Roth, Tushar Khot, Ashish Sabharwal, Reut Tsarfaty"
+- title: "Goal Alignment in LLM-Based User Simulators for Conversational AI"
+  authors: "Shuhaib Mehri, Xiaocheng Yang, Takyoung Kim, Gokhan Tur, Shikib Mehri, Dilek Hakkani-Tür"
+- title: "Text-to-SQL Task-oriented Dialogue Ontology Construction"
+  authors: "Renato Vukovic, Carel van Niekerk, Michael Heck, Benjamin Ruppik, Hsien-Chin Lin, Shutong Feng, Nurul Lubis, Milica Gasic"
+- title: "A Survey on Memory-Efficient Fine-Tuning for Large Language Models"
+  authors: "Yeachan Kim, Mingyu Lee, SangKeun Lee"
+- title: "In-N-Out: A Parameter-Level API Graph Dataset for Tool Agents"
+  authors: "Seungkyu Lee, Nalim Kim, Yohan Jo"
+- title: "Universal Jailbreak Suffixes Are Strong Attention Hijackers"
+  authors: "Matan Ben-Tov, Mor Geva, Mahmood Sharif"
+- title: "Retain or Reframe? A Computational Framework for the Analysis of Framing in News Articles and Reader Comments"
+  authors: "Matteo Guida, Yulia Otmakhova, Eduard Hovy, Lea Frermann"
+- title: "From Belief Entrenchment to Robust Reasoning in LLM Agents"
+  authors: "Jihwan Oh, Minchan Jeong, Jongwoo Ko, Se-Young Yun"
+- title: "Psychometric Item Validation Using Virtual Respondents with Trait-Response Mediators"
+  authors: "Sungjib Lim, Woojung Song, Yohan Jo, Eun-Ju Lee"
+- title: "ResearchQA: Evaluating Scholarly Question Answering at Scale Across 75 Fields with Survey-Mined Questions and Rubrics"
+  authors: "Li S. Yifei, Allen Chang, Chaitanya Malaviya, Mark Yatskar"
+- title: "Start Making Sense(s): A Developmental Probe of Attention Specialization Using Lexical Ambiguity"
+  authors: "Pamela Riviere, Sean Trott"

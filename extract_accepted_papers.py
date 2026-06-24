@@ -46,7 +46,7 @@ with open(sys.argv[1]) as csvfile:
     if authors[-1] == ';':
       authors = authors[:-1]
 
-    if '\\' in title or '\\' in authors:
+    if '\\' in title or '\\' in authors or '$' in title or '$' in authors:
       print(f'WARNING: Detected \\ in paper with ID "{paper_id}".')
       print(f'  Title: {title}')
       print(f'  Authors: {authors}')
@@ -75,8 +75,8 @@ with open(sys.argv[1]) as csvfile:
       findings_papers.append((title, authors))
     else:
       print(f'WARNING: Unrecognized paper type in paper ID "{paper_id}".')
-      print(f'  Title: {title}')
-      print(f'  Authors: {authors}')
+      print(f'  Title: "{title}"')
+      print(f'  Authors: "{authors}"')
       continue
     num_papers_extracted += 1
 

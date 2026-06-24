@@ -1,306 +1,306 @@
-- title: Smarter, not Bigger: Fine-Tuned RAG-Enhanced LLMs for Automotive HIL Testing
-  authors: Chao Feng, Zihan Liu, Siddhant Gupta, Jan von der Assen
-- title: MinerU2.5: A Decoupled Vision-Language Model for Efficient High-Resolution Document Parsing
-  authors: Junbo Niu, Zheng Liu, Zhuangcheng Gu, Bin Wang, Linke Ouyang, Zhiyuan Zhao, Tao Chu, Tianyao He, Fan Wu, Qintong Zhang, Zhenjiang Jin, Guang Liang, Rui Zhang, Wenzheng Zhang, Yuan Qu, Zhifei Ren, Yuefeng Sun, Zirui Tang, Boyu Niu, Yuanhong Zheng, Dongsheng Ma, Ziyang Miao, Hejun Dong, Siyi Qian, Junyuan Zhang, Fangdong Wang, Jingzhou Chen, Xiaomeng Zhao, Liqun Wei, Wei Li, Shasha Wang, RuiLiang Xu, Yuanyuan Cao, Lu Chen, Qianqian Wu, Huaiyu Gu, Lindong Lu, Dechen Lin, Shenguanlin, Xuanhe Zhou, Linfeng Zhang, Yuhang Zang, Xiaoyi Dong, Jiaqi Wang, Bo Zhang, LEI BAI, Pei Chu, Weijia Li, Jiang Wu, Lijun Wu, Zhenxiang Li, Guangyu Wang, Zhongying Tu, Chao Xu, Kai Chen, Bowen Zhou, Dahua Lin, Wentao Zhang, Conghui He
-- title: Leveraging Generative AI for Extracting Business Requirements from Legacy COBOL and PL/I Code
-  authors: Ankur Kalohia
-- title: Is Agentic RAG worth it? An experimental comparison of RAG approaches
-  authors: pietro ferrazzi; milica cvjeticanin; alessio piraccini; davide giannuzzi
-- title: Improving Hate Speech Detection by Fusing Textual and User Interaction Representations in Online Communities
-  authors: Xu Gao, Dong Jing, Kee-hung Lai
-- title: TeachMaster: Generative Teaching via Code
-  authors: Yuheng Wang, Runde Yang, Lin Wu, Jie Zhang, Jingru Fan, Ruoyu Fu, Tianle Zhou, Huatao Li, Ruijie Shi, Siheng Chen, Weinan E, Chen Qian
-- title: ARGUS: Policy-Adaptive Ad Governance via Evolving Reinforcement with Adversarial Umpiring
-  authors: Deyi Ji, Junyu Lu, Xuanyi Liu, Liqun Liu, Hailong Zhang, Peng Shu, Huan Yu, Jie Jiang, Tianrun Chen, Lanyun Zhu
-- title: Synthetic Text Detection in the Age of Large Language Models: Watermark vs. Automatic Detection
-  authors: Adaku Uchendu
-- title: R³A: Reinforced Reasoning for Relevance Assessment for RAG in User-Generated Content Platforms
-  authors: Xiaowei Yuan, Lei Jin, Haoxin Zhang, Ziyang Huang, Yan Gao, YIWU, Yao Hu, Jun Zhao, Kang Liu
-- title: HAD: HAllucination Detection Language Models Based on a Comprehensive Hallucination Taxonomy
-  authors: Fan Xu, Xinyu Hu, Zhenghan Yu, Li Lin, Xu Zhang, Yang Zhang, Wei Zhou, Jinjie Gu, Xiaojun Wan
-- title: DocSplit: A Comprehensive Benchmark Dataset and Evaluation Approach for Document Packet Recognition and Splitting
-  authors: Md Mofijul Islam, Md Sirajus Salekin, Nivedha Balakrishnan, Vincil C. Bishop III, Niharika Jain, Spencer Romo, Bob Strahan, Boyi Xie, Diego A. Socolinsky
-- title: Predicting Fine-Grained Typing Intent for Faster Search
-  authors: Yipeng Yu, Yichen Yuan, Chengxiao Feng, Xu Liu
-- title: Calibrating LLM Judges: Linear Probes for Fast and Reliable Uncertainty Estimation
-  authors: Bhaktipriya Radharapu, Eshika Saxena, Kenneth Li, Adina Williams, Nicola Cancedda
-- title: Detecting AI-Generated Content on Social Media with Multi-modal Language Models
-  authors: Chenyang Yang, Shen Yan, Yibo Yang, Litao Hu, Yuchen Liu, Yuan Zeng, Hanchao Yu, Yinan Zhu, Sumedha Singla, Brian Vanover, Huijun Qian, Zihao Wang, Fujun Liu, Aashu Singh, Jianyu Wang, Xuewen Zhang
-- title: IceBreaker for Conversational Agents: Breaking the First-Message Barrier with Personalized Starters
-  authors: Hongwei Zheng, Weiqi Wu, Zhengjia Wang, Guanyu Jiang, Haoming Li, Tianyu Wu, Yongchun Zhu, Jingwu Chen, Feng Zhang
-- title: Motivating Next-Gen Accelerators with Flexible Activation Sparsity via Benchmarking Lightweight Post-Training Sparsification Approaches
-  authors: Shirin Alanova, Kristina Kazistova, Ekaterina Galaeva, Alina Kostromina, Vladimir Smirnov, Redko Dmitry, Alexey Dontsov, Maxim Zhelnin, Evgeny Burnaev, Egor Shvetsov
-- title: Sommelier: Scalable Open Multi-turn Audio Pre-processing for Full-duplex Speech Language Models
-  authors: Kyudan Jung, Jihwan Kim, Soyoon Kim, Jeonghoon Kim, Jaegul Choo, Cheonbok Park
-- title: Proximity-Based Multi-Turn Optimization: Practical Credit Assignment for LLM Agent Training
-  authors: Yangyi Fang, Jiaye Lin, Xiaoliang Fu, Cong Qin, Chang Liu, Haolin Shi
-- title: Mixture of Heterogeneous Grouped Experts for Language Modeling
-  authors: Zhicheng Ma, Xiang Liu, Zhaoxiang Liu, Ning Wang, Yi Shen, Kai Wang, Shuming Shi, Shiguo Lian
-- title: Policy Compliance of User Requests in Natural Language for AI Systems
-  authors: Pedro Cisneros-Velarde
-- title: Better Literary Translation: A Multi-Aspect Data Generation and LLM Training Approach
-  authors: Zhihao Lin, Ziqi Zhu, Hao Huang, Guanghui Wang, Peiyang He
-- title: SSR-A: Spatial- and Semantic-Aware Instructions and Curriculum Reinforcement for Advertisement Compliant Rectification
-  authors: Te Cao, Mengge Xue, Zhenyu Hu, Yuan Chen, Liqun Liu, Peng Shu, Huan Yu, Jie Jiang
-- title: ℛ³: Advertisement Compliance ℛectification via Group-ℛelative Experience Extractor and Curriculum ℛeinforcement
-  authors: Yuan Chen, zhenyu hu, Mengge Xue, Cao Te, Liqun Liu, Peng Shu, Huan Yu, Jie Jiang
-- title: GrocLM: Grocery Category Recommendation in E-Commerce with Large Language Models
-  authors: Yuan Zhong, Chuanwei Ruan, Moein Hasani, Tejaswi Tenneti, Haixun Wang, Fenglong Ma
-- title: DeepResearch Retail: Benchmarking Tool-Augmented Deep Research in the E-Commerce Domain
-  authors: Rafael Ferreira, Flavio Di Palo, Huilin Lu, Ayush Jain, Harsha Aduri
-- title: GeoGround: Uncertainty-Weighted Multi-Task Learning for Geo-Alignment and Address Defect Detection
-  authors: Srinivas Virinchi, Aman Gulati, Anoop Saladi
-- title: Pre-Deployment Advertisement Ranking under Data Scarcity via Context-Aware Criteria Generation with VLMs
-  authors: Kyungho Kim, Yeonje Choi, Gyurim Hwang, Sejin Chung, Hongseok Lee, Myeong Ho Song, Yeongho Kim, Sunwoo Kim, Jongha Lee, Juyeon Kim, Kijung Shin
-- title: Agent-Ops: A Multi-Agent Orchestration Framework for End-to-End SOP Automation in E-Commerce Operations
-  authors: Apoorva Singh, Sanjay Agrawal, Sayanta Adhikari, Vinayak S Puranik, Shivam Tiwari, Dheeraj Assudani
-- title: Reason-Code: Reliable Code Generation via Test-Driven Monte Carlo Tree Search
-  authors: Zixu Li, Zhiqi Peng
-- title: Optimizing Retrieval-Augmented Generation for E-Commerce How-To Assistance
-  authors: Gilad Fuchs, Leonid Ekimov, Fei Dong, Jiahong Xie, Wei Liu, Maxim Manco, Alexander Nus
-- title: UNIVID: Unified Vision-Language Model for Video Moderation
-  authors: Kejuan Yang, Yizhuo Zhang, Mingyuan Du, Yue Zhang, Dixin Zheng, Kaili Zhao, Yang Xiao, Hanzhong Liang, Kenan Xiao
-- title: Learning from Textual Radiology Reports: A Benchmark Dataset for Coronary CT Angiography
-  authors: Sudharshan Balaji, Zhiyu Liu, Zhengyuan Jiang, Shuo Lei, Yimin Chen, Yang Xiao, Shone Almeida, Mathew Karivelil, Christopher Malanga, Ning Wang
-- title: Teaching LLM to be Persuasive: Reward-Enhanced Policy Optimization for Alignment from Heterogeneous Rewards
-  authors: Xia Zeng, Yihan Chen, Luhui Liu, Chao Luo, Ye Chen, ZHUANGZHUORAN
-- title: NEST: Nested Evidence Survival for Retrieval
-  authors: Akshay Verma, Siddharth Pillai, Prateek Sircar, Deepak Gupta
-- title: Search-P1: Path-Centric Reward Shaping for Stable and Efficient Agentic RAG Training
-  authors: Tianle Xia, Ming Xu, Lingxiang Hu, Yiding Sun, wenwei li, Linfang Shang, Liqun Liu, Peng Shu, Huan Yu, Jie Jiang
-- title: AgenticQwen: Training Small Agentic Language Models with Dual Data Flywheels for Industrial-Scale Tool Use
-  authors: Yuanjie Lyu, Chengyu Wang, Haonan Zheng, Yuanhao Yue, Junbing Yan, Ming Wang, Jun Huang
-- title: From Short Video to Clickable Search: RLVR-Enabled Listwise Query Suggestion with Retrieval-Augmented Context
-  authors: Mingkai Tian, xuye, Long Meng, Liwei Chen, Zhiheng Qin, Yi Wang
-- title: Small Agents, Big Gains: Journey-Aware and Critic-Guided Simulation for Long-Horizon Shopping Dialogues
-  authors: Qing Ping, Changyou Chen, Binxuan Huang
-- title: Progressive Fine-Tuning for Cost-Effective Structured Attribute Generation in E-commerce
-  authors: Lakshman Kolasani, Fatemeh Taheri Dezaki
-- title: Grounded Multimodal In-Context Learning for Product Weight Estimation at Scale in E-commerce
-  authors: Bhavuk Singhal, Arsh Keshari, Ravindra Kumar Yadav
-- title: Towards Faithful Industrial RAG: A Reinforced Co-adaptation Framework for Advertising QA
-  authors: wenwei li, Ming Xu, Tianle Xia, Lingxiang Hu, Yiding Sun, Linfang Shang, Liqun Liu, Peng Shu, Huan Yu, Jie Jiang
-- title: A Unified Framework for Modeling Heterogeneous Financial Data via Dual-Granularity Prompting
-  authors: Yu Lei, Zixuan Wang, Yiqing Feng, Junru Zhang, Yahui Li, Liu Chu, Tongyao Wang, Dongyang Li
-- title: DuIVRS-2: An LLM-based Interactive Voice Response System for Large-scale POI Attribute Acquisition
-  authors: Le Zhang, Shengming Zhang, Rui Zha, Yunpeng Wu, Jingbo Zhou, Jizhou Huang
-- title: SAJA: A Simple Approach to Judge Alignment for LLM-as-a-Judge
-  authors: Sneha Kola, Pankaj Kumar Sharma, Soumyadeep Dey, Bamdev Mishra, Mayur Datar
-- title: ColorBrowserAgent: Complex Long-Horizon Browser Agent with Adaptive Knowledge Evolution
-  authors: Jihong Wang, Jiamu Zhou, Weiming Zhang, Teng Wang, Weiwen Liu, Zhuosheng Zhang, Xingyu Lou, Weinan Zhang, HUARONG DENG, Jun Wang
-- title: ClinDet-Bench: Beyond Abstention, Evaluating Judgment Determinability of LLMs in Clinical Decision-Making
-  authors: YUSUKE WATANABE, Yohei Kobashi, Takeshi Kojima, Yusuke Iwasawa, Yasushi Okuno, Yutaka Matsuo
-- title: AIDA-SEAT: Towards Reliable AI Doctor Assistant via State-Evaluation-Action Tree Enhanced LLMs in Online Hospital
-  authors: Lianxin Sun, Xiaoying Ying, Guangya Yu, Weiyan Zhang, Chenhao Guan, Hao He, Mingxi Shang, Jianhua Li, ChunMing Wang, Tong Ruan
-- title: IndustryAssetEQA: A Neurosymbolic Operational Intelligence System for Embodied Question Answering in Industrial Asset Maintenance
-  authors: Chathurangi Shyalika, Dhaval Patel, Amit Sheth
-- title: Evidence‑Driven Reasoning for Industrial Maintenance Using Heterogeneous Data
-  authors: Fearghal O'Donncha, Nianjun Zhou, Natalia Martinez, James T Rayfield, Fenno F. Heath III, Abigail Langbridge, Roman Vaculin
-- title: MobileLLM-Flash: Latency-Guided On-Device LLM Design for Industry Scale Deployment
-  authors: Hanxian Huang, Igor Fedorov, Andrey Gromov, Bernard Beckerman, Naveen Suda, David Eriksson, Maximilian Balandat, Rylan Conway, Patrick Huber, Chinnadhurai Sankar, Ayushi Dalmia, Zechun Liu, Lemeng Wu, Tarek Elgamal, Adithya Sagar, Vikas Chandra, Raghuraman Krishnamoorthi
-- title: LEAP: Layer-wise Exit-Aware Pretraining for Efficient Transformer Inference
-  authors: Shashank Kapadia, Deep Naryan Mishra, Sujal Reddy Alugubelli, Haoan Wang, Saipraveen Vabbilisetty, Rishi Bhatia, Anupriya Sharma
-- title: Think Like You Execute: Verifiable Chain of Thought from Program Traces
-  authors: Shailja Thakur, Vaibhav Saxena, Rohan Kulkarni, Shivdeep Singh, Parameswaran Selvam, Hiroshi Kanayama, Hima Patel
-- title: From Relevance to Authority: Authority-aware Generative Retrieval in Web Search Engines
-  authors: Sunkyung Lee, Jihye Back, Donghyeon Jeon, Soonhwan Kwon, Moonkwon Kim, Inho Kang, Jongwuk Lee
-- title: Enhancing Online Recruitment with Category-Aware MoE and LLM-based Data Augmentation
-  authors: Minping Chen, Bing Xu, Zulong Chen, Chuanfei Xu, Ying Zhou, Zui Tao, Zeyi Wen
-- title: EfficientTool: A Cost-Effective Aligning Framework for Tool-Conditioned Agents in SME Scenarios
-  authors: Yuanqi MuBingfeng PiDefei XiaLei ZuoYongqi Zhang
-- title: Unleashing Low-Bit Inference on Ascend NPUs: A Comprehensive Evaluation of HiFloat Formats
-  authors: Pengxiang Zhao, Hui-Ling Zhen, Xing Li, Han Bao, Weizhe Lin, Zhiyuan Yang, Yu Zi Wei, Xin Wang, Mingxuan Yuan, Xianzhi Yu, Zhenhua Dong
-- title: Securing the Tool Layer: A Threat Taxonomy and Runtime Defense Framework for Model Context Protocol Deployments
-  authors: Saurabh Yergattikar
-- title: Enhancing Job Evaluation with Data Augmentation and Text Classification
-  authors: Samaneh Jalilian, Niels van Weeren, Mohammad Shokri, Thijmen Bijl, Suzan Verberne
-- title: When Good OCR Is Not Enough: Benchmarking OCR Robustness for Retrieval-Augmented Generation
-  authors: Lin Sun, wangdexian, Jingang Huang, Linglin Zhang, Change Jia, Zhengwei Cheng, Xiangzheng Zhang
-- title: Aggregate vs. Personalized Judges in Business Idea Evaluation: Evidence from Expert Disagreement
-  authors: Wataru Hirota, Tomoki Taniguchi, Tomoko Ohkuma, Kosuke Takahashi, Takahiro Omi, Kosuke Arima, Takuto Asakura, Chung-Chi Chen, Tatsuya Ishigaki
-- title: Memory-Efficient Structured Backpropagation for On-Device LLM Fine-Tuning
-  authors: Juneyoung Park, Yuri Hong, Seongwan Kim, Jaeho Lee
-- title: Multi-Agent Orchestration for Terminology-Constrained Machine Translation in Industrial Localization
-  authors: Emanuele Di Rosa
-- title: TrendPulse: A Simple yet Efficient Framework for Capturing Viral E-Commerce Spikes via LLM-Driven Contextualization
-  authors: Arin Jain, Devashish Gupta, Divay Jindal, Bhavuk Singhal, Vinit Rongata, Ravindra Kumar Yadav
-- title: ACRM: Multi-Agent Trajectory Learning for Automated Credit Risk Model Refreshing in Production
-  authors: Liangzu Liu, Mengzhe Ruan, Xiaotian Chen, HaonanChen, XudongNiu, Wendi Yuan, YuechenLi, Yang Liu, Guanjun Wang
-- title: From 2:4 to 8:16 sparcity patterns in LLMs for Outliers and Weights with Variance Correction
-  authors: Egor Maximov, Yulia Kuzkina, Egor Shvetsov, Azamat Kanametov, Aleksandr Prutko, Maxim Zhelnin, Aleksei Goncharov
-- title: An Efficient Framework for Whole-Page Reranking via Single-Modal Supervision
-  authors: Zishuai Zhang;Sihao Yu;Wenyi Xie;Ying Nie;Junfeng Wang;Zhiming Zheng;Dawei Yin;Hainan Zhang
-- title: LLM as a Risk Manager: LLM Semantic Filtering for Lead–Lag Trading in Prediction Markets
-  authors: Sumin Kim, Minjae Kim, Jihoon Kwon, Yoon Kim, Oscar Levy, Alejandro Lopez-Lira, Yongjae Lee, Chanyeol Choi
-- title: Diffusion-Pretrained Dense and Contextual Embeddings
-  authors: Sedigheh Eslami, Maksim Gaiduk, Markus Krimmel, Louis Mark Milliken, Bo Wang, Denis Bykov
-- title: Actionable Interpretability for Churn Classification: A Text Bottleneck Model Case Study at a Major Telecom Provider
-  authors: Adrian Sauter, Vera Neplenbroek, Georgios Vlassopoulos, Gianluigi Bardelloni
-- title: Decoding Text Spans for Efficient and Accurate Named-Entity Recognition
-  authors: Andrea Maracani, Savas Ozkan, Junyi Zhu, Sinan Mutlu, Mete Ozay
-- title: EVE: A Domain-Specific LLM Framework for Earth Intelligence
-  authors: Àlex R. Atrio, Antonio Lopez, Jino Rohit, Yassine El Ouahidi, Marcello Politi, Vijayasri Iyer, Umar Jamil, Sébastien Bratières, Nicolas Longépé
-- title: OSyTa: Optimizer-based System for Table Generation from Documents
-  authors: Gyanendra Shrestha, Todor Ivanov, Karthik Vemireddy, Anna Pyayt, Michael Gubanov
-- title: Harmonizing Dense and Sparse Signals in Multi-turn RL: Dual-Horizon Credit Assignment for Industrial Sales Agents
-  authors: Haojin Yang, Ai Jian, Yiwei Wang, Xinyue Huang, Weipeng Zhang, Ke Zeng, Xunliang Cai, Jingqing Ruan
-- title: Know What You See: Grounded localization of product components
-  authors: Manan Soni, Abinesh Kanagarajan, Shyam Mohan
-- title: SCAIR: Schema-Conditioned Agentic Iterative Reasoning for Enterprise Knowledge Graphs
-  authors: Prateek Chaturvedi, Yuqicheng Zhu, Hongkuan Zhou, Dongzhuoran Zhou, Yunjie He, Steffen Staab, Fei Du, Jie Tang, Evgeny Kharlamov
-- title: FROST: Factual Reasoning via Optimized Stochastic Trajectories in Large Language Models during Inference
-  authors: Soumedhik Bharati, Ebad Shabbir, Jiechao Gao
-- title: SchemaRAG: Dynamic Large Schema Reduction for LLM-driven Structured Information Extraction
-  authors: Sin Yu Bonnie Ho, Arlie Coles, Erik Larsson, Eric Marshall, Nathan Bodenstab, Paul Vozila
-- title: DQA: Diagnostic Question Answering for IT Support
-  authors: Vishaal Kapoor, Mariam Dundua, Evren Yortucboylu, Sarthak Ahuja, Rebecca Steinert, Vaibhavi padala, Neda Kordjazi, Derek Ho, Yiming Li, Jennifer Whitted
-- title: Agentic Economic Modeling
-  authors: Bohan Zhang, Jiaxuan Li, Ali Hortacsu, Xiaoyang Ye, Victor Chernozhukov, Anqi Ni, Edward W Huang
-- title: Robust Explanations for User Trust in Enterprise NLP Systems
-  authors: Guilin Zhang, Kai Zhao, Jeffrey Friedman, Xu Chu, Amine Anoun
-- title: VEG: Verbal ε-greedy for Semantic Exploration in Multi-Turn RL Agents
-  authors: Yongchang Hao, Jie Hao, Yongsheng Mei, Ze Ye, Junyi Chai, Bin Guo, Benjamin Z. Yao, Chenlei Guo, Lili Mou
-- title: FlowHN: Adaptive Token Routing for Efficient Parallel Hybrid Networks
-  authors: Mohammad Mahdi Moradi, Walid Ahmed, Shuangyue Wen, Sudhir Mudur, Weiwei Zhang, Yang Liu
-- title: MemoPhishAgent: Memory-Augmented Multi-Modal LLM Agent for Phishing URL Detection
-  authors: Xuan Chen, Hao Liu, Tao Yuan, Mehran Kafai, Piotr Habas, Xiangyu Zhang
-- title: Adaptive Weighted Proxy Tuning: Efficient Gray-Box Steering for Image Captioning
-  authors: Nafew Azim, Fuad Rahman, Nabeel Mohammed
-- title: CLARITY: A Framework and Benchmark for Conversational Language Ambiguity and Unanswerability in Interactive NL2SQL Systems
-  authors: Tabinda Sarwar, Farhad Moghimifar, Cong Duy Vu Hoang, Xiaoxiao Ma, Shawn Chang Xu, Fahimeh Saleh, Poorya Zaremoodi, Avirup Sil, Katrin Kirchhoff
-- title: Toward Scalable Verifiable Reward: Proxy State-Based Evaluation for Multi-turn Tool-Calling LLM Agents
-  authors: Yun-Shiuan Chuang, Chaitanya Kulkarni, Alec M. Chiu, Avinash Thangali, Zijie Pan, Shivani Shekhar, Yirou Ge, Yixi Li, Uma Kona, Linsey Pang, Prakhar Mehrotra
-- title: Ada-RS: Adaptive Rejection Sampling for Selective Thinking
-  authors: Yirou Ge, Yixi Li, Alec M. Chiu, Shivani Shekhar, Zijie Pan, Avinash Thangali, Yun-Shiuan Chuang, Chaitanya Kulkarni, Uma Kona, Linsey Pang, Prakhar Mehrotra
-- title: IPS: In-Prompt Process Supervision for Short Video Content Moderation
-  authors: Mingchao Liu, Yu Sun, Ruixiao Sun, Xin Dong, Xiang Shen, Hongwei Wang, Hongyu Xiong, Yang Song
-- title: RedOne 2.0: Rethinking Domain-specific LLM Post-Training in Social Networking Services
-  authors: Fei zhao, Chonggang Lu, Haofu Qian, Fangcheng Shi, Zijie Meng, Jianzhao Huang, Zheyong Xie, Shaosheng Cao
-- title: How to Train a Real-World Silicon Concierge? Internalizing Complex Business Workflow to Only OneModel
-  authors: Yongqi Tong, Xiaoyun Feng, Lyuxin Xue, JIANSHE LI, Xin Zhang, Jiang-Ming Yang
-- title: FinRAG-12B: A Production-Validated Recipe for Grounded Question Answering in Banking
-  authors: Denys Katerenchuk, Pablo Duboue, Keelan Evanini
-- title: CascadeDebate: Multi-Agent Deliberation for Cost-Aware LLM Cascades
-  authors: Raeyoung Chang; Dongwook Kwon; Jisoo Lee; Nikhil Verma
-- title: SemViQA: A Semantic Question Answering System for Vietnamese Information Fact-Checking
-  authors: Dien X. Tran, Nam V. Nguyen, Tran Tan Thanh, Anh T. Hoang, Dương Văn Tài, Lê Thanh Di, Phuc-Lu Le
-- title: SimRPD: Optimizing Recruitment Proactive Dialogue Agents through Simulator-Based Data Evaluation and Selection
-  authors: Zhiyong Cao, Dunqiang Liu, Qi Dai, Haojun Xu, Huai Yuen Khor, Hao Wang, Huan He, Yafei Liu, Ke Ma, Ruqian Shi, Sicheng Zhou, Sijia Yao
-- title: ProductResearch: Training E-Commerce Deep Research Agents via Multi-Agent Synthetic Trajectory Distillation
-  authors: Jiangyuan Wang, Kejun Xiao, Huaipeng Zhao, Tao Luo, Xiaoyi Zeng
-- title: ReList: A Multi-objective Reasoning Framework for Diversified Listwise Query Recommendation
-  authors: Shuxian Bi, Chenxu Wang, Wenjie Wang, Yueqi Mou, Fuli Feng, Tang Biao, Peng Yan
-- title: Optimal Expert-Attention Allocation in Mixture-of-Experts: A Scalable Law for Dynamic Model Design
-  authors: Junzhuo Li, Peijie Jiang, Changxin Tian, Jia Liu, Zhiqiang Zhang, Xuming Hu
-- title: A Multistage Extraction Pipeline for Long Scanned Financial Documents: An Empirical Study in Industrial KYC Workflows
-  authors: Han Yuxuan, Yuanxing Zhang, Yushuo Wang, Yichao Jin
-- title: Effective Performance Measurement: Challenges and Opportunities in KPI Extraction from Earnings Calls
-  authors: Rasmus T. Aavang, Rasmus Tjalk-Bøggild, Alexandre Iolov, Giovanni Rizzi, Mike Zhang, Johannes Bjerva
-- title: Structure-Guided Entity Resolution: Fine-Tuning LLMs for Robust Name Matching in Complex Linguistic Contexts
-  authors: Shivam Chourasia, Hitesh Kapoor, Nilesh Patil
-- title: Accurate Legal Reasoning at Scale: Neuro-Symbolic Offloading and Structural Auditability for Robust Legal Adjudication
-  authors: Stanisław Sójka, Witold Kowalczyk
-- title: CI-Work: Benchmarking Contextual Integrity in Enterprise LLM Agents
-  authors: Wenjie Fu, Xiaoting Qin, Jue Zhang, Qingwei Lin, Lukas Wutschitz, Robert Sim, Saravan Rajmohan, Dongmei Zhang
-- title: From Pixels to Policies: Reinforcing Spatial Reasoning in Language Models for Content-Aware Layout Design
-  authors: Sha Li, Stefano Petrangeli, Yu Shen, Xiang Chen
-- title: Practical Guidelines for Model Merging in LLMs Pre-Training
-  authors: Giuseppe Curci, Stefano Simonazzi, Andrea Molinari, Andrea Zugarini
-- title: Are Large Language Models Economically Viable for Industry Deployment?
-  authors: Abdullah Mohammad, Sushant Kumar Ray, Pushkar Arora, Rafiq Ali, Ebad Shabbir, Gautam Siddharth Kashyap, Jiechao Gao, Usman Naseem
-- title: Let LLM Tutors Ask First: Proactive LLM-Based Tutoring at Scale in a 1,500-Student Online Classroom
-  authors: Jonghoon Lee, Geonjae Youn, Seongmin Lee, Chaemoon Im, Joongheon Kim, Chuck Yoo
-- title: Hierarchical Reason-of-Contact Detection in Retail Banking Customer Interactions via LLM-Driven Taxonomy Induction
-  authors: Yoages Kumar Mantri,, Sriraja Yagneswaran, John Hartley, Greig Cowan, Raad Khraishi, Abhinav Gupta
-- title: Fanar-Sadiq: A Multi-Agent Architecture for Grounded Islamic QA
-  authors: Ummar Abbas, Mourad Ouzzani, Mohamed Y. Eltabakh, Omar Sinan, Gagan Bhatia, Hamdy Mubarak, Majd Hawasly, Mohammed Qusay Hashim, Kareem Mohamed Darwish, Firoj Alam
-- title: GuideTree: Guideline-Induced Review Trees for Long Medical Records
-  authors: Chengze Ge, Ruiqing Zhang, Yining Wang, Shengping Liu, Jiaen Liang, Wei Huang, Weihua Chen
-- title: Automatic Prompt Engineering for Scalable Prompt Inversion in Text-to-Image Ad Generation
-  authors: Zixin Ding, Qi Zeng, Boying Gong, Wenlong Deng, Bo Pan, Yuxin Chen
-- title: Efficient Agent Evaluation via Diversity-Guided User Simulation
-  authors: Itay Nakash, George Kour, Ateret Anaby Tavor
-- title: What Question Did You Answer? Refining Contact Center Evaluation Plans via Backward Questions
-  authors: Prajwal Sood, Rushikesh Pawar, Digvijay Anil Ingle, Anup Pattnaik
-- title: Natural-Language Policies to Executable Decisions: An Interpretable Large Language Model Framework
-  authors: Ziqiang Zhang, Jing Ma, Zilong Wang, Jiayuan Chen, Yi Qiao, Dai Cheng, Yu He, Wei Zhang, Xiaoyu Shen
-- title: Diagnose, Then Repair: A Two-Stage MQM-Guided Post-Editing Framework for Domain-Specific Machine Translation
-  authors: Ji Hun Wang, Siyu Wu
-- title: Don’t Stop Early: Scalable Enterprise Deep Research with Controlled Information Flow and Evidence-Aware Termination
-  authors: Prafulla Kumar Choubey, Kung-Hsiang Huang, Pranav Narayanan Venkit, Jiaxin Zhang, Vaibhav Vats, Yu Li, XIANGYU PENG, Chien-Sheng Wu
-- title: FinHarmBench: Financial Jailbreak Benchmark and Unsupervised Safety Fine-Tuning via Refusal Steering Distillation
-  authors: Yubin Choi, Yujin Yang
-- title: PAR2-RAG: Planned Active Retrieval and Reasoning for Multi-Hop Question Answering
-  authors: Rongguang Wang
-- title: *OmniOData*: Unleashing Small Language Models for OData Query Generation with Synthetic Data and Reinforcement Learning
-  authors: Tao Bai, Zhaochen Li, Hongxin Shao, Daniel Dahlmeier
-- title: LegalDrill: Diagnosis-Driven Synthesis for Legal Reasoning in Small Language Models
-  authors: Tianchun Li, Haochen Liu, Vishwa Pardeshi, Xingchen Wang, Tianci Liu, Huijun Zhao, Wei Fan, Jing Gao
-- title: From TextBlob to LLM Agents: Sentiment Model Selection for B2B Technical Support with CSAT Ground Truth
-  authors: Pedro Vidigal
-- title: A Novel Matching Paradigm: Unified Generative and Discriminative LLM with Prompt Compression for Relevance Learning
-  authors: Guoliang Zhao, Zixin Cui, Chao Ye, Dengwu He, Fei Huang, Yubo Liu, Shuanglong Li, Zongren Guo, Bin Ding, Shuang Zhang, Kunhong Zhu, Zhi Guo, Lin Liu
-- title: Rethinking Scale: Deployment Trade-offs of Small Language Models under Agent Paradigms
-  authors: Xinlin Wang
-- title: ThLexGraph: A Production Knowledge Graph Unifying Thailand’s Legal System
-  authors: Pawitsapak Akarajaradwong, Sarana Nutanong, Chompakorn Chaksangchaichot
-- title: Modular Monolingual Adaptation using Pretrained Language Models
-  authors: Nalin Kumar, Ondrej Dusek
-- title: Multi-Task Reinforcement Learning for Enhanced Multimodal LLM-as-a-Judge
-  authors: Junjie Wu, Xuan Kan, Zihao He, Shunwen Tan, Bo Pan, Kaitai Zhang
-- title: RAPIDS: Resume Attack Prompt Injection Detection at Scale
-  authors: Yohann Augey, Joshua H. Levy, Arda Akdemir
-- title: No Innocence in Styling: Discovery of Privacy Protection Capabilities and Security Risks in Consumer Generative AI Writing Assistants
-  authors: Mohd. Farhan Israk Soumik, SYED MHAMUDUL HASAN, Wanniarachchi Kankanamge Malithi Mithsara, Ahmed Imteaj, Abdur R. Shahid
-- title: RouteLMT: Learned Sample Routing for Hybrid LLM Translation Deployment
-  authors: Yingfeng Luo, Hongyu Liu, DingYang Lin, Kaiyan Chang, Chenglong Wang, Bei Li, Quan Du, Tong Xiao, JingBo Zhu
-- title: Intent-Driven Semantic ID Generation for Grounded Conversational News Recommendation
-  authors: Hongyang Su, Beibei Kong, Lei Cheng, Chengxiang Zhuo, Zang Li, Chenyun Yu
-- title: Development and Benchmarking of a Blended Human-AI Qualitative Research Assistant
-  authors: Joseph Matveyenko; James Liu; John David Parsons; Ryan A. Brown; Alina I. Palimaru; Vipul Gupta; Prateek Puri
-- title: Entity Exchange in the Wild: A Diagnostic Study of LLM Based Real-World Conversational Entity Extraction
-  authors: Soumya Jain, Ayush Kumar
-- title: Agentic Context Strategies for Multi-Format Document Understanding: When Should Language Models Use Tools?
-  authors: Mukul Singh, Mansi Uniyal, Ryan Nadel
-- title: MM-BizRAG: Rethinking Multimodal Retrieval-Augmented Generation for General Purpose Enterprise Q&A
-  authors: Hanoz Bhathena, Parin Rajesh Jhaveri, Rohan Mittal, Prateek Singh, Aymen Kallala, Rachneet Kaur, Yiqiao Jin, Zhen Zeng, Adwait Ratnaparkhi, Denis Kochedykov
-- title: AesX: Enhance Your Images with Stunning Aesthetic Beauty
-  authors: Yuyan Chen, Zhendong Hou, Lei Xia, Jiahao Li, Zhuolin Ji, Zhixu Li
-- title: Transfer Learning for Generalizable Automated LLM Improvement Pipeline for IVR Navigation
-  authors: Vishal Sankar Ram, Jason Kushner, Manas Paldhe, Youngseo Son
-- title: Beyond Instruction Optimization: Multi-Agent Error-Driven Class Description Refinement for LLM-Based Classification
-  authors: Hamvir Dev, Shivam Ratnakant Mhaskar, Sasanka Vutla, Anup Pattnaik
-- title: TEN: Table Explicitization, Neurosymbolically
-  authors: Nikita Mehrotra, Aayush Kumar, Sumit Gulwani, Arjun Radhakrishna, Ashish Tiwari
-- title: RADAR: Risk-Aware Distilled Adaptive Routing for Efficient Short-Form Video Platform Ecosystem Governance
-  authors: Baoyu Jing, Zixuan Wang, Junwen Chen, Xin Dong, Bingfeng Deng, Kun Xu
-- title: From Graph to Text and Back: Semantic Fidelity in Automated Industrial Knowledge Graphs
-  authors: Kamyar Zeinalipour, Silvia Severini, Alessia Borghini, Sara Cardarelli, Marco Maggini, Marco Gori
-- title: Learning Selective LLM Autonomy from Copilot Feedback in Enterprise Customer Support Workflows
-  authors: Nikita Borovkov, Elisei Rykov, Olga Tsymboi, Sergei Filimonov, Nikita Surnachev, Dmitry Bitman, Anatolii Potapov
-- title: Prompt-Level Distillation: A Non-Parametric Alternative to Model Fine-Tuning for Efficient Reasoning
-  authors: Sanket Badhe, Deep Shah
-- title: MTIVE: Multi-Task Image Verification Engine Using Vision-Language Models for E-commerce
-  authors: Yu-Tong Cao, Vishnu Prabhakaran, Arunita Das, Purav Aggarwal, Anoop Saladi
-- title: Measuring and Mitigating Racial Bias in Embedding Models: A Comparative Study for Law Enforcement Retrieval
-  authors: Archan Dutta
-- title: VishBox v2: A Multi-Agent System for Real-time Adaptive Voice Phishing Simulation
-  authors: Sungmi Park, Daon Choi, YOONMO YANG, Hong Yunyi, Heedou Kim
-- title: ResoDiff-44k: High-Fidelity Cross-Lingual Speech and Singing Synthesis via Discrete Diffusion
-  authors: Gyanendra Das, Sai Satyam Jena
-- title: TingIS: Real-time Risk Event Discovery from Noisy Customer Incidents at Enterprise Scale
-  authors: Jun Wang, Ziyin Zhang, Rui Wang, Hang Yu, Peng Di, Rui Wang
-- title: LoCar: Localization-Aware Evaluation of In-Vehicle Assistants through Fine-Grained Sociolinguistic Control
-  authors: Seogyeong Jeong, Kiwoong Park, Seyoung Song, Eunsu Kim, Ken Friedl, Jaeho Kim, Alice Oh
-- title: Index-Time Prefix Injection for Multi-Tenant Retrieval: Improving Search Relevance Without Model Fine-Tuning
-  authors: Vaibhav Varshney, Manjunatha Naik MC
-- title: Benchmarking Testing in Automated Theorem Proving
-  authors: Jongyoon_Kim1, Hojae_Han1, seung-won_hwang2
-- title: Graph-Based Phonetic Error Correction of Noisy ASR
-  authors: Pratik Rakesh Singh, Mohammadi Zaki, Aneesh Mukkamla, Pankaj Wasnik
-- title: CAT: Confidence-Adaptive Thinking for Efficient Reasoning of Large Reasoning Models
-  authors: Qizhi Jiang, Shuo Wang, Pei Ke, Yuhang Song, Ke Qin
-- title: LatentGate: Low-Latency Semantic Routing via Frozen-Backbone Probing of Small Language Models
-  authors: Shivam Ratnakar, Abhiroop Talasila, Vinayak K Doifode
-- title: Thinking with Reasoning Skills: Fewer Tokens, More Accuracy
-  authors: Guangxiang Zhao, Qilong Shi, Xiangzheng Zhang, Xusen Xiao, Tong Yang, Lin Sun
+- title: "Smarter, not Bigger: Fine-Tuned RAG-Enhanced LLMs for Automotive HIL Testing"
+  authors: "Chao Feng, Zihan Liu, Siddhant Gupta, Jan von der Assen"
+- title: "MinerU2.5: A Decoupled Vision-Language Model for Efficient High-Resolution Document Parsing"
+  authors: "Junbo Niu, Zheng Liu, Zhuangcheng Gu, Bin Wang, Linke Ouyang, Zhiyuan Zhao, Tao Chu, Tianyao He, Fan Wu, Qintong Zhang, Zhenjiang Jin, Guang Liang, Rui Zhang, Wenzheng Zhang, Yuan Qu, Zhifei Ren, Yuefeng Sun, Zirui Tang, Boyu Niu, Yuanhong Zheng, Dongsheng Ma, Ziyang Miao, Hejun Dong, Siyi Qian, Junyuan Zhang, Fangdong Wang, Jingzhou Chen, Xiaomeng Zhao, Liqun Wei, Wei Li, Shasha Wang, RuiLiang Xu, Yuanyuan Cao, Lu Chen, Qianqian Wu, Huaiyu Gu, Lindong Lu, Dechen Lin, Shenguanlin, Xuanhe Zhou, Linfeng Zhang, Yuhang Zang, Xiaoyi Dong, Jiaqi Wang, Bo Zhang, LEI BAI, Pei Chu, Weijia Li, Jiang Wu, Lijun Wu, Zhenxiang Li, Guangyu Wang, Zhongying Tu, Chao Xu, Kai Chen, Bowen Zhou, Dahua Lin, Wentao Zhang, Conghui He"
+- title: "Leveraging Generative AI for Extracting Business Requirements from Legacy COBOL and PL/I Code"
+  authors: "Ankur Kalohia"
+- title: "Is Agentic RAG worth it? An experimental comparison of RAG approaches"
+  authors: "pietro ferrazzi; milica cvjeticanin; alessio piraccini; davide giannuzzi"
+- title: "Improving Hate Speech Detection by Fusing Textual and User Interaction Representations in Online Communities"
+  authors: "Xu Gao, Dong Jing, Kee-hung Lai"
+- title: "TeachMaster: Generative Teaching via Code"
+  authors: "Yuheng Wang, Runde Yang, Lin Wu, Jie Zhang, Jingru Fan, Ruoyu Fu, Tianle Zhou, Huatao Li, Ruijie Shi, Siheng Chen, Weinan E, Chen Qian"
+- title: "ARGUS: Policy-Adaptive Ad Governance via Evolving Reinforcement with Adversarial Umpiring"
+  authors: "Deyi Ji, Junyu Lu, Xuanyi Liu, Liqun Liu, Hailong Zhang, Peng Shu, Huan Yu, Jie Jiang, Tianrun Chen, Lanyun Zhu"
+- title: "Synthetic Text Detection in the Age of Large Language Models: Watermark vs. Automatic Detection"
+  authors: "Adaku Uchendu"
+- title: "R³A: Reinforced Reasoning for Relevance Assessment for RAG in User-Generated Content Platforms"
+  authors: "Xiaowei Yuan, Lei Jin, Haoxin Zhang, Ziyang Huang, Yan Gao, YIWU, Yao Hu, Jun Zhao, Kang Liu"
+- title: "HAD: HAllucination Detection Language Models Based on a Comprehensive Hallucination Taxonomy"
+  authors: "Fan Xu, Xinyu Hu, Zhenghan Yu, Li Lin, Xu Zhang, Yang Zhang, Wei Zhou, Jinjie Gu, Xiaojun Wan"
+- title: "DocSplit: A Comprehensive Benchmark Dataset and Evaluation Approach for Document Packet Recognition and Splitting"
+  authors: "Md Mofijul Islam, Md Sirajus Salekin, Nivedha Balakrishnan, Vincil C. Bishop III, Niharika Jain, Spencer Romo, Bob Strahan, Boyi Xie, Diego A. Socolinsky"
+- title: "Predicting Fine-Grained Typing Intent for Faster Search"
+  authors: "Yipeng Yu, Yichen Yuan, Chengxiao Feng, Xu Liu"
+- title: "Calibrating LLM Judges: Linear Probes for Fast and Reliable Uncertainty Estimation"
+  authors: "Bhaktipriya Radharapu, Eshika Saxena, Kenneth Li, Adina Williams, Nicola Cancedda"
+- title: "Detecting AI-Generated Content on Social Media with Multi-modal Language Models"
+  authors: "Chenyang Yang, Shen Yan, Yibo Yang, Litao Hu, Yuchen Liu, Yuan Zeng, Hanchao Yu, Yinan Zhu, Sumedha Singla, Brian Vanover, Huijun Qian, Zihao Wang, Fujun Liu, Aashu Singh, Jianyu Wang, Xuewen Zhang"
+- title: "IceBreaker for Conversational Agents: Breaking the First-Message Barrier with Personalized Starters"
+  authors: "Hongwei Zheng, Weiqi Wu, Zhengjia Wang, Guanyu Jiang, Haoming Li, Tianyu Wu, Yongchun Zhu, Jingwu Chen, Feng Zhang"
+- title: "Motivating Next-Gen Accelerators with Flexible Activation Sparsity via Benchmarking Lightweight Post-Training Sparsification Approaches"
+  authors: "Shirin Alanova, Kristina Kazistova, Ekaterina Galaeva, Alina Kostromina, Vladimir Smirnov, Redko Dmitry, Alexey Dontsov, Maxim Zhelnin, Evgeny Burnaev, Egor Shvetsov"
+- title: "Sommelier: Scalable Open Multi-turn Audio Pre-processing for Full-duplex Speech Language Models"
+  authors: "Kyudan Jung, Jihwan Kim, Soyoon Kim, Jeonghoon Kim, Jaegul Choo, Cheonbok Park"
+- title: "Proximity-Based Multi-Turn Optimization: Practical Credit Assignment for LLM Agent Training"
+  authors: "Yangyi Fang, Jiaye Lin, Xiaoliang Fu, Cong Qin, Chang Liu, Haolin Shi"
+- title: "Mixture of Heterogeneous Grouped Experts for Language Modeling"
+  authors: "Zhicheng Ma, Xiang Liu, Zhaoxiang Liu, Ning Wang, Yi Shen, Kai Wang, Shuming Shi, Shiguo Lian"
+- title: "Policy Compliance of User Requests in Natural Language for AI Systems"
+  authors: "Pedro Cisneros-Velarde"
+- title: "Better Literary Translation: A Multi-Aspect Data Generation and LLM Training Approach"
+  authors: "Zhihao Lin, Ziqi Zhu, Hao Huang, Guanghui Wang, Peiyang He"
+- title: "SSR-A: Spatial- and Semantic-Aware Instructions and Curriculum Reinforcement for Advertisement Compliant Rectification"
+  authors: "Te Cao, Mengge Xue, Zhenyu Hu, Yuan Chen, Liqun Liu, Peng Shu, Huan Yu, Jie Jiang"
+- title: "ℛ³: Advertisement Compliance ℛectification via Group-ℛelative Experience Extractor and Curriculum ℛeinforcement"
+  authors: "Yuan Chen, zhenyu hu, Mengge Xue, Cao Te, Liqun Liu, Peng Shu, Huan Yu, Jie Jiang"
+- title: "GrocLM: Grocery Category Recommendation in E-Commerce with Large Language Models"
+  authors: "Yuan Zhong, Chuanwei Ruan, Moein Hasani, Tejaswi Tenneti, Haixun Wang, Fenglong Ma"
+- title: "DeepResearch Retail: Benchmarking Tool-Augmented Deep Research in the E-Commerce Domain"
+  authors: "Rafael Ferreira, Flavio Di Palo, Huilin Lu, Ayush Jain, Harsha Aduri"
+- title: "GeoGround: Uncertainty-Weighted Multi-Task Learning for Geo-Alignment and Address Defect Detection"
+  authors: "Srinivas Virinchi, Aman Gulati, Anoop Saladi"
+- title: "Pre-Deployment Advertisement Ranking under Data Scarcity via Context-Aware Criteria Generation with VLMs"
+  authors: "Kyungho Kim, Yeonje Choi, Gyurim Hwang, Sejin Chung, Hongseok Lee, Myeong Ho Song, Yeongho Kim, Sunwoo Kim, Jongha Lee, Juyeon Kim, Kijung Shin"
+- title: "Agent-Ops: A Multi-Agent Orchestration Framework for End-to-End SOP Automation in E-Commerce Operations"
+  authors: "Apoorva Singh, Sanjay Agrawal, Sayanta Adhikari, Vinayak S Puranik, Shivam Tiwari, Dheeraj Assudani"
+- title: "Reason-Code: Reliable Code Generation via Test-Driven Monte Carlo Tree Search"
+  authors: "Zixu Li, Zhiqi Peng"
+- title: "Optimizing Retrieval-Augmented Generation for E-Commerce How-To Assistance"
+  authors: "Gilad Fuchs, Leonid Ekimov, Fei Dong, Jiahong Xie, Wei Liu, Maxim Manco, Alexander Nus"
+- title: "UNIVID: Unified Vision-Language Model for Video Moderation"
+  authors: "Kejuan Yang, Yizhuo Zhang, Mingyuan Du, Yue Zhang, Dixin Zheng, Kaili Zhao, Yang Xiao, Hanzhong Liang, Kenan Xiao"
+- title: "Learning from Textual Radiology Reports: A Benchmark Dataset for Coronary CT Angiography"
+  authors: "Sudharshan Balaji, Zhiyu Liu, Zhengyuan Jiang, Shuo Lei, Yimin Chen, Yang Xiao, Shone Almeida, Mathew Karivelil, Christopher Malanga, Ning Wang"
+- title: "Teaching LLM to be Persuasive: Reward-Enhanced Policy Optimization for Alignment from Heterogeneous Rewards"
+  authors: "Xia Zeng, Yihan Chen, Luhui Liu, Chao Luo, Ye Chen, ZHUANGZHUORAN"
+- title: "NEST: Nested Evidence Survival for Retrieval"
+  authors: "Akshay Verma, Siddharth Pillai, Prateek Sircar, Deepak Gupta"
+- title: "Search-P1: Path-Centric Reward Shaping for Stable and Efficient Agentic RAG Training"
+  authors: "Tianle Xia, Ming Xu, Lingxiang Hu, Yiding Sun, wenwei li, Linfang Shang, Liqun Liu, Peng Shu, Huan Yu, Jie Jiang"
+- title: "AgenticQwen: Training Small Agentic Language Models with Dual Data Flywheels for Industrial-Scale Tool Use"
+  authors: "Yuanjie Lyu, Chengyu Wang, Haonan Zheng, Yuanhao Yue, Junbing Yan, Ming Wang, Jun Huang"
+- title: "From Short Video to Clickable Search: RLVR-Enabled Listwise Query Suggestion with Retrieval-Augmented Context"
+  authors: "Mingkai Tian, xuye, Long Meng, Liwei Chen, Zhiheng Qin, Yi Wang"
+- title: "Small Agents, Big Gains: Journey-Aware and Critic-Guided Simulation for Long-Horizon Shopping Dialogues"
+  authors: "Qing Ping, Changyou Chen, Binxuan Huang"
+- title: "Progressive Fine-Tuning for Cost-Effective Structured Attribute Generation in E-commerce"
+  authors: "Lakshman Kolasani, Fatemeh Taheri Dezaki"
+- title: "Grounded Multimodal In-Context Learning for Product Weight Estimation at Scale in E-commerce"
+  authors: "Bhavuk Singhal, Arsh Keshari, Ravindra Kumar Yadav"
+- title: "Towards Faithful Industrial RAG: A Reinforced Co-adaptation Framework for Advertising QA"
+  authors: "wenwei li, Ming Xu, Tianle Xia, Lingxiang Hu, Yiding Sun, Linfang Shang, Liqun Liu, Peng Shu, Huan Yu, Jie Jiang"
+- title: "A Unified Framework for Modeling Heterogeneous Financial Data via Dual-Granularity Prompting"
+  authors: "Yu Lei, Zixuan Wang, Yiqing Feng, Junru Zhang, Yahui Li, Liu Chu, Tongyao Wang, Dongyang Li"
+- title: "DuIVRS-2: An LLM-based Interactive Voice Response System for Large-scale POI Attribute Acquisition"
+  authors: "Le Zhang, Shengming Zhang, Rui Zha, Yunpeng Wu, Jingbo Zhou, Jizhou Huang"
+- title: "SAJA: A Simple Approach to Judge Alignment for LLM-as-a-Judge"
+  authors: "Sneha Kola, Pankaj Kumar Sharma, Soumyadeep Dey, Bamdev Mishra, Mayur Datar"
+- title: "ColorBrowserAgent: Complex Long-Horizon Browser Agent with Adaptive Knowledge Evolution"
+  authors: "Jihong Wang, Jiamu Zhou, Weiming Zhang, Teng Wang, Weiwen Liu, Zhuosheng Zhang, Xingyu Lou, Weinan Zhang, HUARONG DENG, Jun Wang"
+- title: "ClinDet-Bench: Beyond Abstention, Evaluating Judgment Determinability of LLMs in Clinical Decision-Making"
+  authors: "YUSUKE WATANABE, Yohei Kobashi, Takeshi Kojima, Yusuke Iwasawa, Yasushi Okuno, Yutaka Matsuo"
+- title: "AIDA-SEAT: Towards Reliable AI Doctor Assistant via State-Evaluation-Action Tree Enhanced LLMs in Online Hospital"
+  authors: "Lianxin Sun, Xiaoying Ying, Guangya Yu, Weiyan Zhang, Chenhao Guan, Hao He, Mingxi Shang, Jianhua Li, ChunMing Wang, Tong Ruan"
+- title: "IndustryAssetEQA: A Neurosymbolic Operational Intelligence System for Embodied Question Answering in Industrial Asset Maintenance"
+  authors: "Chathurangi Shyalika, Dhaval Patel, Amit Sheth"
+- title: "Evidence‑Driven Reasoning for Industrial Maintenance Using Heterogeneous Data"
+  authors: "Fearghal O'Donncha, Nianjun Zhou, Natalia Martinez, James T Rayfield, Fenno F. Heath III, Abigail Langbridge, Roman Vaculin"
+- title: "MobileLLM-Flash: Latency-Guided On-Device LLM Design for Industry Scale Deployment"
+  authors: "Hanxian Huang, Igor Fedorov, Andrey Gromov, Bernard Beckerman, Naveen Suda, David Eriksson, Maximilian Balandat, Rylan Conway, Patrick Huber, Chinnadhurai Sankar, Ayushi Dalmia, Zechun Liu, Lemeng Wu, Tarek Elgamal, Adithya Sagar, Vikas Chandra, Raghuraman Krishnamoorthi"
+- title: "LEAP: Layer-wise Exit-Aware Pretraining for Efficient Transformer Inference"
+  authors: "Shashank Kapadia, Deep Naryan Mishra, Sujal Reddy Alugubelli, Haoan Wang, Saipraveen Vabbilisetty, Rishi Bhatia, Anupriya Sharma"
+- title: "Think Like You Execute: Verifiable Chain of Thought from Program Traces"
+  authors: "Shailja Thakur, Vaibhav Saxena, Rohan Kulkarni, Shivdeep Singh, Parameswaran Selvam, Hiroshi Kanayama, Hima Patel"
+- title: "From Relevance to Authority: Authority-aware Generative Retrieval in Web Search Engines"
+  authors: "Sunkyung Lee, Jihye Back, Donghyeon Jeon, Soonhwan Kwon, Moonkwon Kim, Inho Kang, Jongwuk Lee"
+- title: "Enhancing Online Recruitment with Category-Aware MoE and LLM-based Data Augmentation"
+  authors: "Minping Chen, Bing Xu, Zulong Chen, Chuanfei Xu, Ying Zhou, Zui Tao, Zeyi Wen"
+- title: "EfficientTool: A Cost-Effective Aligning Framework for Tool-Conditioned Agents in SME Scenarios"
+  authors: "Yuanqi MuBingfeng PiDefei XiaLei ZuoYongqi Zhang"
+- title: "Unleashing Low-Bit Inference on Ascend NPUs: A Comprehensive Evaluation of HiFloat Formats"
+  authors: "Pengxiang Zhao, Hui-Ling Zhen, Xing Li, Han Bao, Weizhe Lin, Zhiyuan Yang, Yu Zi Wei, Xin Wang, Mingxuan Yuan, Xianzhi Yu, Zhenhua Dong"
+- title: "Securing the Tool Layer: A Threat Taxonomy and Runtime Defense Framework for Model Context Protocol Deployments"
+  authors: "Saurabh Yergattikar"
+- title: "Enhancing Job Evaluation with Data Augmentation and Text Classification"
+  authors: "Samaneh Jalilian, Niels van Weeren, Mohammad Shokri, Thijmen Bijl, Suzan Verberne"
+- title: "When Good OCR Is Not Enough: Benchmarking OCR Robustness for Retrieval-Augmented Generation"
+  authors: "Lin Sun, wangdexian, Jingang Huang, Linglin Zhang, Change Jia, Zhengwei Cheng, Xiangzheng Zhang"
+- title: "Aggregate vs. Personalized Judges in Business Idea Evaluation: Evidence from Expert Disagreement"
+  authors: "Wataru Hirota, Tomoki Taniguchi, Tomoko Ohkuma, Kosuke Takahashi, Takahiro Omi, Kosuke Arima, Takuto Asakura, Chung-Chi Chen, Tatsuya Ishigaki"
+- title: "Memory-Efficient Structured Backpropagation for On-Device LLM Fine-Tuning"
+  authors: "Juneyoung Park, Yuri Hong, Seongwan Kim, Jaeho Lee"
+- title: "Multi-Agent Orchestration for Terminology-Constrained Machine Translation in Industrial Localization"
+  authors: "Emanuele Di Rosa"
+- title: "TrendPulse: A Simple yet Efficient Framework for Capturing Viral E-Commerce Spikes via LLM-Driven Contextualization"
+  authors: "Arin Jain, Devashish Gupta, Divay Jindal, Bhavuk Singhal, Vinit Rongata, Ravindra Kumar Yadav"
+- title: "ACRM: Multi-Agent Trajectory Learning for Automated Credit Risk Model Refreshing in Production"
+  authors: "Liangzu Liu, Mengzhe Ruan, Xiaotian Chen, HaonanChen, XudongNiu, Wendi Yuan, YuechenLi, Yang Liu, Guanjun Wang"
+- title: "From 2:4 to 8:16 sparcity patterns in LLMs for Outliers and Weights with Variance Correction"
+  authors: "Egor Maximov, Yulia Kuzkina, Egor Shvetsov, Azamat Kanametov, Aleksandr Prutko, Maxim Zhelnin, Aleksei Goncharov"
+- title: "An Efficient Framework for Whole-Page Reranking via Single-Modal Supervision"
+  authors: "Zishuai Zhang;Sihao Yu;Wenyi Xie;Ying Nie;Junfeng Wang;Zhiming Zheng;Dawei Yin;Hainan Zhang"
+- title: "LLM as a Risk Manager: LLM Semantic Filtering for Lead–Lag Trading in Prediction Markets"
+  authors: "Sumin Kim, Minjae Kim, Jihoon Kwon, Yoon Kim, Oscar Levy, Alejandro Lopez-Lira, Yongjae Lee, Chanyeol Choi"
+- title: "Diffusion-Pretrained Dense and Contextual Embeddings"
+  authors: "Sedigheh Eslami, Maksim Gaiduk, Markus Krimmel, Louis Mark Milliken, Bo Wang, Denis Bykov"
+- title: "Actionable Interpretability for Churn Classification: A Text Bottleneck Model Case Study at a Major Telecom Provider"
+  authors: "Adrian Sauter, Vera Neplenbroek, Georgios Vlassopoulos, Gianluigi Bardelloni"
+- title: "Decoding Text Spans for Efficient and Accurate Named-Entity Recognition"
+  authors: "Andrea Maracani, Savas Ozkan, Junyi Zhu, Sinan Mutlu, Mete Ozay"
+- title: "EVE: A Domain-Specific LLM Framework for Earth Intelligence"
+  authors: "Àlex R. Atrio, Antonio Lopez, Jino Rohit, Yassine El Ouahidi, Marcello Politi, Vijayasri Iyer, Umar Jamil, Sébastien Bratières, Nicolas Longépé"
+- title: "OSyTa: Optimizer-based System for Table Generation from Documents"
+  authors: "Gyanendra Shrestha, Todor Ivanov, Karthik Vemireddy, Anna Pyayt, Michael Gubanov"
+- title: "Harmonizing Dense and Sparse Signals in Multi-turn RL: Dual-Horizon Credit Assignment for Industrial Sales Agents"
+  authors: "Haojin Yang, Ai Jian, Yiwei Wang, Xinyue Huang, Weipeng Zhang, Ke Zeng, Xunliang Cai, Jingqing Ruan"
+- title: "Know What You See: Grounded localization of product components"
+  authors: "Manan Soni, Abinesh Kanagarajan, Shyam Mohan"
+- title: "SCAIR: Schema-Conditioned Agentic Iterative Reasoning for Enterprise Knowledge Graphs"
+  authors: "Prateek Chaturvedi, Yuqicheng Zhu, Hongkuan Zhou, Dongzhuoran Zhou, Yunjie He, Steffen Staab, Fei Du, Jie Tang, Evgeny Kharlamov"
+- title: "FROST: Factual Reasoning via Optimized Stochastic Trajectories in Large Language Models during Inference"
+  authors: "Soumedhik Bharati, Ebad Shabbir, Jiechao Gao"
+- title: "SchemaRAG: Dynamic Large Schema Reduction for LLM-driven Structured Information Extraction"
+  authors: "Sin Yu Bonnie Ho, Arlie Coles, Erik Larsson, Eric Marshall, Nathan Bodenstab, Paul Vozila"
+- title: "DQA: Diagnostic Question Answering for IT Support"
+  authors: "Vishaal Kapoor, Mariam Dundua, Evren Yortucboylu, Sarthak Ahuja, Rebecca Steinert, Vaibhavi padala, Neda Kordjazi, Derek Ho, Yiming Li, Jennifer Whitted"
+- title: "Agentic Economic Modeling"
+  authors: "Bohan Zhang, Jiaxuan Li, Ali Hortacsu, Xiaoyang Ye, Victor Chernozhukov, Anqi Ni, Edward W Huang"
+- title: "Robust Explanations for User Trust in Enterprise NLP Systems"
+  authors: "Guilin Zhang, Kai Zhao, Jeffrey Friedman, Xu Chu, Amine Anoun"
+- title: "VEG: Verbal ε-greedy for Semantic Exploration in Multi-Turn RL Agents"
+  authors: "Yongchang Hao, Jie Hao, Yongsheng Mei, Ze Ye, Junyi Chai, Bin Guo, Benjamin Z. Yao, Chenlei Guo, Lili Mou"
+- title: "FlowHN: Adaptive Token Routing for Efficient Parallel Hybrid Networks"
+  authors: "Mohammad Mahdi Moradi, Walid Ahmed, Shuangyue Wen, Sudhir Mudur, Weiwei Zhang, Yang Liu"
+- title: "MemoPhishAgent: Memory-Augmented Multi-Modal LLM Agent for Phishing URL Detection"
+  authors: "Xuan Chen, Hao Liu, Tao Yuan, Mehran Kafai, Piotr Habas, Xiangyu Zhang"
+- title: "Adaptive Weighted Proxy Tuning: Efficient Gray-Box Steering for Image Captioning"
+  authors: "Nafew Azim, Fuad Rahman, Nabeel Mohammed"
+- title: "CLARITY: A Framework and Benchmark for Conversational Language Ambiguity and Unanswerability in Interactive NL2SQL Systems"
+  authors: "Tabinda Sarwar, Farhad Moghimifar, Cong Duy Vu Hoang, Xiaoxiao Ma, Shawn Chang Xu, Fahimeh Saleh, Poorya Zaremoodi, Avirup Sil, Katrin Kirchhoff"
+- title: "Toward Scalable Verifiable Reward: Proxy State-Based Evaluation for Multi-turn Tool-Calling LLM Agents"
+  authors: "Yun-Shiuan Chuang, Chaitanya Kulkarni, Alec M. Chiu, Avinash Thangali, Zijie Pan, Shivani Shekhar, Yirou Ge, Yixi Li, Uma Kona, Linsey Pang, Prakhar Mehrotra"
+- title: "Ada-RS: Adaptive Rejection Sampling for Selective Thinking"
+  authors: "Yirou Ge, Yixi Li, Alec M. Chiu, Shivani Shekhar, Zijie Pan, Avinash Thangali, Yun-Shiuan Chuang, Chaitanya Kulkarni, Uma Kona, Linsey Pang, Prakhar Mehrotra"
+- title: "IPS: In-Prompt Process Supervision for Short Video Content Moderation"
+  authors: "Mingchao Liu, Yu Sun, Ruixiao Sun, Xin Dong, Xiang Shen, Hongwei Wang, Hongyu Xiong, Yang Song"
+- title: "RedOne 2.0: Rethinking Domain-specific LLM Post-Training in Social Networking Services"
+  authors: "Fei zhao, Chonggang Lu, Haofu Qian, Fangcheng Shi, Zijie Meng, Jianzhao Huang, Zheyong Xie, Shaosheng Cao"
+- title: "How to Train a Real-World Silicon Concierge? Internalizing Complex Business Workflow to Only OneModel"
+  authors: "Yongqi Tong, Xiaoyun Feng, Lyuxin Xue, JIANSHE LI, Xin Zhang, Jiang-Ming Yang"
+- title: "FinRAG-12B: A Production-Validated Recipe for Grounded Question Answering in Banking"
+  authors: "Denys Katerenchuk, Pablo Duboue, Keelan Evanini"
+- title: "CascadeDebate: Multi-Agent Deliberation for Cost-Aware LLM Cascades"
+  authors: "Raeyoung Chang; Dongwook Kwon; Jisoo Lee; Nikhil Verma"
+- title: "SemViQA: A Semantic Question Answering System for Vietnamese Information Fact-Checking"
+  authors: "Dien X. Tran, Nam V. Nguyen, Tran Tan Thanh, Anh T. Hoang, Dương Văn Tài, Lê Thanh Di, Phuc-Lu Le"
+- title: "SimRPD: Optimizing Recruitment Proactive Dialogue Agents through Simulator-Based Data Evaluation and Selection"
+  authors: "Zhiyong Cao, Dunqiang Liu, Qi Dai, Haojun Xu, Huai Yuen Khor, Hao Wang, Huan He, Yafei Liu, Ke Ma, Ruqian Shi, Sicheng Zhou, Sijia Yao"
+- title: "ProductResearch: Training E-Commerce Deep Research Agents via Multi-Agent Synthetic Trajectory Distillation"
+  authors: "Jiangyuan Wang, Kejun Xiao, Huaipeng Zhao, Tao Luo, Xiaoyi Zeng"
+- title: "ReList: A Multi-objective Reasoning Framework for Diversified Listwise Query Recommendation"
+  authors: "Shuxian Bi, Chenxu Wang, Wenjie Wang, Yueqi Mou, Fuli Feng, Tang Biao, Peng Yan"
+- title: "Optimal Expert-Attention Allocation in Mixture-of-Experts: A Scalable Law for Dynamic Model Design"
+  authors: "Junzhuo Li, Peijie Jiang, Changxin Tian, Jia Liu, Zhiqiang Zhang, Xuming Hu"
+- title: "A Multistage Extraction Pipeline for Long Scanned Financial Documents: An Empirical Study in Industrial KYC Workflows"
+  authors: "Han Yuxuan, Yuanxing Zhang, Yushuo Wang, Yichao Jin"
+- title: "Effective Performance Measurement: Challenges and Opportunities in KPI Extraction from Earnings Calls"
+  authors: "Rasmus T. Aavang, Rasmus Tjalk-Bøggild, Alexandre Iolov, Giovanni Rizzi, Mike Zhang, Johannes Bjerva"
+- title: "Structure-Guided Entity Resolution: Fine-Tuning LLMs for Robust Name Matching in Complex Linguistic Contexts"
+  authors: "Shivam Chourasia, Hitesh Kapoor, Nilesh Patil"
+- title: "Accurate Legal Reasoning at Scale: Neuro-Symbolic Offloading and Structural Auditability for Robust Legal Adjudication"
+  authors: "Stanisław Sójka, Witold Kowalczyk"
+- title: "CI-Work: Benchmarking Contextual Integrity in Enterprise LLM Agents"
+  authors: "Wenjie Fu, Xiaoting Qin, Jue Zhang, Qingwei Lin, Lukas Wutschitz, Robert Sim, Saravan Rajmohan, Dongmei Zhang"
+- title: "From Pixels to Policies: Reinforcing Spatial Reasoning in Language Models for Content-Aware Layout Design"
+  authors: "Sha Li, Stefano Petrangeli, Yu Shen, Xiang Chen"
+- title: "Practical Guidelines for Model Merging in LLMs Pre-Training"
+  authors: "Giuseppe Curci, Stefano Simonazzi, Andrea Molinari, Andrea Zugarini"
+- title: "Are Large Language Models Economically Viable for Industry Deployment?"
+  authors: "Abdullah Mohammad, Sushant Kumar Ray, Pushkar Arora, Rafiq Ali, Ebad Shabbir, Gautam Siddharth Kashyap, Jiechao Gao, Usman Naseem"
+- title: "Let LLM Tutors Ask First: Proactive LLM-Based Tutoring at Scale in a 1,500-Student Online Classroom"
+  authors: "Jonghoon Lee, Geonjae Youn, Seongmin Lee, Chaemoon Im, Joongheon Kim, Chuck Yoo"
+- title: "Hierarchical Reason-of-Contact Detection in Retail Banking Customer Interactions via LLM-Driven Taxonomy Induction"
+  authors: "Yoages Kumar Mantri,, Sriraja Yagneswaran, John Hartley, Greig Cowan, Raad Khraishi, Abhinav Gupta"
+- title: "Fanar-Sadiq: A Multi-Agent Architecture for Grounded Islamic QA"
+  authors: "Ummar Abbas, Mourad Ouzzani, Mohamed Y. Eltabakh, Omar Sinan, Gagan Bhatia, Hamdy Mubarak, Majd Hawasly, Mohammed Qusay Hashim, Kareem Mohamed Darwish, Firoj Alam"
+- title: "GuideTree: Guideline-Induced Review Trees for Long Medical Records"
+  authors: "Chengze Ge, Ruiqing Zhang, Yining Wang, Shengping Liu, Jiaen Liang, Wei Huang, Weihua Chen"
+- title: "Automatic Prompt Engineering for Scalable Prompt Inversion in Text-to-Image Ad Generation"
+  authors: "Zixin Ding, Qi Zeng, Boying Gong, Wenlong Deng, Bo Pan, Yuxin Chen"
+- title: "Efficient Agent Evaluation via Diversity-Guided User Simulation"
+  authors: "Itay Nakash, George Kour, Ateret Anaby Tavor"
+- title: "What Question Did You Answer? Refining Contact Center Evaluation Plans via Backward Questions"
+  authors: "Prajwal Sood, Rushikesh Pawar, Digvijay Anil Ingle, Anup Pattnaik"
+- title: "Natural-Language Policies to Executable Decisions: An Interpretable Large Language Model Framework"
+  authors: "Ziqiang Zhang, Jing Ma, Zilong Wang, Jiayuan Chen, Yi Qiao, Dai Cheng, Yu He, Wei Zhang, Xiaoyu Shen"
+- title: "Diagnose, Then Repair: A Two-Stage MQM-Guided Post-Editing Framework for Domain-Specific Machine Translation"
+  authors: "Ji Hun Wang, Siyu Wu"
+- title: "Don’t Stop Early: Scalable Enterprise Deep Research with Controlled Information Flow and Evidence-Aware Termination"
+  authors: "Prafulla Kumar Choubey, Kung-Hsiang Huang, Pranav Narayanan Venkit, Jiaxin Zhang, Vaibhav Vats, Yu Li, XIANGYU PENG, Chien-Sheng Wu"
+- title: "FinHarmBench: Financial Jailbreak Benchmark and Unsupervised Safety Fine-Tuning via Refusal Steering Distillation"
+  authors: "Yubin Choi, Yujin Yang"
+- title: "PAR2-RAG: Planned Active Retrieval and Reasoning for Multi-Hop Question Answering"
+  authors: "Rongguang Wang"
+- title: "*OmniOData*: Unleashing Small Language Models for OData Query Generation with Synthetic Data and Reinforcement Learning"
+  authors: "Tao Bai, Zhaochen Li, Hongxin Shao, Daniel Dahlmeier"
+- title: "LegalDrill: Diagnosis-Driven Synthesis for Legal Reasoning in Small Language Models"
+  authors: "Tianchun Li, Haochen Liu, Vishwa Pardeshi, Xingchen Wang, Tianci Liu, Huijun Zhao, Wei Fan, Jing Gao"
+- title: "From TextBlob to LLM Agents: Sentiment Model Selection for B2B Technical Support with CSAT Ground Truth"
+  authors: "Pedro Vidigal"
+- title: "A Novel Matching Paradigm: Unified Generative and Discriminative LLM with Prompt Compression for Relevance Learning"
+  authors: "Guoliang Zhao, Zixin Cui, Chao Ye, Dengwu He, Fei Huang, Yubo Liu, Shuanglong Li, Zongren Guo, Bin Ding, Shuang Zhang, Kunhong Zhu, Zhi Guo, Lin Liu"
+- title: "Rethinking Scale: Deployment Trade-offs of Small Language Models under Agent Paradigms"
+  authors: "Xinlin Wang"
+- title: "ThLexGraph: A Production Knowledge Graph Unifying Thailand’s Legal System"
+  authors: "Pawitsapak Akarajaradwong, Sarana Nutanong, Chompakorn Chaksangchaichot"
+- title: "Modular Monolingual Adaptation using Pretrained Language Models"
+  authors: "Nalin Kumar, Ondrej Dusek"
+- title: "Multi-Task Reinforcement Learning for Enhanced Multimodal LLM-as-a-Judge"
+  authors: "Junjie Wu, Xuan Kan, Zihao He, Shunwen Tan, Bo Pan, Kaitai Zhang"
+- title: "RAPIDS: Resume Attack Prompt Injection Detection at Scale"
+  authors: "Yohann Augey, Joshua H. Levy, Arda Akdemir"
+- title: "No Innocence in Styling: Discovery of Privacy Protection Capabilities and Security Risks in Consumer Generative AI Writing Assistants"
+  authors: "Mohd. Farhan Israk Soumik, SYED MHAMUDUL HASAN, Wanniarachchi Kankanamge Malithi Mithsara, Ahmed Imteaj, Abdur R. Shahid"
+- title: "RouteLMT: Learned Sample Routing for Hybrid LLM Translation Deployment"
+  authors: "Yingfeng Luo, Hongyu Liu, DingYang Lin, Kaiyan Chang, Chenglong Wang, Bei Li, Quan Du, Tong Xiao, JingBo Zhu"
+- title: "Intent-Driven Semantic ID Generation for Grounded Conversational News Recommendation"
+  authors: "Hongyang Su, Beibei Kong, Lei Cheng, Chengxiang Zhuo, Zang Li, Chenyun Yu"
+- title: "Development and Benchmarking of a Blended Human-AI Qualitative Research Assistant"
+  authors: "Joseph Matveyenko; James Liu; John David Parsons; Ryan A. Brown; Alina I. Palimaru; Vipul Gupta; Prateek Puri"
+- title: "Entity Exchange in the Wild: A Diagnostic Study of LLM Based Real-World Conversational Entity Extraction"
+  authors: "Soumya Jain, Ayush Kumar"
+- title: "Agentic Context Strategies for Multi-Format Document Understanding: When Should Language Models Use Tools?"
+  authors: "Mukul Singh, Mansi Uniyal, Ryan Nadel"
+- title: "MM-BizRAG: Rethinking Multimodal Retrieval-Augmented Generation for General Purpose Enterprise Q&A"
+  authors: "Hanoz Bhathena, Parin Rajesh Jhaveri, Rohan Mittal, Prateek Singh, Aymen Kallala, Rachneet Kaur, Yiqiao Jin, Zhen Zeng, Adwait Ratnaparkhi, Denis Kochedykov"
+- title: "AesX: Enhance Your Images with Stunning Aesthetic Beauty"
+  authors: "Yuyan Chen, Zhendong Hou, Lei Xia, Jiahao Li, Zhuolin Ji, Zhixu Li"
+- title: "Transfer Learning for Generalizable Automated LLM Improvement Pipeline for IVR Navigation"
+  authors: "Vishal Sankar Ram, Jason Kushner, Manas Paldhe, Youngseo Son"
+- title: "Beyond Instruction Optimization: Multi-Agent Error-Driven Class Description Refinement for LLM-Based Classification"
+  authors: "Hamvir Dev, Shivam Ratnakant Mhaskar, Sasanka Vutla, Anup Pattnaik"
+- title: "TEN: Table Explicitization, Neurosymbolically"
+  authors: "Nikita Mehrotra, Aayush Kumar, Sumit Gulwani, Arjun Radhakrishna, Ashish Tiwari"
+- title: "RADAR: Risk-Aware Distilled Adaptive Routing for Efficient Short-Form Video Platform Ecosystem Governance"
+  authors: "Baoyu Jing, Zixuan Wang, Junwen Chen, Xin Dong, Bingfeng Deng, Kun Xu"
+- title: "From Graph to Text and Back: Semantic Fidelity in Automated Industrial Knowledge Graphs"
+  authors: "Kamyar Zeinalipour, Silvia Severini, Alessia Borghini, Sara Cardarelli, Marco Maggini, Marco Gori"
+- title: "Learning Selective LLM Autonomy from Copilot Feedback in Enterprise Customer Support Workflows"
+  authors: "Nikita Borovkov, Elisei Rykov, Olga Tsymboi, Sergei Filimonov, Nikita Surnachev, Dmitry Bitman, Anatolii Potapov"
+- title: "Prompt-Level Distillation: A Non-Parametric Alternative to Model Fine-Tuning for Efficient Reasoning"
+  authors: "Sanket Badhe, Deep Shah"
+- title: "MTIVE: Multi-Task Image Verification Engine Using Vision-Language Models for E-commerce"
+  authors: "Yu-Tong Cao, Vishnu Prabhakaran, Arunita Das, Purav Aggarwal, Anoop Saladi"
+- title: "Measuring and Mitigating Racial Bias in Embedding Models: A Comparative Study for Law Enforcement Retrieval"
+  authors: "Archan Dutta"
+- title: "VishBox v2: A Multi-Agent System for Real-time Adaptive Voice Phishing Simulation"
+  authors: "Sungmi Park, Daon Choi, YOONMO YANG, Hong Yunyi, Heedou Kim"
+- title: "ResoDiff-44k: High-Fidelity Cross-Lingual Speech and Singing Synthesis via Discrete Diffusion"
+  authors: "Gyanendra Das, Sai Satyam Jena"
+- title: "TingIS: Real-time Risk Event Discovery from Noisy Customer Incidents at Enterprise Scale"
+  authors: "Jun Wang, Ziyin Zhang, Rui Wang, Hang Yu, Peng Di, Rui Wang"
+- title: "LoCar: Localization-Aware Evaluation of In-Vehicle Assistants through Fine-Grained Sociolinguistic Control"
+  authors: "Seogyeong Jeong, Kiwoong Park, Seyoung Song, Eunsu Kim, Ken Friedl, Jaeho Kim, Alice Oh"
+- title: "Index-Time Prefix Injection for Multi-Tenant Retrieval: Improving Search Relevance Without Model Fine-Tuning"
+  authors: "Vaibhav Varshney, Manjunatha Naik MC"
+- title: "Benchmarking Testing in Automated Theorem Proving"
+  authors: "Jongyoon_Kim1, Hojae_Han1, seung-won_hwang2"
+- title: "Graph-Based Phonetic Error Correction of Noisy ASR"
+  authors: "Pratik Rakesh Singh, Mohammadi Zaki, Aneesh Mukkamla, Pankaj Wasnik"
+- title: "CAT: Confidence-Adaptive Thinking for Efficient Reasoning of Large Reasoning Models"
+  authors: "Qizhi Jiang, Shuo Wang, Pei Ke, Yuhang Song, Ke Qin"
+- title: "LatentGate: Low-Latency Semantic Routing via Frozen-Backbone Probing of Small Language Models"
+  authors: "Shivam Ratnakar, Abhiroop Talasila, Vinayak K Doifode"
+- title: "Thinking with Reasoning Skills: Fewer Tokens, More Accuracy"
+  authors: "Guangxiang Zhao, Qilong Shi, Xiangzheng Zhang, Xusen Xiao, Tong Yang, Lin Sun"
