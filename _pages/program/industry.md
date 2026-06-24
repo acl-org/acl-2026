@@ -1,5 +1,5 @@
 ---
-title: Industry Track
+title: Accepted Industry Track Papers
 layout: single
 excerpt: "Accepted Industry Track Papers of ACL 2026"
 permalink: /program/industry/
@@ -9,4 +9,6 @@ toc: True
 toc_sticky: True
 ---
 
-Coming soon!
+{% for paper in site.data.papers_industry %}
+  - **{{ paper.title }}**<br>*{{ paper.authors }}*
+{% endfor %}

@@ -54,6 +54,12 @@ program:
         url: /program/industry/
       - title: "System Demonstrations"
         url: /program/demo/
+      - title: "CL Papers"
+        url: /program/cl_papers/
+      - title: "TACL Papers"
+        url: /program/tacl_papers/
+      - title: "Student Research Workshop"
+        url: /program/srw_papers/
 
   - title: "Awards"
     children:

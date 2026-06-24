@@ -10,5 +10,5 @@ toc_sticky: True
 ---
 
 {% for paper in site.data.papers_main %}
-  - **{{ paper.title }}**<br>*{ paper.authors }*
+  - **{{ paper.title }}**<br>*{{ paper.authors }}*
 {% endfor %}

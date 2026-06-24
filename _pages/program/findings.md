@@ -1,5 +1,5 @@
 ---
-title: Findings
+title: Accepted Findings Papers
 layout: single
 excerpt: "Accepted Findings Papers of ACL 2026"
 permalink: /program/findings/
@@ -9,4 +9,6 @@ toc: True
 toc_sticky: True
 ---
 
-Coming soon!
+{% for paper in site.data.papers_findings %}
+  - **{{ paper.title }}**<br>*{{ paper.authors }}*
+{% endfor %}
