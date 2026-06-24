@@ -15,8 +15,14 @@ srw_papers = []
 demo_papers = []
 findings_papers = []
 
+# for detecting duplicates
+paper_titles = set()
+paper_authors = set()
+
+# first read the papers from the CSV
 with open(sys.argv[1]) as csvfile:
   reader = csv.reader(csvfile)
+  # find the header row to determine the correct column indices
   for row in reader:
     try:
       paper_id_col = row.index('Paper number')
@@ -31,6 +37,7 @@ with open(sys.argv[1]) as csvfile:
     print('ERROR: Unable to find header row.')
     sys.exit()
 
+  # read the paper IDs, titles, and authors from each subsequent row
   min_column_count = max(paper_id_col, paper_title_col, paper_authors_col)
   num_papers_extracted = 0
   for row in reader:
@@ -45,6 +52,8 @@ with open(sys.argv[1]) as csvfile:
 
     if authors[-1] == ';':
       authors = authors[:-1]
+    title = title.replace('"', '\\"')
+    authors = authors.replace('"', '\\"')
 
     if '\\' in title or '\\' in authors or '$' in title or '$' in authors:
       print(f'WARNING: Detected \\ in paper with ID "{paper_id}".')
@@ -78,6 +87,13 @@ with open(sys.argv[1]) as csvfile:
       print(f'  Title: "{title}"')
       print(f'  Authors: "{authors}"')
       continue
+
+    if title in paper_titles:
+      print(f'WARNING: Found paper with duplicate title "{title}".')
+      continue
+    if authors in paper_authors:
+      print(f'WARNING: Found paper with duplicate list of authors "{authors}".')
+      continue
     num_papers_extracted += 1
 
   print(f'Successfully extracted {num_papers_extracted} papers.')
@@ -91,6 +107,7 @@ def write_papers_to_yml(papers, ymlpath):
       num_papers_written += 1
     print(f'Successfully wrote {num_papers_written} papers to "{ymlpath}".')
 
+# write the extracted papers to the appropriate YML output file
 write_papers_to_yml(cl_papers, '_data/papers_cl.yml')
 write_papers_to_yml(tacl_papers, '_data/papers_tacl.yml')
 write_papers_to_yml(main_papers, '_data/papers_main.yml')
