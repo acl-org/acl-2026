@@ -190,8 +190,8 @@ Contact: [acl2026srwchairs@gmail.com](mailto:acl2026srwchairs@gmail.com)
     name="Jia Xu"
     picture="/assets/images/committee/Jia_Xu.jpg"
     site=""
-    institution="Stevens Institute of Technology"
-    email = "jxu70@stevens.edu"
+    institution="Rutgers University"
+    email = "xujjia@gmail.com"
 %}
 
 {% include committee-member.html
