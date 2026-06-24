@@ -1,5 +1,5 @@
 ---
-title: System Demonstrations
+title: Accepted System Demonstrations Papers
 layout: single
 excerpt: "Accepted System Demonstration Papers of ACL 2026"
 permalink: /program/demo/
