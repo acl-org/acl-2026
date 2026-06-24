@@ -492,3 +492,34 @@ Contact: [acl-2026-visa-chairs@googlegroups.com](mailto:acl-2026-visa-chairs@goo
     institution="University of Copenhagen"
     email = "augenstein@di.ku.dk"
 %}
+
+<h2>ARR Editors-in-Chief</h2>
+
+{% include committee-member.html
+    name="Sarvnaz Karimi"
+    picture="/assets/images/committee/Sarvnaz_Karimi.jpg"
+    site=""
+    institution="Monash University and CSIRO"
+    email = "sarvnaz.karimi@data61.csiro.au"
+%}
+{% include committee-member.html
+    name="Vincent Ng"
+    picture="/assets/images/committee/Vincent_Ng.jpg"
+    site=""
+    institution="University of Texas at Dallas"
+    email = "vince@hlt.utdallas.edu"
+%}
+{% include committee-member.html
+    name="Xiaodan Zhu"
+    picture="/assets/images/committee/Xiaodan_Zhu.jpg"
+    site=""
+    institution="Queen's University"
+    email = "xiaodan.zhu@queensu.ca"
+%}
+{% include committee-member.html
+    name="Margot Mieskes"
+    picture="/assets/images/committee/Margot_Mieskes.jpg"
+    site=""
+    institution="University of Applied Sciences, Darmstadt"
+    email = "margot.mieskes@h-da.de"
+%}
