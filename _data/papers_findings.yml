@@ -1,4 +1,4 @@
-- title: I Don't Need Solution. I Need Emotional Support \n : Empathetic LLMs based on Emotional Validation
+- title: I Don't Need Solution. I Need Emotional Support: Empathetic LLMs based on Emotional Validation
   authors: Suhyune Son, Jungwoo Lim, Myunghoon Kang, Seongtae Hong, Yuna Hur, Evelyn H. Zi, Heuiseok Lim
 - title: Extraction of Texters' Explicit Emotion Expressions in Crisis Conversations
   authors: Greg Buda, Ignacio J. Tripodi, Kelly L. Zuromski, Margaret Meagher, Elizabeth A. Olson
@@ -1326,7 +1326,7 @@
   authors: Ziniu Liu, Shuheng Zhou, Mingqing Liu, Hao Deng, Huijia Zhu
 - title: Beyond Topology: Generative Node Importance Estimation via Structure-Guided Semantic Reasoning
   authors: Kuofei Fang, Siyan WuGuo Yu Bin Wu
-- title: AGT\textsuperscript{AO}: Robust and Stabilized LLM Unlearning via Adversarial Gating Training with Adaptive Orthogonality
+- title: AGTᴬᴼ: Robust and Stabilized LLM Unlearning via Adversarial Gating Training with Adaptive Orthogonality
   authors: Pengyu Li, Lingling Zhang, Zhitao Gao, Yanrui Wu, Yuxuan Dong, Huan Liu, Bifan Wei, Jun Liu
 - title: LLMs Meet Isolation Kernel: Lightweight, Learning-free Binary Embeddings for Fast Retrieval
   authors: Zhibo Zhang, Yang Xu, Kai Ming Ting, Cam-Tu Nguyen
@@ -1980,7 +1980,7 @@
   authors: Zhuoshang Wang, Yubing Ren, Yanan Cao, Fang Fang, Xiaoxue Li, Li Guo
 - title: Deputy: Accelerating Large Language Model Inference with Dynamic Low-Rank Substitution
   authors: Yuhua Zhou, Shichao Weng, Changhai Zhou, Yuhuan Wu, Qian Qiao, Jun Gao, Fei Yang, Aimin Pan
-- title: SGG-R$^{\rm 3}$: From Next-Token Prediction to End-to-End Unbiased Scene Graph Generation
+- title: SGG-R³: From Next-Token Prediction to End-to-End Unbiased Scene Graph Generation
   authors: Jiaye Feng, Qixiang Yin, Yuankun Liu, Tong Mo, Weiping Li
 - title: Preserving Fairness and Safety in Quantized LLMs Through Critical Weight Protection
   authors: Muhammad Alif Al Hakim, Alfan Farizki Wicaksono, Fajri Koto
@@ -2336,7 +2336,7 @@
   authors: Xu Shen, Qi Zhang, Song Wang, Zhen Tan, Xinyu Zhao, Laura Yao, Vaishnav Tadiparthi, Hossein Nourkhiz Mahjoub, Ehsan Moradi Pari, Kwonjoon Lee, Tianlong Chen
 - title: DualGuard: Dual-stream Large Language Model Watermarking Defense against Paraphrase and Spoofing Attack
   authors: Hao Li, Yubing Ren, Yanan Cao, Yingjie Li, Fang Fang, Shi Wang, Li Guo
-- title: $\texttt{PeerCheck}$: Enhancing LLM-Generated Academic Reviews Towards Human-Level Quality
+- title: *PeerCheck*: Enhancing LLM-Generated Academic Reviews Towards Human-Level Quality
   authors: Zeyuan Chen, Ziqing Yang, Yihan Ma, Michael Backes, Yang Zhang
 - title: MorphoBench: A Benchmark with Difficulty Adaptive to Model Reasoning
   authors: Xukai Wang, Xuanbo Liu, Mingrui Chen, Haitian Zhong, Xuanlin Yang, Bohan Zeng, Jinbo Hu, Hao Liang, Junbo Niu, Xuchen Li, Ruitao Wu, Ruichuan An, Yang Shi, Liu Liu, Qiang Liu, Zhouchen Lin, Xu-Yao Zhang, Wentao Zhang, Bin Dong
@@ -2738,7 +2738,7 @@
   authors: Deok-Hyeon Cho, Hyung-Seok Oh, Seung-Bin Kim, Seong-Whan Lee
 - title: Reasoning-Guided Exploration for Online DPO
   authors: Zetian Hu, Shunyu Liu, Ting-En Lin, Fei Huang, Yongbin Li, Dacheng Tao
-- title: CAPA: Contribution-Aware Pruning and FFN Approximation\\for Efficient Large Vision-Language Models
+- title: CAPA: Contribution-Aware Pruning and FFN Approximation for Efficient Large Vision-Language Models
   authors: Samyak Jha, Junho Kim
 - title: Strong Reasoning Isn’t Enough: Evaluating Evidence Elicitation in Interactive Diagnosis
   authors: Zhuohan Long, Zhongyu Wei

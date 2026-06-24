@@ -42,7 +42,7 @@
   authors: Zhihao Lin, Ziqi Zhu, Hao Huang, Guanghui Wang, Peiyang He
 - title: SSR-A: Spatial- and Semantic-Aware Instructions and Curriculum Reinforcement for Advertisement Compliant Rectification
   authors: Te Cao, Mengge Xue, Zhenyu Hu, Yuan Chen, Liqun Liu, Peng Shu, Huan Yu, Jie Jiang
-- title: $\mathcal{R}^3$: Advertisement Compliance $\mathcal{R}$ectification via Group-$\mathcal{R}$elative Experience Extractor and Curriculum $\mathcal{R}$einforcement
+- title: ℛ³: Advertisement Compliance ℛectification via Group-ℛelative Experience Extractor and Curriculum ℛeinforcement
   authors: Yuan Chen, zhenyu hu, Mengge Xue, Cao Te, Liqun Liu, Peng Shu, Huan Yu, Jie Jiang
 - title: GrocLM: Grocery Category Recommendation in E-Commerce with Large Language Models
   authors: Yuan Zhong, Chuanwei Ruan, Moein Hasani, Tejaswi Tenneti, Haixun Wang, Fenglong Ma
@@ -158,7 +158,7 @@
   authors: Bohan Zhang, Jiaxuan Li, Ali Hortacsu, Xiaoyang Ye, Victor Chernozhukov, Anqi Ni, Edward W Huang
 - title: Robust Explanations for User Trust in Enterprise NLP Systems
   authors: Guilin Zhang, Kai Zhao, Jeffrey Friedman, Xu Chu, Amine Anoun
-- title: VEG: Verbal $\epsilon$-greedy for Semantic Exploration in Multi-Turn RL Agents
+- title: VEG: Verbal ε-greedy for Semantic Exploration in Multi-Turn RL Agents
   authors: Yongchang Hao, Jie Hao, Yongsheng Mei, Ze Ye, Junyi Chai, Bin Guo, Benjamin Z. Yao, Chenlei Guo, Lili Mou
 - title: FlowHN: Adaptive Token Routing for Efficient Parallel Hybrid Networks
   authors: Mohammad Mahdi Moradi, Walid Ahmed, Shuangyue Wen, Sudhir Mudur, Weiwei Zhang, Yang Liu
@@ -232,7 +232,7 @@
   authors: Yubin Choi, Yujin Yang
 - title: PAR2-RAG: Planned Active Retrieval and Reasoning for Multi-Hop Question Answering
   authors: Rongguang Wang
-- title: $\texttt{OmniOData}$: Unleashing Small Language Models for OData Query Generation with Synthetic Data and Reinforcement Learning
+- title: *OmniOData*: Unleashing Small Language Models for OData Query Generation with Synthetic Data and Reinforcement Learning
   authors: Tao Bai, Zhaochen Li, Hongxin Shao, Daniel Dahlmeier
 - title: LegalDrill: Diagnosis-Driven Synthesis for Legal Reasoning in Small Language Models
   authors: Tianchun Li, Haochen Liu, Vishwa Pardeshi, Xingchen Wang, Tianci Liu, Huijun Zhao, Wei Fan, Jing Gao
