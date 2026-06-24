@@ -2,7 +2,7 @@
 title: Accepted Student Research Workshop Papers
 layout: single
 excerpt: "Accepted Student Research Workshop Papers of ACL 2026"
-permalink: /program/tacl_papers/
+permalink: /program/srw_papers/
 sidebar:
   nav: "program"
 toc: True
