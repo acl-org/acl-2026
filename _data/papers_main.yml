@@ -2146,7 +2146,7 @@
   authors: Wonduk Seo, Juhyeon Lee, Yanjun Shao, Qingshan Zhou, Seunghyun lee, Yi Bu
 - title: Comparing human and language models sentence processing difficulties on complex structures
   authors: Samuel Joseph Amouyal, Aya Meltzer-Asscher, Jonathan Berant
-- title: \texttt{Phun-Bench}: Evaluating LLMs on Phonological Understanding in Chinese
+- title: *Phun-Bench*: Evaluating LLMs on Phonological Understanding in Chinese
   authors: Xing Yue, Yongliang Shen, Weiming Lu
 - title: Causal2Vec: Improving Decoder-only LLMs as Embedding Models through a Contextual Token
   authors: Ailiang Lin, Zhuoyun Li, Yusong Wang, Kotaro Funakoshi, Manabu Okumura
@@ -2550,7 +2550,7 @@
   authors: Zekun Li, Jifan Yu, Haoxuan Li, Ye He, Daniel Zhang-Li, Shangqing Tu, Joy Jia Yin Lim, Yikun Jiang, Jiaxin Yuan, Yu Zhang
 - title: LLM Reasoning as Trajectories: Step-Specific Representation Geometry and Correctness Signals
   authors: Lihao Sun, Hang Dong, Bo Qiao, Qingwei Lin, Dongmei Zhang, Saravan Rajmohan
-- title: A Data-Efficient Path to Multilingual LLMs: Language Expansion via Post-training PARAM$\Delta$ Integration into Upcycled MoE
+- title: A Data-Efficient Path to Multilingual LLMs: Language Expansion via Post-training PARAMΔ Integration into Upcycled MoE
   authors: Hao Zhou, Tianhao Li, Zhijun Wang, Shuaijie She, Linjuan Wu, Hao-Ran Wei, Baosong Yang, Jiajun Chen, Shujian Huang
 - title: The Evolution of Thought: Tracking LLM Overthinking via Reasoning Dynamics Analysis
   authors: Zihao Wei, Liang Pang, Jiahao Liu, Wenjie Shi, Jingcheng Deng, Shicheng Xu, Zenghao Duan, Jingang Wang, Fei Sun, Huawei Shen, Xueqi Cheng
@@ -3410,7 +3410,7 @@
   authors: Subham Raj, Aman Vaibhav Jha, Mayank Anand, Sriparna Saha
 - title: ShopSimulator: Evaluating and Exploring RL-Driven LLM Agent for Shopping Assistants
   authors: Pei Wang, Yanan Wu, Xiaoshuai Song, Weixun Wang, Gengru Chen, zhongwen Li, Kezhong Yan, Qi Liu, Ken Deng, Shuaibing Zhao, Shaopan Xiong, Xuepeng Liu, Xuefeng Chen, Wanxi Deng, Wenbo Su, Bo Zheng
-- title: NL $\Rightarrow$ Schedule: Evaluate Multitask Scheduling Capability of Large Language Models
+- title: NL → Schedule: Evaluate Multitask Scheduling Capability of Large Language Models
   authors: Wenrui Liao, Weihong Du, Yi Li, Hongru Liang, Wenqiang Lei
 - title: Challenging the Explanation Based on Preceding Tokens: Discovering Transferable Non-Literal Biasing
   authors: Yuchen Huang, Junpeng Zhang, Quanshi Zhang
@@ -3970,7 +3970,7 @@
   authors: Michael Mooney, Edmond S. L. Ho
 - title: SafeMT: Multi-turn Safety for Multimodal Language Models
   authors: Han Zhu, Juntao Dai, Jiaming Ji, Haoran Li, Chengkun Cai, Pengcheng Wen, Chi-Min Chan, Boyuan Chen, Yaodong Yang, Sirui Han, Yike Guo
-- title: From $\log \pi$  to $\pi$: Taming Divergence in Soft Clipping via Bilateral Decoupled Decay of Probability Gradient Weight
+- title: From log π  to π: Taming Divergence in Soft Clipping via Bilateral Decoupled Decay of Probability Gradient Weight
   authors: Xiaoliang Fu, Jiaye Lin, Yangyi Fang, Chaowen Hu, Cong Qin, Zekai Shao, Binbin Zheng, Lu Pan, Ke Zeng
 - title: Paramanu: Compact and Competitive Monolingual Language Models for Low-Resource Morphologically Rich Indian Languages
   authors: Mitodru Niyogi, Eric Gaussier, Arnab Bhattacharya
@@ -4308,7 +4308,7 @@
   authors: Xingyu Wu, Yu Zhou, Kay Chen Tan
 - title: How Long Reasoning Chains Influence LLMs’ Judgment of Answer Factuality
   authors: Minzhu Tu, Shiyu Ni, Keping Bi
-- title: T$^\star$: Progressive Block Scaling for Masked Diffusion Language Models Through Trajectory Aware Reinforcement Learning
+- title: T*: Progressive Block Scaling for Masked Diffusion Language Models Through Trajectory Aware Reinforcement Learning
   authors: Hanchen Xia, Baoyou Chen, Yutang Ge, Guojiang Zhao, Siyu Zhu
 - title: Learning from Emptiness: De-biasing Listwise Rerankers with Content-Agnostic Probability Calibration
   authors: Hang Lv, Hongchao Gu, Ruiqing Yang, Liangyue Li, Zulong Chen, Defu Lian, Hao Wang, Enhong Chen
