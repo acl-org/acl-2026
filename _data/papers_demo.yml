@@ -1,0 +1,170 @@
+- title: Interpreto: An Explainability Library for Transformers
+  authors: Antonin Poché, Thomas Mullor, Gabriele Sarti, Frédéric Boisnard, Corentin Friedrich, Charlotte Claye, François Hoofd, Raphael Bernas, Nicholas Asher, Céline Hudelot, Fanny Jourdan
+- title: Copyright Detective : A Forensic System to Evidence LLMs Flickering Copyright Leakage Risks
+  authors: Guangwei Zhang, Jianing Zhu, Cheng Qian, Neil Zhenqiang Gong, Rada Mihalcea, Zhaozhuo Xu, Jingrui He, Jiaqi W. Ma, Chaowei Xiao, Bo Li, Ahmed Abbasi, Dongwon Lee, Heng Ji, Denghui Zhang
+- title: PROTEA: Offline Evaluation and Iterative Refinement for Multi-Agent LLM Workflows
+  authors: Kazuki Kawamura, Satoshi Waki, Kei Tateno
+- title: SymbolicThought: Integrating Language Models and Symbolic Reasoning for Consistent and Interpretable Human Relationship Understanding
+  authors: Runcong Zhao, Qinglin Zhu, Hainiu Xu, Bin Liang, Lin Gui, Yulan He
+- title: LiTS: A Modular Framework for LLM Tree Search
+  authors: Xinzhe Li, Yaguang Tao
+- title: AutoFigure-Edit: Generating Editable Scientific Illustrations via Reference-Guided Styling
+  authors: Zhen Lin, Qiujie Xie, Minjun Zhu, Shichen Li, Qiyao Sun, Enhao Gu, Yiran Ding, Ke Sun, Fang Guo, Panzhong Lu, Zhiyuan Ning, Yixuan Weng, Yue Zhang
+- title: QFinZero: A Unified Financial Toolchain for LLM-Based Trading Agents
+  authors: Haochen Luo, YIFAN LI, Ho Tin Ko, An Binh Minh, Junjie Xu, Tang Pok Hin, Wang Chak WONG, Gao Yuan, Zhengzhao Lai, Yuan Zhang, Chen Liu
+- title: dLLM: Simple Diffusion Language Modeling
+  authors: Zhanhui Zhou, Lingjie Chen, Hanghang Tong, Dawn Song
+- title: Fast-MIA: Efficient and Scalable Membership Inference for LLMs
+  authors: Hiromu Takahashi, Shotaro Ishihara
+- title: CodeDistiller: Automatically Generating Code Libraries for Scientific Coding Agents
+  authors: Peter Jansen, Samiah Hassan, Pragnya Narasimha
+- title: IDP Accelerator: Agentic Document Intelligence from Extraction to Compliance Validation
+  authors: Md Mofijul Islam, Md Sirajus Salekin, Joe King, Priyashree Roy, Vamsi Thilak Gudi, Spencer Romo, AKHIL NOONEY, Bob Strahan, Boyi Xie, Diego A. Socolinsky
+- title: AInterviewer: A Platform for Designing and Conducting AI-led Qualitative Interviews
+  authors: Tobias Gårdhus, Nikolas Vitsakis, Fie Lejre Frederiksen, Anna Rogers, Hjalmar Bang Carlsen
+- title: AutoForest: Automatically Generating Forest Plots from Biomedical Studies with End-to-End Evidence Extraction and Synthesis
+  authors: Massimiliano Pronesti, Angelo Miculescu, Mohsin Kapdi, Paul Flanagan, Oisín Redmond, Joao H Bettencourt-Silva, Gurdeep Singh Mannu, Spiros Denaxas, Rui Providencia, Anya Belz, Yufang Hou
+- title: Dash-M5H: An Interactive Dashboard for Multi-Modal, Multi-Model Mental Health Assessment
+  authors: Raymond Alavo, Xinyuan Zhang, Gemza Ademaj, Junhui Cai, Hyeokhyen Kwon, Robert Cotes, Gari Clifford, Ahmed Abbasi
+- title: MixtureKit: A General Framework for Composing, Training, and Visualizing Mixture-of-Experts Models
+  authors: Ahmad Chamma;Omar El Herraoui;Guokan Shang
+- title: Squrve: A Unified and Modular Framework for Complex Real-World Text-to-SQL Tasks
+  authors: Yihan Wang, Peiyu Liu, Runyu Chen, Jiaxing Pu, Wei Xu
+- title: RiskLab: A Controlled Toolkit for Probing Emergent Risks in LLM-Based Multi-Agent Systems
+  authors: Yue Huang, Yu Jiang, Wenjie Wang, Yanbo Wang, Zhenhong Zhou, Xiuying Chen, Yang Liu, Pin-Yu Chen, Wei Wang, Xiangliang Zhang
+- title: ArcLight: A Lightweight LLM Inference Architecture for Many-Core CPUs
+  authors: Yuzhuang Xu, Xu Han, Yuxuan Li, Wanxiang Che
+- title: DialogGuard: Multi-Agent Psychosocial Safety Evaluation Interface of Sensitive LLM Responses
+  authors: Han Luo, Guy Laban
+- title: ClinQueryAgent: A Conversational Agent for Population Health Management
+  authors: Joseph S. Boyle, Anthony Dranfield, Mike O’Neil, Maria Liakata, Alison Q. Smithard
+- title: Rankify: A Comprehensive Python Toolkit for Retrieval, Re-Ranking, and Retrieval-Augmented Generation
+  authors: Abdelrahman Abdallah, Bhawna Piryani, Jamshid Mozafari, Andreas Herzinger, Jamie Holdcroft, Adam Jatowt
+- title: ScheMatiQ: From Research Question to Structured Data through Interactive Schema Discovery
+  authors: Shahar Levy, Eliya Habba, Reshef Mintz, Barak Raveh, Renana Keydar, Gabriel Stanovsky
+- title: GovScape: A Public Multimodal Search System for 70 Million Pages of Government PDFs
+  authors: Ying-Hsiang Huang, Claire Gong, Shreya Shaji, Alison Yan, Leslie Harka, Albert Du, Anjali Gopal, Samuel Klein, Shannon Shen, Mark Phillips, Trevor Owens, Kyle Deeds, Benjamin Lee
+- title: Bridging Kernel Drivers and Virtual Device Models with LLM-Powered Automation
+  authors: Mingyu Wang, Bin Yu, Wenjian Lu, Zhi Wang, Kefeng Gao, Cheng Wen, Xu Lu, Cong Tian
+- title: BabelDOC: Better Layout-Preserving PDF Translation via Intermediate Representation
+  authors: Yang Qi, Xiangyao Ma, Xiao Wang, Hao Wang, Rui Wang
+- title: JointCoder: Exploring Automated ICD Coding on Real-World Chinese EHRs with a Multi-Agent Framework
+  authors: Kangjun Liu, Zhenyu Li, Jianlei Wang, Hongjiao Guan, Ying Lian, Guoqiang Chen, Tao Xin, Wenpeng Lu
+- title: Hindsight: Structured Agent Memory that Retains, Recalls, and Reflects
+  authors: Christopher Latimer, Nicolò Boschi, Andrew Neeser, Chris Bartholomew, Gaurav Srivastava, Xuan Wang, Naren Ramakrishnan
+- title: Semantic XPath: Structured Agentic Memory Access for Conversational AI
+  authors: Yifan Simon Liu, Ruifan W, Liam Gallagher, Jiazhou Liang, Armin Toroghi, Scott Sanner
+- title: Graph of Trace: Visualizing Execution Traces of Scientific Agents
+  authors: Haoxuan Li
+- title: ScaleBox: Enabling High-Fidelity and Scalable Code Verification for Large Language Models
+  authors: Jiasheng Zheng, Xin Zheng, Boxi Cao, Pengbo Wang, Zhengzhao Ma, Qiming Zhu, Jiazhen Jiang, Yaojie Lu, Hongyu Lin, Xianpei Han, Le Sun
+- title: DataArc-SynData-Toolkit: A Unified Closed-Loop Framework for Multi-Path, Multimodal, and Multilingual Data Synthesis
+  authors: Zhichao Shi, Cehao Yang, Hao Zhou, Xiaojun Wu, Huajie Li, Xuhui Jiang, Chengjin Xu, Yuanzhuo Wang, Jian Guo
+- title: HuoziIME: An On-Device LLM-Enhanced Input Method for Deep Personalization
+  authors: Baocai Shan, Yuzhuang Xu, Wanxiang Che
+- title: WIGVO: Real-Time Bidirectional Speech Translation over Legacy PSTN Calls via Dual-Session Echo Gating
+  authors: Hyeongseob Kim, Sang-Woo Son, Hyun-woo Cho, Hyeonsang Kim, Jinmo Kim
+- title: MASEval: Extending Multi-Agent Evaluation from Models to Systems
+  authors: Cornelius Emde, Alexander Rubinstein, Anmol Goel, Ahmed Heakl, Sangdoo Yun, Seong Joon Oh, Martin Gubri
+- title: MASFactory: A Graph-centric Framework for Orchestrating LLM-Based Multi-Agent Systems with Vibe Graphing
+  authors: Yang Liu, Jinxuan Cai, Yishen Li, Qi Meng, Zedi Liu, Xin Li, Chen Qian, Chuan Shi, Cheng Yang
+- title: FactSearch: An Interactive Fact Search and Claim-Level Verification System for Large Language Models
+  authors: Meng Fang, Harry Mackenzie
+- title: Potato 2.0: A Comprehensive Annotation Platform with AI-in-the-Loop Support
+  authors: David Jurgens, Michael Chen, Lina Iyer
+- title: mllm-shap: A Shapley Value Explainability Platform for Text-Audio Multimodal Large Language Models
+  authors: Jakub Muszyński, Paweł Pozorski, Maria Ganzha
+- title: PaperMentor: A Human-Centered Multi-Agent Writing Tutor for AI Research Papers in Overleaf
+  authors: Jiarui Liu, Terry Jingchen Zhang, Ryan Faulkner, X. Angelo Huang, Vilém Zouhar, Dominik Glandorf, Isabel Dahlgren, Rishit Dagli, Yuen Chen, Felix Leeb, Van Q. Truong, Punya Syon Pandey, Yves Bicker, Suvajit Majumder, Wenyuan Jiang, Zeju Qiu, Sankalan Pal Chowdhury, Mrinmaya Sachan, Bernhard Schölkopf, Mona T. Diab, Zhijing Jin
+- title: Gardener: An Agentic AI System for Single-Cell RNA Sequence Analysis
+  authors: Junhan Liu, Zhenke Liu, Yongcheng Shi, Peilin Yu, Minxing Zhang, Jiapeng Zhang
+- title: TokCollate: A Comprehensive Tool for Tokenizer Evaluation and Visualization across Languages
+  authors: Dušan Variš; Abishek Stephen; Jindřich Libovický
+- title: A System for Dynamically Tracking Content Moderation on Reddit
+  authors: George Baker, Bharadwaj Kadiyala
+- title: AI Steerability 360: A Toolkit for Steering Large Language Models
+  authors: Pierre Dognin
+- title: Media-to-Insights: A Multi-Agent AI System for Continuous Media Monitoring, Analysis, and Reporting
+  authors: Ashraf Hatim Elneima, Ozan Yilmaz, Hadi Nasrallah, Sanjika Hewavitharana, Mohamed Al-Badrashiny, Hassan Sawaf
+- title: LinkNav: Surfacing Interconnected Information in Scientific Articles
+  authors: Sebastian Joseph, Jennifer Healey, Junyi Jessy Li, Ani Nenkova
+- title: FourCorners: Grounded Thai Legal Research over a Temporal Knowledge Graph
+  authors: Pawitsapak Akarajaradwong, Thitiwat Nopparatbundit, Treephop Saeteng, Kasidit Phoncharoen, Sarana Nutanong, Chompakorn Chaksangchaichot
+- title: rosaOS: Agentic Operating System for Embodied LLMs
+  authors: Yijun Ge, Kushaldeep Mujral, Karthik Nambiar, Jimmy Lin
+- title: CritiSense: Critical Digital Literacy and Resilience Against Misinformation
+  authors: Firoj Alam, Fatema Ahmad, Ali Ezzat Shahroor, Mohamed Bayan Kmainasi, Elisa Sartori, Giovanni Da San Martino, Abul Hasnat, Raian Ali
+- title: MED-COPILOT: A Medical Assistant Powered by GraphRAG and Similar Patient Case Retrieval
+  authors: Shuheng Chen, Namratha Patil, Haonan Pan, Angel Hsing-Chi Hwang, Yao Du, Ruishan Liu, Jieyu Zhao
+- title: PathBuilder: A Quality-Controlled LLM System for Personalized Learning Pathways
+  authors: Jasper Arana, John Andrew Mañacop, John Allen Manacop, Roy Garcia, Keith Piniera, Kristine Carandang, Ethan Casin, Christian Alis, Christopher Monterola
+- title: AutoChecklist: Composable Pipelines for Checklist Generation and Scoring with LLM-as-a-Judge
+  authors: Karen Zhou, Chenhao Tan
+- title: JobMatchAI - An Intelligent Job Matching Platform Using Knowledge Graphs, Semantic Search and Explainable AI
+  authors: Mayank Vyas, Abhijit Chakraborty, Vivek Gupta
+- title: Qayyem: A Real-time Platform for Scoring Proficiency of Arabic Essays
+  authors: Hoor Elbahnasawi, Marwan Sayed, Sohaila Eltanbouly, Fatima Brahamia, Tamer Elsayed
+- title: PhyVer: Physics-Grounded Material Claim Verification with Multi-Fidelity Physical Evidence
+  authors: Jianpeng Che, Wangzhi Zhan, Haohui Wang, Brian Mayer, Dongqi Fu, Dawei Zhou
+- title: pAtChWoRK: Patching the Pieces of Public Procurement Documents
+  authors: Lorena Calvo-Bartolomé, Saúl Blanco Fortes, Erick Cedeño, Jerónimo Arenas-García
+- title: UltraEval-Audio: A Unified Framework for Comprehensive Evaluation of Audio Foundation Models
+  authors: Qundong Shi, Jie Zhou, Biyuan Lin, Junbo Cui, Guoyang Zeng, Yixuan Zhou, Ziyang Wang, Xin Liu, Zhen Luo, Yudong Wang, Zhiyuan Liu
+- title: Paper2Web: Let’s Make Your Paper Alive!
+  authors: Yuhang Chen, Tianpeng Lv, Yao Wan, Philip S. Yu, Dongping Chen
+- title: OxyGent: Making Multi-Agent Systems Modular, Observable, and Evolvable via Oxy Abstraction
+  authors: Junxing Hu, Tianlong Li, Lei Yu, Ai Han
+- title: EduCoder: An Open-Source Annotation System for Education Transcript Data
+  authors: Saad Ashraf, Jim Malamut, Vishal Kumar, Guanzhong Pan, HyunJi Nam, Mei Tan, Lucía Langlois, Liliana Santos-Deonizio, Helen Higgins, Dorottya Demszky
+- title: CPTCoder: A Reliable LLM System for Medical Procedure Code Prediction
+  authors: Benlu Wang, Ziyao Shangguan, Kyle Tegtmeyer, Zhenyu Zhang, Sophie Chheang, Arman Cohan
+- title: ParseJargon: Personalized Real-time Jargon Support in Online Meetings
+  authors: Yifan Song, Wing Yee Au, Hon Yung Wong, Brian P. Bailey, Tal August
+- title: The olmOCR Project: Building Fully Open OCR using VLMs
+  authors: Jake Poznanski, Kyle Lo, Luca Soldaini
+- title: AiraXiv: An AI-Driven Open-Access Platform for Human and AI Scientists
+  authors: Junshu Pan, Panzhong Lu, Yixuan Weng, Qiyao Sun, Fang Guo, Zijie Yang, Qiji Zhou, Yue Zhang
+- title: TruthSplit: Revealing Conditional Validity in Arguments Through Multi-Worldview Comparative Reasoning
+  authors: Benjamin Stieger, Maximilian Terberger, Thomas Huber, Christina Niklaus
+- title: TONY: an open-source TOolkit for Nlp in psYchology
+  authors: Federico Ravenda, Sofia Irene Ravenda, Volodymyr Karpenko, Daniele Montagnani, Andrea Raballo, Antonietta Mira
+- title: Formally Specifying the Intended Behavior of the Program: LLM-Driven Neuro-Symbolic Program Specification Synthesis
+  authors: Cheng Wen, Hu Junjie, YiKun Hu, Jie Su, Bin Yu, Dugang Liu, Zhiwu Xu, Sun Weidi, Shengchao Qin, Cong Tian
+- title: AnnoHID: LLM-Assisted Annotation Framework for Low-Resource Medical Texts
+  authors: Annisa Maulida Ningtyas, Guntur Budi Herwanto, Yunita Sari, Rifki Afina Putri, Filip Kovacevic, Alaa El-Ebshihy, Varvara Arzt, Florina Piroi
+- title: RECAP: An End-to-End Platform for Capturing, Replaying, and Analyzing AI-Assisted Programming Interactions
+  authors: Keyu He, Qianou Ma, Valerie Chen, Wayne Chi, Tongshuang Wu
+- title: A Dynamic Self-Evolving Extraction System
+  authors: Moin Aminnaseri, Hannah Kim, Estevam Hruschka
+- title: ThinkBooster: A Unified Framework for Seamless Test-Time Scaling of LLM Reasoning
+  authors: Vladislav Smirnov, Chieu Nguyen, Sergey Senichev, Minh Ngoc Ta, Ekaterina Fadeeva, Artem Vazhentsev, Daria Galimzianova, Nikolai Rozanov, Viktor Mazanov, Jingwei Ni, Tianyi Wu, Igor Kiselev, Mrinmaya Sachan, Iryna Gurevych, Preslav Nakov, Timothy Baldwin, Artem Shelmanov
+- title: FinReporting: An Agentic Workflow for Localized Reporting of Cross-Jurisdiction Financial Disclosure
+  authors: Fan Zhang, Mingzi Song, Rania Elbadry, Yankai Chen, Shaobo Wang, Yixi Zhou, Xunwen Zheng, Yueru He, Yuyang Dai, Georgi Georgiev, Ayesha Gull, Muhammad Usman Safder, Fan Wu, Liyuan Meng, Fengxian Ji, Junning Zhao, Xueqing Peng, Jimin Huang, Yu Chen, Xue (Steve)Liu, Preslav Nakov, Zhuohan Xie
+- title: Expert Calibration Lens for Pruning Mixture of Experts
+  authors: Luis Frentzen Salim, Chia-Chun Wu, Tran Van Nhiem, Lun-Wei Ku, Yung-Hui Li
+- title: Ryze: Evidence-Enriched Data Synthesis from Biomedical Papers
+  authors: Yeqi Huang, Yue Chen, Yanwei Ye, Guanhao Su, Luo Mai
+- title: Agentic CLEAR: Automating Multi-Level Evaluation of LLM Agents
+  authors: Asaf Yehudai, Lilach Eden, Michal Shmueli-Scheuer
+- title: FD-NL2SQL: Feedback-Driven Clinical NL2SQL that Improves with Use
+  authors: Suparno Roy Chowdhury, Tejas Anvekar, Manan Roy Choudhury, Muhammad Ali Khan, Kaneez Zahra Rubab Khakwani, M Bassam Sonbol, Irbaz Bin Riaz, Vivek Gupta
+- title: DIAGRAMS : A Review Framework for Reasoning-Level Attribution in Diagram QA
+  authors: Anirudh Iyengar Kaniyar Narayana Iyengar, Tampu Ravi Kumar, Manan Suri, Raviteja Bommireddy, Dinesh Manocha, Puneet Mathur, Vivek Gupta
+- title: SlideGuard: AI-Driven Evaluation of Graduate Student Presentation Materials
+  authors: Nikolay Butakov, Maria Khodorchenko, Nikita Mazein, Daniil Gareev, Yuri Falevskiy, Georgii Konev, Denis Nasonov
+- title: Spectra: A Mechanistic Interpretability Library for Vision-Language Models
+  authors: Clement Neo, Yongsen Zheng, Kwok-Yan Lam, Luke Ong
+- title: Demonstrating ViviDoc: Generating Interactive Documents through Human-Agent Collaboration
+  authors: Yinghao Tang, Yupeng Xie, Yingchaojie Feng, Tingfeng Lan, Wei Chen
+- title: Praat++: Multimedia Annotation System for Speech and Vocalization
+  authors: Weiran Zhang, Kenny Zhu
+- title: AgentFactory: A Self-Evolving Framework Through Executable Subagent Accumulation and Reuse
+  authors: Zhang Zhang; Shuqi Lu; Hongjin Qian; Di He; Zheng Liu
+- title: OpenGlass: A Sensing-Computing Split Architecture for Local MLLM-Driven Real-Time Visual Assistance
+  authors: Mengzhang Li, Yuan Yao
+- title: TartanMaroon: Multi-Agent Academic Advising with Iterative Negotiation and Transparent Collaboration
+  authors: Peidi Dong, Houda Bouamor, Yunze Xiao, Devi G. Kurup
+- title: GAMED.AI: A Hierarchical Multi-Agent Framework for Automated Educational Game Generation
+  authors: Shiven Agarwal, Yash Shah, Ashish Raj Shekhar, Priyanuj Bordoloi, Vivek Gupta
+- title: MOOSE-Copilot: A Web-Based Interactive Assistant for Unified Exploratory- and Fine-Grained Scientific Hypothesis Discovery
+  authors: Hongran An, Zonglin Yang

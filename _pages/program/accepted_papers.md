@@ -1,5 +1,5 @@
 ---
-title: Accepted Papers
+title: Accepted Main Conference Papers
 layout: single
 excerpt: "Accepted Main Conference Papers of ACL 2026"
 permalink: /program/accepted_papers/
@@ -9,4 +9,6 @@ toc: True
 toc_sticky: True
 ---
 
-Coming soon!
+{% for paper in site.data.papers_main %}
+  - **{{ paper.title }}**<br>*{ paper.authors }*
+{% endfor %}
