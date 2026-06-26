@@ -9,6 +9,8 @@ toc: True
 toc_sticky: True
 ---
 
+[Access the digital conference handbook](https://drive.google.com/file/d/1QiJFOmMjvDgsDo3i1XzlQnImxe3RU_Cy/view?usp=drive_link)
+
 For the detailed program, please check [here](https://docs.google.com/spreadsheets/d/16ZuzEVhY1BAeZGK9LJskLcvqacy-7YuoAaK1yXoRcFQ/edit?usp=sharing).
 
 **If you wish to switch your presentation from in-person to virtual**, please fill out this survey [https://acl2026-virtual.paperform.co/](https://acl2026-virtual.paperform.co/).
