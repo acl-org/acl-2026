@@ -66,7 +66,3 @@ Main Conference | July 5 - 7, 2026 |
 {: .dates-table}
 <br>
 <b>All deadlines are 11.59 pm <a target="_blank" href="https://www.timeanddate.com/time/zone/timezone/utc-12">UTC -12h</a> (anywhere on earth).</b>
-
-## FAQ
-
-Coming soon!
