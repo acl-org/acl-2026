@@ -88,7 +88,7 @@ Breakfast, lunch, and dinner are not provided.
 | ---------: | --------: | -------------------------- | ------------------------------ |
 | **7:30**   | **16:30** | **Registration & Conference Check In (Full Conference & Main Conference Attendees)** | **Grand Hall Foyer - Level 1** |
 |  9:00      |  9:30     | Session 1: Welcome         |                                |
-|  9:30      | 10:30     | Session 1: [Keynote: Philip Resnik (University of Maryland)](https://www.cs.umd.edu/people/resnik)   | Harbor Ballroom Level 2 |
+|  9:30      | 10:30     | Session 1: [Keynote: Philip Resnik (University of Maryland)](https://umiacs.umd.edu/~resnik)   | Harbor Ballroom Level 2 |
 | 10:30      | 11:00     | Coffee Break               |                                |
 | 11:00      | 12:30     | Session 2: Oral / Poster Session A |                        |
 | 12:30      | 14:00     | Lunch Break                |                                |
