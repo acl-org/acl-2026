@@ -49,7 +49,7 @@ UC San Diego
 
 ### Panelists
 
-![Roberto Navigli](/assets/images/committee/Roberto_Navigli.jpg){: .align-center .speaker-photo}
+![Roberto Navigli](/assets/images/speakers/Roberto_Navigli.jpg){: .align-center .speaker-photo}
 Roberto Navigli <br>
 Professor, Sapienza University of Rome & Scientific Director, Babelscape
 {: .speaker-info}
