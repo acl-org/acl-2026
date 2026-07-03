@@ -107,8 +107,7 @@ Breakfast, lunch, and dinner are not provided.
 |  1:00      |  2:00     | Session 6: [Keynote: Yue Zhang (Westlake University)](https://frcchang.github.io/) | Underline (virtual) |
 |  2:30      |  4:00     | Session 7: Virtual Presentations 2 |                        |
 | **8:30**   | **16:30** | **Registration & Conference Check In (Full Conference & Main Conference Attendees)** | **Grand Hall Foyer - Level 1** |
-|  9:00      | 10:30     | Session 8: Oral / Poster Session D |                        |
-|  9:00      | 9:30     | CL Dissertation Award |                        |
+|  9:00      | 10:30     | Session 8: Oral / Poster Session D (9:00-9:30: CL Dissertation Award) |                        |
 | 10:30      | 11:00     | Coffee Break               |                                |
 | 11:00      | 12:30     | Session 9: Oral / Poster Session E |                        |
 | 11:00      | 12:30     | Mentorship Session         |                                |
