@@ -70,7 +70,7 @@ p.speaker-bio { font-style: italic; font-size: 80%; }
 
 ![Roberto Navigli](/assets/images/speakers/Roberto_Navigli.jpg){: .align-center .speaker-photo}
 
-### Bridging Academic and Industrial AI: Lessons from BabelNet and ChatMinerva
+#### Bridging Academic and Industrial AI: Lessons from BabelNet and ChatMinerva
 
 **Sunday, July 5, 2026, 11:00–12:00**
 
