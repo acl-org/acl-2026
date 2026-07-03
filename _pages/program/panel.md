@@ -67,10 +67,10 @@ Bio to be updated soon.
 
 ![Heng Ji](/assets/images/committee/Heng_Ji.JPG){: .align-center .speaker-photo}
 Heng Ji <br>
-UIUC
+Professor, UIUC AI Center | Founding Director of Amazon | Founding Director of Capital One
 {: .speaker-info}
 
-Bio to be updated soon.
+[Heng Ji](https://blender.cs.illinois.edu/hengji.html) is a Professor of Computer Science at University of Illinois Urbana-Champaign. She is the Founding Director of [Amazon-Illinois AI Center](https://aice.illinois.edu/) and [CapitalOne-Illinois AI Center](https://siebelschool.illinois.edu/news/capitalone-illinois-asks-center). She is named as an ACL Fellow in 2025 for her "significant contributions to information extraction, multimodal and multilingual knowledge extraction and AI for science." The awards she received include Outstanding Paper Award at ACL 2024, two Outstanding Paper Awards at NAACL 2024, "Young Scientist" by the World Laureates Association, "Young Scientist" and a member of the Global Future Council on the Future of Computing by the World Economic Forum, UIUC “Outstanding Advisor of the Year”, Amazon Scholar, "Women Leaders of Conversational AI", "AI's 10 to Watch" Award, NSF CAREER award, "Best of ICDM 2013" paper award, "Best of SDM 2013" paper award, ACL 2020 Best Demo Paper Award and NAACL 2021 Best Demo Paper Award. She served as the PC chair of many conferences including NAACL-HLT2018 and AACL-IJCNLP2022.
 {: .speaker-bio}
 
 ![Trung Bui](/assets/images/committee/Trung_Bui.jpg){: .align-center .speaker-photo}
