@@ -96,7 +96,7 @@ Breakfast, lunch, and dinner are not provided.
 | 14:00      | 15:30     | Linguistics Symposium - **Linguistics and NLP in the LLM Era** (Allyson Ettinger, Richard Futrell, Zoey Liu and Tom McCoy) |                        |
 | 15:30      | 16:00     | Coffee Break               |                                |
 | 16:00      | 17:30     | Session 4: Oral / Poster Session C |                        |
-| 16:00      | 17:30     | Panel Discussion: The Next Big Questions in NLP: What Should Students Work On? | Gaslamp A&B, Session Chair(s): Juan Diego Rodriguez, Panelists: Jordan Boyd-Graber (University of Maryland), Yulia Tsvetkov (University of Washington), Iryna Gurevych (TU Darmstadt), Preslav Nakov (MBZUAI) |
+| 16:00      | 17:30     | Panel Discussion: The Next Big Questions in NLP: What Should Students Work On? | Gaslamp A&B<br> Session Chair(s): Juan Diego Rodriguez<br> Panelists: Jordan Boyd-Graber (University of Maryland), Yulia Tsvetkov (University of Washington), Iryna Gurevych (TU Darmstadt), Preslav Nakov (MBZUAI) |
 | 18:00      | 19:30     | Session 5: Virtual Presentations 1 |                        |
 
 ### Monday, July 6th: Main Conference Day 2
