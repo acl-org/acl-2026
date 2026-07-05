@@ -483,7 +483,7 @@ Contact: [acl-2026-visa-chairs@googlegroups.com](mailto:acl-2026-visa-chairs@goo
     email = "acl-2026-visa-chairs@googlegroups.com"
 %}
 
-<h2>Conflict Chair</h2>
+<h2>Conflict Chairs</h2>
 
 {% include committee-member.html
     name="Isabelle Augenstein"
@@ -491,6 +491,14 @@ Contact: [acl-2026-visa-chairs@googlegroups.com](mailto:acl-2026-visa-chairs@goo
     site=""
     institution="University of Copenhagen"
     email = "augenstein@di.ku.dk"
+%}
+
+{% include committee-member.html
+    name="Joel Tetreault"
+    picture="/assets/images/committee/Joel_Tetreault.jpg"
+    site=""
+    institution="Dataminr"
+    email = "tetreaul@gmail.com"
 %}
 
 <h2>ARR Editors-in-Chief</h2>
