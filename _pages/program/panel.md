@@ -62,7 +62,9 @@ Iz Beltagy <br>
 Leading Olmo Scaling @ Ai2 | Cofounder @ Envive AI
 {: .speaker-info}
 
-Bio to be updated soon.
+Iz Beltagy leads the Scaling team at [Ai2](https://allenai.org/), where he directs the research and engineering behind future releases of [OLMo](https://allenai.org/olmo), Ai2's family of fully open language models, advancing the state of the art in open-source AI.
+Before returning to Ai2, he co-founded [Envive](https://www.envive.ai/), a startup focusing on post-training and RL for e-commerce, and took the company from zero to pre-Series B. Earlier at Ai2, he was the research lead for OLMo from its inception. His work on open language models goes back to 2018, with widely used contributions including SciBERT, Longformer, and BLOOM, making him a longtime contributor to open AI research well before it became a mainstream pursuit. His research has been recognized with awards at ACL 2024, AKBC 2021, ACL 2020.
+Iz received his PhD in Computer Science from the University of Texas at Austin in 2016, advised by Ray Mooney and Katrin Erk.
 {: .speaker-bio}
 
 ![Heng Ji](/assets/images/committee/Heng_Ji.JPG){: .align-center .speaker-photo}
