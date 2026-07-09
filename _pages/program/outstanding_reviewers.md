@@ -5,9 +5,11 @@ excerpt: "ACL 2026 Outstanding Reviewer Awards"
 permalink: /program/outstanding_reviewers/
 sidebar:
   nav: "program"
+toc: True
+toc_sticky: True
 ---
 
-## CL Distinguished Reviewer Award (Class of 2026)
+## CL Distinguished Reviewers (Class of 2026)
 
  - Nate Chambers
  - Jason Eisner
