@@ -7,7 +7,7 @@ sidebar:
   nav: "program"
 ---
 
-# CL Distinguished Reviewer Award (Class of 2026)
+## CL Distinguished Reviewer Award (Class of 2026)
 
  - Nate Chambers
  - Jason Eisner
@@ -24,7 +24,7 @@ sidebar:
  - Edward Stabler
  - Zhongyu Wei
 
-# Great Reviewers
+## Great Reviewers
 
  - Andreas Ruckle
  - Adam Nohejl
