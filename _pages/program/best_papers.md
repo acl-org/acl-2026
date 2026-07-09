@@ -13,25 +13,25 @@ toc_sticky: True
  - **Memory Efficiency and Resource-Rational Encoding in Sentence Processing**<br>*Weijie Xu, Brian Dillon, Richard Futrell*
  - **Characterizing the Expressivity of Local Attention in Transformers**<br>*Jiaoda Li, Ryan Cotterell*
 
-## Best Theme Paper
+## Best Theme Papers
 
  - **CoSToM: Causal-oriented Steering for Intrinsic Theory-of-Mind Alignment in Large Language Models**<br>*Mengfan Li, Xuanhua Shi, Yang Deng*
  - **Mapping the Circumplex of Affect: Geometric Analysis of Emotion Representations via Hyperspherical Contrastive Learning**<br>*Yusuke Yamauchi, Akiko Aizawa*
 
-## Best Resource Paper
+## Best Resource Papers
 
  - **HSCodeComp: A Realistic and Expert-level Agent Benchmark for Hierarchical Rule Application**<br>*Tian Lan, Yiqian Yang, Qianghuai Jia, Li Zhu, Hui Jiang, Hang Zhu, Weihua Luo, Longyue Wang*
  - **ImplicitMemBench: Measuring Unconscious Behavioral Adaptation in Large Language Models**<br>*Chonghan Qin, Xiachong Feng, Weitao Ma, Xiaocheng Feng, Lingpeng Kong*
  - **Audio MultiChallenge: A Multi-Turn Evaluation of Spoken Dialogue Systems on Natural Human Interaction**<br>*Advait Gosai, Tyler Vuong, Utkarsh Tyagi, Steven Li, Wenjia You, Miheer Bavare, Arda Ucar, Zhongwang Fang, Brian Jang, Bing Liu, Yunzhong He*
  - **VeriTaS: The First Dynamic Benchmark for Multimodal Automated Fact-Checking**<br>*Mark Rothermel, Marcus Kornmann, Marcus Rohrbach, Anna Rohrbach*
 
-## Best Social Impact Paper
+## Best Social Impact Papers
 
  - **DIA-HARM: Dialectal Disparities in Harmful Content Detection Across 50 English Dialects**<br>*Jason S Lucas, Matt Murtagh White, Ali Al-Lawati, Uchendu Uchendu, Adaku Uchendu, Dongwon Lee*
  - **Your Students Don’t Use LLMs Like You Wish They Did**<br>*Sebastian Kobler, Matthew Clemson, Angela Sun, Jonathan K. Kummerfeld*
  - **Afri-MCQA: Multimodal Cultural Question Answering for African Languages**<br>*Atnafu Lambebo Tonja, Srija Anand, Emilio Villa-Cueva, Israel Abebe Azime, Jesujoba Oluwadara Alabi, Muhidin A Mohamed, Debela Desalegn Yadeta, Negasi Haile Abadi, Abigail Oppong, Nnaemeka Casmir Obiefuna, Idris Abdulmumin, Naome A Etori, Eric Peter Wairagala, Kanda Patrick Tshinu, Imanigirimbabazi Emmanuel, Gabofetswe Malema, Alham Fikri Aji, David Ifeoluwa Adelani, Thamar Solorio*
 
-## Outstanding Paper
+## Outstanding Papers
 
  - **MauBERT: Universal Phonetic Inductive Biases for Few-Shot Acoustic Units Discovery**<br>*Angelo Ortiz Tandazo, Manel Khentout, Youssef Benchekroun, Thomas Hueber, Emmanuel Dupoux*
  - **Evolutionary Guided Decoding: Iterative Value Refinement for LLMs**<br>*Zhenhua Liu, Lijun Li, Ruizhe Chen, Yuxian Jiang, Tong Zhu, Zhaochen Su, Wenliang Chen, Jing Shao*
@@ -56,7 +56,7 @@ toc_sticky: True
 
  - **The olmOCR Project: Building Fully Open OCR using VLMs**<br>*Jake Poznanski, Kyle Lo, Luca Soldaini*
 
-## Student Research Workshop Best Paper
+## Student Research Workshop Best Papers
 
  - **Evaluation of Multilingual Ability to Use Spatial Deictic Expressions in Vision-Language Models**<br>*Kaito Watanabe, Taisei Yamamoto, Tomoki Doi, Hitomi Yanaka*
  - **BanglaSocialBench: A Benchmark for Evaluating Sociopragmatic and Cultural Alignment of LLMs in Bangladeshi Social Interaction**<br>*Tanvir Ahmed Sijan, S. M Golam Rifat, Pankaj Chowdhury Partha, Md. Tanjeed Islam, Md. Musfique Anwar*
