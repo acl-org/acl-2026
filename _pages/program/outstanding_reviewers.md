@@ -7,4 +7,155 @@ sidebar:
   nav: "program"
 ---
 
-Coming soon!
+# CL Distinguished Reviewer Award (Class of 2026)
+
+ - Nate Chambers
+ - Jason Eisner
+ - Francis Ferraro
+ - Ivan Habernal
+ - Xianpei Han
+ - Sophie Hao
+ - Eduard Hovy
+ - Fintan Mallory
+ - Yevgen Matusevych
+ - Tristan Miller
+ - Agata Savary
+ - Dominik Schlechtweg
+ - Edward Stabler
+ - Zhongyu Wei
+
+# Great Reviewers
+
+ - Andreas Ruckle
+ - Adam Nohejl
+ - Alex Wang
+ - Ankita Pasad
+ - Aditya Kalyanpur
+ - AiTi Aw
+ - Alex C. Williams
+ - Alberto Cazzaniga
+ - Alexandra DeLucia
+ - Ali Marashian
+ - Ayana Niwa
+ - Anwoy Chatterjee
+ - Alessio Cocchieri
+ - Brihi Joshi
+ - Benjamin Minixhofer
+ - Chenan Wang
+ - Changbo Wang
+ - Chun Kit Chan
+ - Caleb Chen Cao
+ - Chunyu Miao
+ - Christian Wallraven
+ - Deqing Fu
+ - Dennis Aumiller
+ - David E. Losada
+ - David Schlangen
+ - Dawei Yin
+ - Ewan Dunbar
+ - Eva Vanmassenhove
+ - Federico Ranaldi
+ - Giuliano Martinelli
+ - Gaurav Verma
+ - Hans Ole Hatzel
+ - Hongxing Wang
+ - Hugh Mee Wong
+ - Hao Wang
+ - Hanning Zhang
+ - Haolin Deng
+ - Harry Shomer
+ - Julie Hunter
+ - Justin Vasselli
+ - Jeffrey S. Sorensen
+ - Joke Daems
+ - Jiashu Zhao
+ - Jungseob Lee
+ - Julie Kallini
+ - Johan Bos
+ - Jiaxin Zhang
+ - James Mayfield
+ - Jianxin Liao
+ - Jeonghun Baek
+ - Jinchang Hou
+ - Jiayi Shen
+ - Jianshu Zhang
+ - Kunal Dhawan
+ - Kosuke Yamada
+ - Kenneth Kwok
+ - Katherine Rose Driggs-Campbell
+ - Kilho Son
+ - Lei Chen
+ - Leandro Von Werra
+ - Lindia Tjuatja
+ - Lei Xie
+ - Lechen Zhang
+ - Luyao Cheng
+ - Lei Yang
+ - Matthew Lease
+ - Mohammad Rashedul Hasan
+ - Md Messal Monem Miah
+ - Marek Kadlcik
+ - Marine Carpuat
+ - Malvina Nissim
+ - Max Muller-Eberstein
+ - Ming-Bin Chen
+ - Maud Ehrmann
+ - Maja Brinkmann
+ - Max Ploner
+ - Michael Hanna
+ - Mi-Young Kim
+ - Meghdut Sengupta
+ - Md. Atabuzzaman
+ - Nikhil Singh
+ - Nicholas Mattei
+ - Neha Sengupta
+ - Nathan Kallus
+ - Orfeas Menis Mastromichalakis
+ - Paul Youssef
+ - Pedro Javier Ortiz Suarez
+ - Pooja Jhunjhunwala
+ - Qiyu Wu
+ - Quyu Kong
+ - Ryo Kamoi
+ - Remi Cardon
+ - Rachel Rudinger
+ - Rajakrishnan P Rajkumar
+ - Roxanne El Baff
+ - Sourajit Saha
+ - Shirin Nilizadeh
+ - Shiqi Wang
+ - Shafiuddin Rehan Ahmed
+ - Sabine Weber
+ - Sony Trenous
+ - Sunav Choudhary
+ - Seungryong Kim
+ - Susanna Rucker
+ - Samuel Cahyawijaya
+ - Somnath Banerjee
+ - Sai Chetan Chinthakindi
+ - Salam Albatarni
+ - Sanne Hoeken
+ - Shuhao Xing
+ - Tobias Kafer
+ - Taiki Miyagawa
+ - Taro Miyazaki
+ - Tianyi Hu
+ - Varun Kotte
+ - Wei Yao
+ - Xiaokun Zhang
+ - Xincan Feng
+ - Yining Wang
+ - Yisong Miao
+ - Yejin Jeon
+ - Yang Gao
+ - Yannick Assogba
+ - Youngsoo Jang
+ - Yinan Yu
+ - Yusuke Miyao
+ - Youwei Pang
+ - Yiyang Feng
+ - Yong-Yeol Ahn
+ - Yun Shen
+ - Zhepei Wei
+ - Ziyue Wang
+ - Zhenbo Xu
