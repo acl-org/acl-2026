@@ -59,7 +59,7 @@ toc_sticky: True
  - **From Local to Global: Revisiting Structured Pruning Paradigms for Large Language Models**<br>*Ziyan Wang, Enmao Diao, Qi Le, Pu Wang, Minwoo Lee, Shu-ping Yeh, Evgeny Stupachenko, Hao Feng, Li Yang*
  - **Attn-GS: Attention-Guided Context Compression for Efficient Personalized LLMs**<br>*Shenglai Zeng, Tianqi Zheng, Chuan Tian, Dante Everaert, Yau-Shian Wang, Yupin Huang, Michael J. Morais, Rohit Patki, Jinjin Tian, Xinnan Dai, Kai Guo, Monica Xiao Cheng, Hui Liu*
  - **Glyph: Scaling Context Windows via Text Visualization**<br>*Jiale Cheng, Yusen Liu, Xinyu Zhang, Yulin Fei, Wenyi Hong, Ruiliang Lyu, Weihan Wang, Zhe Su, Xiaotao Gu, Xiao Liu, Yushi Bai, Jie Tang, Hongning Wang, Minlie Huang*
- - **TA-GRPO-$d$: Trajectory-Aware GRPO for Optimizing Denoising Trajectories in Diffusion LLMs**<br>*Gyunyeop Kim, Sangwoo Kang*
+ - **TA-GRPO-*d*: Trajectory-Aware GRPO for Optimizing Denoising Trajectories in Diffusion LLMs**<br>*Gyunyeop Kim, Sangwoo Kang*
  - **Why Local Attention Helps: An Expressivity View**<br>*Jiaoda Li, Ryan Cotterell*
  - **Execution as Verification: Fine-Grained Self-Correcting Reasoning for Complex KBQA**<br>*Minghan Zhang, Zhen Yang, Haodong Zou, Jie Chen, Zhen Duan, Shu Zhao*
  - **Tears or Cheers? Benchmarking LLMs via Culturally Elicited Distinct Affective Responses**<br>*Chongyuan Dai, Yaling Shen, Jinpeng Hu, Zihan Gao, Jia Li, Yishun Jiang, Yaxiong Wang, Liu Liu, Zongyuan Ge*
