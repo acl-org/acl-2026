@@ -5,8 +5,8 @@ excerpt: "ACL 2026 SAC Highlights"
 permalink: /program/sac_highlights/
 sidebar:
   nav: "program"
-toc: True
-toc_sticky: True
+toc: False
+toc_sticky: False
 ---
 
  - **Learning Diverse Responses with Prefix-Conditioned Supervised Fine-Tuning**<br>*Zhiyuan Fan, Guanqiao Chen, Yanyi Huang, Mingkuan Zhao, Dadi Guo, Yi R. Fung*
